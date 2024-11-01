@@ -1,4 +1,8 @@
--- cwhat different ages love?
+/* 
+ IN THE RESULTS HERE: THIRD FAV PET FOR SENIORS IS EXOTIC, DOESN'T SEEM REALISTIC, BUT I WILL LEAVE IT
+ TO DEMONSTRATE DATA INTEGRITY.
+ */
+-- what different ages love?
 WITH age_group AS (
     SELECT customer_id,
         date_of_birth,
@@ -18,7 +22,7 @@ total_customers AS (
 ),
 pet_rank AS (
     SELECT age_category,
-        count(pet_preferences) AS count_pet,
+        count(pet_preferences) AS preference_count,
         DENSE_RANK() OVER(
             PARTITION BY age_category
             ORDER BY count(pet_preferences) DESC
@@ -27,11 +31,13 @@ pet_rank AS (
     FROM age_group
         cross JOIN total_customers tc
     WHERE pet_preferences IS NOT NULL
+        AND pet_preferences <> 'No Preference'
     GROUP BY age_category,
         pet_preferences
 )
 SELECT age_category,
     pet_preferences,
-    rank
+    rank,
+    preference_count
 FROM pet_rank
 where rank in (1, 2, 3)
