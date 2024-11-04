@@ -80,4 +80,4 @@ we can see that we only have 7 species out of 11
 all (snakes, lizards, hamsters, rabbits) are adopted, 
 given that they are not arriving to the center very often
 
-*/-
+*/

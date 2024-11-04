@@ -1,5 +1,4 @@
 -- avg, min, max staying period per species (adopted)
-
 WITH stay_period as (
     SELECT adoption_id,
         species_name,
@@ -23,15 +22,14 @@ WITH stay_period as (
         LEFT JOIN species s ON p.species_id = s.species_id
 )
 SELECT species_name,
-    ROUND(MIN(stay_period_months)*30.44, 0) AS min_stay_period_days,
+    ROUND(MIN(stay_period_months) * 30.44, 0) AS min_stay_period_days,
     ROUND(MIN(stay_period_months), 2) AS min_stay_period_months,
     ROUND(AVG(stay_period_months), 2) AS avg_stay_period_months,
     ROUND(MAX(stay_period_months), 2) AS max_stay_period_months,
-    ROUND(MAX(stay_period_months)/12, 2) AS mxa_stay_period_years,
+    ROUND(MAX(stay_period_months) / 12, 2) AS mxa_stay_period_years,
     DENSE_RANK() OVER (
         ORDER BY ROUND(AVG(stay_period_months), 2) DESC
     ) AS rank
 FROM stay_period
 GROUP BY species_name
 ORDER BY rank;
-
