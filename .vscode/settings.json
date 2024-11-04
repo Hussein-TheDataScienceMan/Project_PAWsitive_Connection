@@ -1,0 +1,7 @@
+{
+    "sql-formatter.tabWidth": 4,
+    "sql-formatter.uppercase": true,
+    "sql-formatter.linesBetweenQueries": 2,
+    "sql-formatter.indentStyle": "standard",
+    "sql-formatter.keywordCase": "uppercase"
+}
