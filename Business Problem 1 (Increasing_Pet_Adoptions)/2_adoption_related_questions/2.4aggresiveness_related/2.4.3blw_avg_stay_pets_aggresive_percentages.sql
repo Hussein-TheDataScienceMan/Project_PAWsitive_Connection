@@ -1,16 +1,16 @@
 WITH totals AS (
     SELECT
-        s.species_name,
+        basp.species_name,
         COUNT(*) AS total_of_species
     FROM
-        pets p
-        LEFT JOIN species s ON p.species_id = s.species_id
+        blw_avg_stayed_pets basp
+        
     GROUP BY
-        s.species_name
+        basp.species_name
 )
 SELECT
-    s.species_name,
-    -- Counts for each aggressiveness level
+    basp.species_name,
+     -- Counts for each aggressiveness level
     COUNT(
         CASE
             WHEN aggressiveness = 'Low' THEN 1
@@ -27,7 +27,7 @@ SELECT
         END
     ) AS count_of_high,
     -- Percentages for each aggressiveness level
-    s.species_name,
+    basp.species_name,
     ROUND(
         COUNT(
             CASE
@@ -54,12 +54,13 @@ SELECT
     ) AS percent_of_high,
     -- Total count for reference
     t.total_of_species
-FROM
-    pets p
-    LEFT JOIN species s ON p.species_id = s.species_id
-    LEFT JOIN totals t ON s.species_name = t.species_name
+
+
+FROM blw_avg_stayed_pets basp
+LEFT JOIN pets p ON basp.pet_id = p.pet_id
+LEFT JOIN totals t ON basp.species_name = t.species_name
 GROUP BY
-    s.species_name,
+    basp.species_name,
     t.total_of_species
-ORDER BY
-    count_of_medium DESC;
+
+

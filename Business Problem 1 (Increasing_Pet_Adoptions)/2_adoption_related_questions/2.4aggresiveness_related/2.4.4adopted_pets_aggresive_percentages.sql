@@ -5,6 +5,7 @@ WITH totals AS (
     FROM
         pets p
         LEFT JOIN species s ON p.species_id = s.species_id
+    WHERE p.adopted_status = 'Adopted'
     GROUP BY
         s.species_name
 )
@@ -58,8 +59,10 @@ FROM
     pets p
     LEFT JOIN species s ON p.species_id = s.species_id
     LEFT JOIN totals t ON s.species_name = t.species_name
+WHERE p.adopted_status = 'Adopted'
 GROUP BY
     s.species_name,
     t.total_of_species
+    
 ORDER BY
     count_of_medium DESC;
