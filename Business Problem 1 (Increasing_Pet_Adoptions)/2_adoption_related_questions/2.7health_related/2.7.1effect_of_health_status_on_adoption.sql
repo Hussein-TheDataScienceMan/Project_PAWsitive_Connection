@@ -6,21 +6,21 @@ WITH latest_healthy_checkups AS (
         ROW_NUMBER() OVER (PARTITION BY hr.pet_id ORDER BY hr.checkup_date DESC) AS rn
     FROM
         health_records hr
-    WHERE
-        hr.health_status = 'Healthy'
 )
-
 SELECT
     s.species_name,
+    lhc.health_status,
     p.adopted_status,
-    COUNT(lhc.pet_id) AS count_of_healthy
+    COUNT(*) AS count
 FROM
-    pets p
+    latest_healthy_checkups lhc
+    LEFT JOIN pets p ON lhc.pet_id = p.pet_id
     LEFT JOIN species s ON p.species_id = s.species_id
-    RIGHT JOIN latest_healthy_checkups lhc ON p.pet_id = lhc.pet_id AND lhc.rn = 1
+WHERE
+    lhc.rn = 1
 GROUP BY
     s.species_name,
+    lhc.health_status,
     p.adopted_status
 ORDER BY
-    species_name,
-    adopted_status;
+    s.species_name,lhc.health_status, p.adopted_status

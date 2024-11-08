@@ -26,10 +26,10 @@ SELECT species_name,
     ROUND(MIN(stay_period_months), 2) AS min_stay_period_months,
     ROUND(AVG(stay_period_months), 2) AS avg_stay_period_months,
     ROUND(MAX(stay_period_months), 2) AS max_stay_period_months,
-    ROUND(MAX(stay_period_months) / 12, 2) AS mxa_stay_period_years,
+    ROUND(MAX(stay_period_months) / 12, 2) AS max_stay_period_years,
     DENSE_RANK() OVER (
         ORDER BY ROUND(AVG(stay_period_months), 2) DESC
-    ) AS rank
+    ) AS rank_longest_to_shortest
 FROM stay_period
 GROUP BY species_name
-ORDER BY rank;
+ORDER BY rank_longest_to_shortest;
