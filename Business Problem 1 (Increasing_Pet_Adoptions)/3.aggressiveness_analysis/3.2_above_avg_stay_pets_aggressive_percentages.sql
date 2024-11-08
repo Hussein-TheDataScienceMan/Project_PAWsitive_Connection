@@ -1,93 +1,43 @@
-WITH totals AS (
+/* 
+ Query: Calculate distribution of aggressiveness levels for pets with above-average stay periods
+ Purpose: This query provides counts and percentages for each aggressiveness level (Low, Medium, High) 
+ by species, focusing on pets whose stay period is above average.
+ */
+WITH species_totals_above_avg AS (
+    -- Calculate the total count of pets for each species with above-average stay periods
     SELECT
-        aasp.species_name,
+        pspr.species_name,
         COUNT(*) AS total_of_species
     FROM
-        abv_avg_stayed_pets aasp
-        
+        pet_stay_period_rate pspr
+    WHERE
+        pspr.stay_period_from_avg = 'Above Avg'
     GROUP BY
-        aasp.species_name
+        pspr.species_name
 )
 SELECT
-    aasp.species_name,
-     -- Counts for each aggressiveness level
-    COUNT(
-        CASE
-            WHEN aggressiveness = 'Low' THEN 1
-        END
-    ) AS count_of_low,
-    COUNT(
-        CASE
-            WHEN aggressiveness = 'Medium' THEN 1
-        END
-    ) AS count_of_medium,
-    COUNT(
-        CASE
-            WHEN aggressiveness = 'High' THEN 1
-        END
-    ) AS count_of_high,
-    -- Percentages for each aggressiveness level
-    aasp.species_name,
-    ROUND(
-        COUNT(
-            CASE
-                WHEN aggressiveness = 'Low' THEN 1
-            END
-        ) * 100.0 / t.total_of_species,
-        2
-    ) AS percent_of_low,
-    ROUND(
-        COUNT(
-            CASE
-                WHEN aggressiveness = 'Medium' THEN 1
-            END
-        ) * 100.0 / t.total_of_species,
-        2
-    ) AS percent_of_medium,
-    ROUND(
-        COUNT(
-            CASE
-                WHEN aggressiveness = 'High' THEN 1
-            END
-        ) * 100.0 / t.total_of_species,
-        2
-    ) AS percent_of_high,
-    -- Total count for reference
-    t.total_of_species
-
-
-FROM abv_avg_stayed_pets aasp
-LEFT JOIN pets p ON aasp.pet_id = p.pet_id
-LEFT JOIN totals t ON aasp.species_name = t.species_name
-GROUP BY
-    aasp.species_name,
-    t.total_of_species
-
-
-
-    s.species_name,
+    pspr.species_name,
     -- Counts for each aggressiveness level
     COUNT(
         CASE
-            WHEN aggressiveness = 'Low' THEN 1
+            WHEN p.aggressiveness = 'Low' THEN 1
         END
     ) AS count_of_low,
     COUNT(
         CASE
-            WHEN aggressiveness = 'Medium' THEN 1
+            WHEN p.aggressiveness = 'Medium' THEN 1
         END
     ) AS count_of_medium,
     COUNT(
         CASE
-            WHEN aggressiveness = 'High' THEN 1
+            WHEN p.aggressiveness = 'High' THEN 1
         END
     ) AS count_of_high,
     -- Percentages for each aggressiveness level
-    s.species_name,
     ROUND(
         COUNT(
             CASE
-                WHEN aggressiveness = 'Low' THEN 1
+                WHEN p.aggressiveness = 'Low' THEN 1
             END
         ) * 100.0 / t.total_of_species,
         2
@@ -95,7 +45,7 @@ GROUP BY
     ROUND(
         COUNT(
             CASE
-                WHEN aggressiveness = 'Medium' THEN 1
+                WHEN p.aggressiveness = 'Medium' THEN 1
             END
         ) * 100.0 / t.total_of_species,
         2
@@ -103,7 +53,7 @@ GROUP BY
     ROUND(
         COUNT(
             CASE
-                WHEN aggressiveness = 'High' THEN 1
+                WHEN p.aggressiveness = 'High' THEN 1
             END
         ) * 100.0 / t.total_of_species,
         2
@@ -111,11 +61,11 @@ GROUP BY
     -- Total count for reference
     t.total_of_species
 FROM
-    pets p
-    LEFT JOIN species s ON p.species_id = s.species_ida
-    LEFT JOIN totals t ON s.species_name = t.species_nme
+    pet_stay_period_rate pspr
+    LEFT JOIN pets p ON pspr.pet_id = p.pet_id
+    LEFT JOIN species_totals_above_avg t ON pspr.species_name = t.species_name
+WHERE
+    pspr.stay_period_from_avg = 'Above Avg'
 GROUP BY
-    s.species_name,
-    t.total_of_species
-ORDER BY
-    count_of_medium DESC;
+    pspr.species_name,
+    t.total_of_species;

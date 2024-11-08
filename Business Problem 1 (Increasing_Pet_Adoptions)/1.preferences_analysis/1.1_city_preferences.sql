@@ -1,35 +1,48 @@
--- what pets cities love?
+/* 
+Query: Determine the most popular pet preference by city
+Purpose: This query ranks pet preferences for each city, showing only the top preference per city,
+along with the percentage of customers who prefer this type. 
+ */
 
-
-WITH pet_rank AS (
-    SELECT city,
+WITH ranked_preferences AS (
+    SELECT 
+        city,
         COUNT(pet_preferences) AS preference_count,
         pet_preferences,
         DENSE_RANK() OVER (
-            PARTITION BY CITY
+            PARTITION BY city
             ORDER BY COUNT(pet_preferences) DESC
-        ) as rank
-    FROM customers
-    WHERE pet_preferences is not NULL
-    GROUP BY city,
+        ) AS rank
+    FROM 
+        customers
+    WHERE 
+        pet_preferences IS NOT NULL
+    GROUP BY 
+        city,
         pet_preferences
 ),
 city_totals AS (
-    SELECT CITY,
+    SELECT 
+        city,
         COUNT(pet_preferences) AS total_count
-    FROM customers
-    GROUP BY city
+    FROM 
+        customers
+    GROUP BY 
+        city
 )
-SELECT ct.city,
-    pr.pet_preferences,
-    preference_count,
-    ROUND(
-        (pr.preference_count * 100.0 / ct.total_count),
-        2
-    ) AS percentage,
-    rank
-FROM pet_rank pr
-    JOIN city_totals ct ON pr.city = ct.city
-WHERE rank = 1
-ORDER BY pet_preferences,
-    percentage DESC
+
+SELECT 
+    ct.city,
+    rp.pet_preferences,
+    rp.preference_count,
+    ROUND((rp.preference_count * 100.0 / ct.total_count), 2) AS percentage,
+    rp.rank
+FROM 
+    ranked_preferences rp
+JOIN 
+    city_totals ct ON rp.city = ct.city
+WHERE 
+    rp.rank = 1  -- Show only the top preference per city
+ORDER BY 
+    rp.pet_preferences,
+    percentage DESC;

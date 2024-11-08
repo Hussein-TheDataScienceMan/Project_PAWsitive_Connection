@@ -1,6 +1,7 @@
 /* 
- Query: Calculate the male-to-female ratio in each age group
- Purpose: This query categorizes customers into age groups and counts the number of males and females in each group.
+ Query: Calculate customer distribution across age segments
+ Purpose: This query segments customers into age categories and calculates the percentage distribution 
+ of each age category within the total customer base.
  */
  
 WITH age_group AS (
@@ -19,14 +20,24 @@ WITH age_group AS (
         END AS age_category
     FROM
         customers
-) -- Count the number of males and females in each age category
+),
+total_customers AS (
+    -- Calculate the total number of customers
+    SELECT
+        COUNT(*) AS total
+    FROM
+        customers
+) -- Count customers in each age category and calculate percentage of total customer base
 SELECT
     ag.age_category,
-    c.gender,
-    COUNT(*) AS gender_count
+    COUNT(*) AS age_group_count,
+    ROUND(
+        (COUNT(*) * 100.0 / tc.total),
+        2
+    ) AS percentage
 FROM
     age_group ag
-    JOIN customers c ON ag.customer_id = c.customer_id
+    CROSS JOIN total_customers tc
 GROUP BY
     ag.age_category,
-    c.gender;
+    tc.total;

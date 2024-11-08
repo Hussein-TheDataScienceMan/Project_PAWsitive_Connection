@@ -1,37 +1,43 @@
-WITH totals AS (
+/* 
+ Query: Calculate distribution of aggressiveness levels for pets with below-average stay periods
+ Purpose: This query provides counts and percentages for each aggressiveness level (Low, Medium, High) 
+ by species, focusing on pets whose stay period is below average.
+ */
+WITH species_totals_below_avg AS (
+    -- Calculate the total count of pets for each species with below-average stay periods
     SELECT
-        basp.species_name,
+        pspr.species_name,
         COUNT(*) AS total_of_species
     FROM
-        blw_avg_stayed_pets basp
-        
+        pet_stay_period_rate pspr
+    WHERE
+        pspr.stay_period_from_avg = 'Below Avg'
     GROUP BY
-        basp.species_name
+        pspr.species_name
 )
 SELECT
-    basp.species_name,
-     -- Counts for each aggressiveness level
+    pspr.species_name,
+    -- Counts for each aggressiveness level
     COUNT(
         CASE
-            WHEN aggressiveness = 'Low' THEN 1
+            WHEN p.aggressiveness = 'Low' THEN 1
         END
     ) AS count_of_low,
     COUNT(
         CASE
-            WHEN aggressiveness = 'Medium' THEN 1
+            WHEN p.aggressiveness = 'Medium' THEN 1
         END
     ) AS count_of_medium,
     COUNT(
         CASE
-            WHEN aggressiveness = 'High' THEN 1
+            WHEN p.aggressiveness = 'High' THEN 1
         END
     ) AS count_of_high,
     -- Percentages for each aggressiveness level
-    basp.species_name,
     ROUND(
         COUNT(
             CASE
-                WHEN aggressiveness = 'Low' THEN 1
+                WHEN p.aggressiveness = 'Low' THEN 1
             END
         ) * 100.0 / t.total_of_species,
         2
@@ -39,7 +45,7 @@ SELECT
     ROUND(
         COUNT(
             CASE
-                WHEN aggressiveness = 'Medium' THEN 1
+                WHEN p.aggressiveness = 'Medium' THEN 1
             END
         ) * 100.0 / t.total_of_species,
         2
@@ -47,20 +53,19 @@ SELECT
     ROUND(
         COUNT(
             CASE
-                WHEN aggressiveness = 'High' THEN 1
+                WHEN p.aggressiveness = 'High' THEN 1
             END
         ) * 100.0 / t.total_of_species,
         2
     ) AS percent_of_high,
     -- Total count for reference
     t.total_of_species
-
-
-FROM blw_avg_stayed_pets basp
-LEFT JOIN pets p ON basp.pet_id = p.pet_id
-LEFT JOIN totals t ON basp.species_name = t.species_name
+FROM
+    pet_stay_period_rate pspr
+    LEFT JOIN pets p ON pspr.pet_id = p.pet_id
+    LEFT JOIN species_totals_below_avg t ON pspr.species_name = t.species_name
+WHERE
+    pspr.stay_period_from_avg = 'Below Avg'
 GROUP BY
-    basp.species_name,
-    t.total_of_species
-
-
+    pspr.species_name,
+    t.total_of_species;

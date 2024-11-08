@@ -1,13 +1,11 @@
-/* Calculating avg age of adopted pets on adoption date vs avg age of non-adopted pets as of 31-12-2023
- I don't think it's usefull but i will just keep it
-
-  i don't think that it's practical to analyze any data related to age here because 
-it won't give any realistic results because when to calculate the age of the pets, i don't see it reasonable to have the age of adopted pets calculated on adoption day and not adopted on 31st for the above avg and below avg pets, it's only slightly usefull for the age on adoptioon date and that's it  
-
-
+/* 
+ Query: Calculate average age of adopted vs. non-adopted pets by species
+ Purpose: This query calculates the average age at which pets were adopted compared to the current age of non-adopted pets as of December 31, 2023.
+ Note: Since the reference date differs between adopted (adoption date) and non-adopted pets (2023-12-31), interpreting comparisons between these groups may be less meaningful.
  */
 SELECT
     s.species_name,
+    -- Average age of pets at the time of adoption
     ROUND(
         AVG(
             CASE
@@ -16,6 +14,7 @@ SELECT
         ) :: numeric,
         2
     ) AS avg_age_at_adoption,
+    -- Average age of non-adopted pets as of December 31, 2023
     ROUND(
         AVG(
             CASE

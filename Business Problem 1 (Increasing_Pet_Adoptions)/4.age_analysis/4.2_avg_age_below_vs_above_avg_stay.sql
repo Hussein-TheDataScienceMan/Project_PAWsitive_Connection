@@ -1,30 +1,13 @@
-/* i don't think that it's practical to analyze any data related to age here because 
-it won't give any realistic results because when to calculate the age of the pets, i don't see it reasonable to have the age of adopted pets calculated on adoption day and not adopted on 31st for the above avg and below avg pets, it's only slightly usefull for the age on adoptioon date and that's it  
- */
-SELECT
-    s.species_name,
-    ROUND(
-        AVG(
-            CASE
-                WHEN p.adopted_status = 'Adopted' THEN DATE_PART('year', AGE(adoption_date, p.year_of_birth)) + DATE_PART('month', AGE(adoption_date, p.year_of_birth)) / 12.0
-            END
-        ) :: numeric,
-        2
-    ) AS avg_age_at_adoption,
-    ROUND(
-        AVG(
-            CASE
-                WHEN p.adopted_status = 'Not Adopted' THEN DATE_PART('year', AGE('2023-12-31', p.year_of_birth)) + DATE_PART('month', AGE('2023-12-31', p.year_of_birth)) / 12.0
-            END
-        ) :: numeric,
-        2
-    ) AS avg_age_at_collection
-FROM
-    pets p
-    LEFT JOIN species s ON p.species_id = s.species_id
-    LEFT JOIN abv_avg_stayed_pets aasp ON p.pet_id = aasp.pet_id
-    LEFT JOIN blw_avg_stayed_pets basp ON p.pet_id = basp.pet_id
-GROUP BY
-    s.species_name
-ORDER BY
-    s.species_name;
+/* 
+   Analysis Decision: Skipping Average Age Analysis for Below/Above Average Stay Periods
+   
+   Rationale: 
+   After consideration, calculating and comparing the average age of pets for below and above average stay periods was determined to have limited practical value. 
+   
+   Key Factors:
+   - **Reference Date Variation**: For adopted pets, age would logically be calculated at the adoption date, while for non-adopted pets, it would be calculated as of December 31, 2023. This difference in reference dates would lead to an inconsistent basis for comparison.
+   - **Relevance to Adoption Analysis**: Age comparison by stay period is less meaningful for understanding adoption trends, as age at adoption already provides a more relevant metric for this purpose.
+   
+   Conclusion:
+   Given the lack of realistic or actionable insights, we chose to omit this analysis from the project.
+*/
