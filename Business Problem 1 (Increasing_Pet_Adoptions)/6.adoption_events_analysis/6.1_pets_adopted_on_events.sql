@@ -1,4 +1,8 @@
--- pets adopted on the events
+/* 
+ Query: Retrieve details of pets adopted during adoption events
+ Purpose: This query lists all pets adopted through specific adoption events, showing the event details and 
+ species information.
+ */
 SELECT
     s.species_name,
     a.adoption_date,
@@ -11,4 +15,6 @@ FROM
     LEFT JOIN species s ON p.species_id = s.species_id
     LEFT JOIN adoption_events ae ON a.adoption_event_id = ae.adoption_event_id
 WHERE
-    event_name IS NOT NULL
+    ae.event_name IS NOT NULL;
+
+-- Filter to include only adoptions associated with events
