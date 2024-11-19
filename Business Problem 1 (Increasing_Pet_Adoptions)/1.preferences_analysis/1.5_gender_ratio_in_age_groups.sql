@@ -2,7 +2,6 @@
  Query: Calculate the male-to-female ratio in each age group
  Purpose: This query categorizes customers into age groups and counts the number of males and females in each group.
  */
- 
 WITH age_group AS (
     -- Categorize customers by age group
     SELECT
