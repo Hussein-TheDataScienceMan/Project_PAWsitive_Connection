@@ -62,7 +62,11 @@ SELECT
     sp.pet_id,
     sp.species_name,
     sp.stay_period_months,
-    avs.avg_stay_period_months
+    avs.avg_stay_period_months,
+    CASE
+        WHEN sp.species_name IS NOT NULL THEN 'Stayed Below Average'
+        ELSE ''
+    END AS stay_state__from_avg
 FROM
     avg_species avs
     RIGHT JOIN stay_period sp ON avs.species_name = sp.species_name
