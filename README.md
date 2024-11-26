@@ -6,7 +6,7 @@ I began by searching for a well-structured relational database with multiple tab
 
 After a _lightbulb moment_, I landed on a pet adoption center theme. I also wanted a memorable name, so I consulted ChatGPT, which suggested the playful title: **PAWsitive Connection**. And with that, my fictional pet adoption center was born.
 
-## Dataset Concept and [Assumptions](www.facebook.com)
+## Dataset Concept and Assumptions
 
 - **Location**: California—home of sunshine, diversity, and a wide range of adoptable pets.
 - **Center Start Date**: Operations began in 2017.
