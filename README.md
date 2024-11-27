@@ -22,7 +22,7 @@ Here’s a quick look at the main tables in the dataset:
 - **Adoption Events**: Details about events hosted to promote adoptions.
 - **Health Records**: Checkup details to track the health of pets over time.
 
-For a deeper dive into how this dataset was created and structured, check out the [Dataset Creation README](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21).
+For a deeper dive into how this dataset was created and structured, check out the [Dataset Creation README](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/PAWSitive%20Connection%20Dataset%20Creation%20README.md).
 
 ### **Project Objectives**
 
@@ -48,45 +48,52 @@ This project focuses on using SQL to explore the data and answer critical busine
 
 ---
 
-### **Table of Contents for Queries**
+**Table of Contents for Queries**
 
-1. **Customer Analysis**
-    - [1.1 Most Popular Pet Preferences by City](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/1.preferences_analysis/1.1_city_preferences.sql)
-    - [1.2 Top Pet Preferences by Age Group](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [1.3 Most Popular Pet Preferences by Gender](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [1.4 Top Pet Preferences by Gender within Cities](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [1.5 Male-to-Female Ratio in Age Groups](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [1.6 Top Two Pet Preferences by Gender in Age Groups](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [1.7 Customer Distribution Across Age Segments](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [1.8 Customer Distribution by City](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-2. **Adoption Factors**
-    - [2.1 Adoption vs. Non-Adoption Rates by Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [2.2 Alignment Between Customer Preferences and Adopted Pet Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [2.3 Adoption Trends Over Time](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [2.4 Arrival Trends Over Time](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-3. **Aggressiveness Analysis**
-    - [3.1 Distribution of Aggressiveness Levels by Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [3.2 Aggressiveness Levels for Pets with Above-Average Stay Periods](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [3.3 Aggressiveness Levels for Pets with Below-Average Stay Periods](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [3.4 Aggressiveness Levels for Adopted Pets](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [3.5 Aggressiveness Levels for Non-Adopted Pets](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [3.6 Aggressiveness & Stay Time Analysis](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-4. **Age Analysis**
-    - [4.1 Average Age of Adopted vs. Non-Adopted Pets by Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-5. **Health Analysis**
-    - [5.1 Effect of Health Status on Adoption Rates by Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [5.2 Effect of Health Status on Stay Periods by Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-6. **Adoption Events Analysis**
-    - [6.1 Details of Pets Adopted During Adoption Events](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [6.2 Number of Pets Adopted per Species for Each Event](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [6.3 Total Number of Adoptions per Event](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [6.4 Ranking of Events by Total Adoptions](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [6.5 Percentage of Adoptions Through Events](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-7. **Stay Duration Analysis**
-    - [7.1 Average, Minimum, and Maximum Stay Period per Species for Adopted Pets](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [7.2 Average, Minimum, and Maximum Stay Period for Unadopted Pets](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [7.3 Pets with Above-Average Stay Periods by Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
-    - [7.4 Pets with Below-Average Stay Periods by Species](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
+1. [**Customer Analysis**](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/1.preferences_analysis/)
+    - 1.1 Most Popular Pet Preferences by City
+    - 1.2 Top Pet Preferences by Age Group
+    - 1.3 Most Popular Pet Preferences by Gender
+    - 1.4 Top Pet Preferences by Gender within Cities
+    - 1.5 Male-to-Female Ratio in Age Groups
+    - 1.6 Top Two Pet Preferences by Gender in Age Groups
+    - 1.7 Customer Distribution Across Age Segments
+    - 1.8 Customer Distribution by City
+
+2. [**Adoption Factors**](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/2.adoption_factors/)
+    - 2.1 Adoption vs. Non-Adoption Rates by Species
+    - 2.2 Alignment Between Customer Preferences and Adopted Pet Species
+    - 2.3 Adoption Trends Over Time
+    - 2.4 Arrival Trends Over Time
+
+3. [**Aggressiveness Analysis**](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/3.aggressiveness_analysis/)
+    - 3.1 Distribution of Aggressiveness Levels by Species
+    - 3.2 Aggressiveness Levels for Pets with Above-Average Stay Periods
+    - 3.3 Aggressiveness Levels for Pets with Below-Average Stay Periods
+    - 3.4 Aggressiveness Levels for Adopted Pets
+    - 3.5 Aggressiveness Levels for Non-Adopted Pets
+    - 3.6 Aggressiveness & Stay Time Analysis
+
+4. [**Age Analysis**](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/4.age_analysis/)
+    - 4.1 Average Age of Adopted vs. Non-Adopted Pets by Species
+
+5. [**Health Analysis**](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/5.health_analysis/)
+    - 5.1 Effect of Health Status on Adoption Rates by Species
+    - 5.2 Effect of Health Status on Stay Periods by Species
+
+6. [**Adoption Events Analysis**](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/6.adoption_events_analysis/)
+    - 6.1 Details of Pets Adopted During Adoption Events
+    - 6.2 Number of Pets Adopted per Species for Each Event
+    - 6.3 Total Number of Adoptions per Event
+    - 6.4 Ranking of Events by Total Adoptions
+    - 6.5 Percentage of Adoptions Through Events
+
+7. [**Stay Duration Analysis**](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/main/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/7.stay_duration_analysis/)
+    - 7.1 Average, Minimum, and Maximum Stay Period per Species for Adopted Pets
+    - 7.2 Average, Minimum, and Maximum Stay Period for Unadopted Pets
+    - 7.3 Pets with Above-Average Stay Periods by Species
+    - 7.4 Pets with Below-Average Stay Periods by Species
+
 
 ---
 
@@ -273,7 +280,7 @@ Understanding the demographics and preferences of customers is the first step in
 
 - **Query 4: Top Two Pet Preferences by Gender in Age Groups**
     - **Purpose**: To dive deeper into how age and gender intersect in shaping preferences.
-    - [Full Query](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21)
+    - [Full Query](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/633fbbd4266c3298ca73efcd9b7461976a1f4338/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries/1.preferences_analysis/1.4_gender_preferences_by_city.sql)
         
         ### Visualization of the Results:
         
@@ -869,12 +876,12 @@ To explore this project further, you can review the SQL queries, datasets, and v
 ### **1. Viewing SQL Queries**
 
 - **Query Snippets**: Included in this README to highlight specific insights.
-- **Full Queries**: Access the complete SQL scripts via [this GitHub link](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21).
+- **Full Queries**: Access the complete SQL scripts via [this GitHub link](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/tree/633fbbd4266c3298ca73efcd9b7461976a1f4338/Business%20Problem%201%20(Increasing_Pet_Adoptions)/SQL%20Queries).
     - Queries are organized by category for easy navigation.
 
 ### **2. Exploring the Dataset**
 
-- **Raw Data**: Download the raw data tables in `.csv` format from [this link](https://www.notion.so/PAWsitive-Connections-146d97b8bf8e801db886e1edb00ed726?pvs=21).
+- **Raw Data**: Download the raw data tables in `.csv` format from [this link](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/tree/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/CSVs).
 - **Query Results**: Results from the SQL queries are also available as `.csv` files for easy reference.
 
 ### **3. Recreating the Dataset**
