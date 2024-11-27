@@ -270,7 +270,7 @@ Understanding the demographics and preferences of customers is the first step in
     
     ### Visualization of the Results:
     
-    3. ![Gender-Based Pet Preferences](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/3.Gender-Based_Pet_Preferences.png)
+    ![Gender-Based Pet Preferences](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/3.Gender-Based_Pet_Preferences.png)
     
     - **Key Insights**:
         - **Males**: Cats are the top preference, followed closely by dogs. Small pets and farm animals come third and fourth, respectively, with aquatic pets being the least preferred.
