@@ -17,6 +17,9 @@ After a _lightbulb moment_, I landed on a pet adoption center theme. I also want
 
 Creating each table was like piecing together a puzzle, and I used various tools to bring the data to life—Mockaroo for random values, ChatGPT for brainstorming, and even a bit of Python (more on that later!). Here’s the breakdown of each table:
 
+  - **[Schema Overview](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/PAWsitive%20Connection%20Schema.png)**: To understand the relationships between these tables, refer to the relational database schema that illustrates how the tables are connected.
+
+
 ### 1. Customers Table
 
 - **Attributes**: `customer_id`, `full_name`, `date_of_birth`, `state`, `city`, `pet_preferences`
@@ -73,5 +76,18 @@ Creating each table was like piecing together a puzzle, and I used various tools
   - **Follow-Up**: Set to “yes” more often if overall rating is low, for that extra customer care touch.
 
 ---
+## **Accessing the Dataset**
+
+To explore the dataset and replicate the analysis, the following resources are available:
+
+- **CSV Files**: Download all the tables in CSV format for easy exploration.  
+  [Dataset Tables](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/tree/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/CSVs)
+
+- **PostgreSQL Script**: Use this script to recreate the table structures and headers in PostgreSQL.  
+  [SQL Script](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/PAWsitive%20Connection%20Dataset%20Creation%20Script.sql)
+
+---
 
 This dataset took a good bit of brainstorming, coding, and creative problem-solving, using tools like Mockaroo, ChatGPT, and even a dose of Python magic. For someone still learning Python, this project pushed my skills, but with persistence and some clever assistance, it came together!
+
+

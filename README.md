@@ -22,7 +22,10 @@ Here’s a quick look at the main tables in the dataset:
 - **Adoption Events**: Details about events hosted to promote adoptions.
 - **Health Records**: Checkup details to track the health of pets over time.
 
-For a deeper dive into how this dataset was created and structured, check out the [Dataset Creation README](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/PAWSitive%20Connection%20Dataset%20Creation%20README.md).
+To visualize the relationships between these tables, refer to the **[Database Schema](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/PAWsitive%20Connection%20Schema.png)**.
+
+For a deeper dive into how this dataset was created and structured, check out the **[Dataset Creation README](https://github.com/Hussein-TheDataScienceMan/Project_PAWsitive_Connection/blob/633fbbd4266c3298ca73efcd9b7461976a1f4338/PAWsitive%20Connection%20Dataset/PAWSitive%20Connection%20Dataset%20Creation%20README.md)**.
+
 
 ### **Project Objectives**
 
