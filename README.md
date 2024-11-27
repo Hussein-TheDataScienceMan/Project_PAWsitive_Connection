@@ -164,7 +164,7 @@ Understanding the demographics and preferences of customers is the first step in
         ### Visualization of the Results:
         
 
-![Vis1](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme\1.Most_Popular_Pet_Preferences_by_City.png)
+![Most Popular Pet Preferences by City](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/1.Most_Popular_Pet_Preferences_by_City.png)
 
 
 **Key Insight**: In 6 out of 10 cities in the dataset, cats are the top pet preference. Dogs are the top preference in 3 cities. Interestingly, Oakland showed an equal preference for both cats and dogs.
