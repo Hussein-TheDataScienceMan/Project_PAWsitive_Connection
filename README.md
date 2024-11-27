@@ -333,7 +333,7 @@ Understanding the demographics and preferences of customers is the first step in
         - **Fresno** and **San Diego** follow closely, with 159 and 153 customers, respectively, indicating strong customer representation in these cities.
         - The remaining cities, such as **Long Beach**, **Irvine**, and **Santa Barbara**, show relatively similar customer counts, ranging between 147 and 143 customers.
         - **Bakersfield**, with 122 customers, has the smallest customer base among the cities analyzed.
-        
+            
         These insights highlight **Oakland, Fresno, and San Diego** as key hubs for customer presence, which could be prioritized for marketing or operational efforts.
         
 
@@ -407,17 +407,21 @@ Adoption trends reveal how often pets find their forever homes and help identify
     
     ### Visualization of the Results:
     
-    ![Adoption vs. Non-Adoption Rates by Species](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/6.Adoption_vs._Non-Adoption_Rates_by_Species.png)
+    ![Adoption vs. Non-Adoption Rates by Species(1)](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/6.1.Adoption_vs._Non-Adoption_Rates_by_Species.png)
+
+    ![Adoption vs. Non-Adoption Rates by Species(2)](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/6.2.Adoption_vs._Non-Adoption_Rates_by_Species.png)
     
     - **Key Insights**:
-        - **Dogs** have the highest adoption rate, with **565 adopted** out of **699 total dogs**, leaving only a small percentage unadopted.
-        - **Cats** follow closely, with **562 adopted** out of **604 total cats**, showing a similarly high adoption success.
-        - **Guinea Pigs** have the highest number of non-adopted pets (97), indicating a significant challenge in finding homes for this species.
-        - **Birds** also face notable adoption challenges, with **78 not adopted** out of **117 total birds**, resulting in a lower adoption percentage.
-        - **Lizards**, **fish**, **rabbits**, and **snakes** show relatively balanced adoption rates, with a lower total number of pets in these categories.
-        - **Parrots** and **turtles** represent niche species with very low adoption numbers, likely due to limited interest or availability.
-        
-        These insights suggest that while dogs and cats dominate adoption success, smaller or exotic species such as **guinea pigs**, **birds**, and **parrots** require focused efforts to improve adoption rates.
+       - **Dogs** dominate with the highest total count (699), achieving a notable adoption success rate of **81%**.
+        - **Cats** follow closely in numbers (604) and have a high adoption success rate of **93%**, underscoring their popularity.
+        - **Guinea Pigs**, with a total of **174**, face adoption challenges with only **44%** adopted, highlighting significant difficulties in rehoming.
+        - **Hamsters**, **lizards**, and **rabbits** have 100% adoption rates despite their relatively lower total counts, indicating strong demand for these smaller or exotic pets.
+        - **Birds** present moderate challenges, with **33%** adoption success out of **117 total birds**, emphasizing the need for focused efforts on this species.
+        - **Fish** have a balanced total of **104**, with a **54%** adoption rate, suggesting a steady interest but room for improvement.
+        - **Snakes** show a remarkable 100% adoption rate, reflecting niche interest and effective rehoming efforts.
+        - **Parrots** (37% adoption) and **turtles** (26% adoption) show low adoption percentages, with total counts of **35** and **23**, respectively, pointing to their specialized appeal and adoption challenges.
+
+        These insights highlight the dominance of dogs and cats in adoption success, the strong performance of hamsters, lizards, and rabbits, and the challenges faced by species like guinea pigs, birds, parrots, and turtles, necessitating targeted strategies for improvement.
         
 
 ---
