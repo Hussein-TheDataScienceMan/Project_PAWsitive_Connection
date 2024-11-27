@@ -2,7 +2,7 @@
  Query: Determine the most popular pet preference by city
  Purpose: This query ranks pet preferences for each city, showing only the top preference per city,
  along with the percentage of customers who prefer this type. 
- */
+ */ 
 WITH ranked_preferences AS (
     SELECT
         city,
