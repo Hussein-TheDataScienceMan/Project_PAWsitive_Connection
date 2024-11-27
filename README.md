@@ -164,7 +164,8 @@ Understanding the demographics and preferences of customers is the first step in
         ### Visualization of the Results:
         
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/2b887fb2-b5e2-47ff-8837-9d785c2a9b03/image.png)
+![Vis1](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme\1.Most_Popular_Pet_Preferences_by_City.png)
+
 
 **Key Insight**: In 6 out of 10 cities in the dataset, cats are the top pet preference. Dogs are the top preference in 3 cities. Interestingly, Oakland showed an equal preference for both cats and dogs.
 
@@ -233,7 +234,7 @@ Understanding the demographics and preferences of customers is the first step in
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/e59262f0-31a9-482a-8510-1e3ac8b7937f/image.png)
+    ![Top Pet Preferences by Age Group](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/2.Top_Pet_Preferences_by_Age_Group.png)
     
     - **Key Insights:**
         - *Young Adults (17–30 years): Most prefer dogs, followed by cats, and exotic or small pets equally taking the third spot.*
@@ -269,7 +270,7 @@ Understanding the demographics and preferences of customers is the first step in
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/21dadeca-b42f-449b-9c5f-90421b2111cd/image.png)
+    3. ![Gender-Based Pet Preferences](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/3.Gender-Based_Pet_Preferences.png)
     
     - **Key Insights**:
         - **Males**: Cats are the top preference, followed closely by dogs. Small pets and farm animals come third and fourth, respectively, with aquatic pets being the least preferred.
@@ -284,7 +285,7 @@ Understanding the demographics and preferences of customers is the first step in
         
         ### Visualization of the Results:
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/87f79588-7135-4987-bfdc-6e9d41a7fa0b/image.png)
+        ![Top Two Pet Preferences by Gender in Age Groups](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/4.Top_Two_Pet_Preferences_by_Gender_in_Age_Groups.png)
         
     - **Key Insight**:
         - **Middle-Age Adults (31–55 years):**
@@ -325,7 +326,7 @@ Understanding the demographics and preferences of customers is the first step in
         
         ### Visualization of the Results:
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/b5fb281c-c4de-4a4b-b8d1-0048af5b776a/image.png)
+        5. ![Distribution of Customers Across Cities](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/5.Distribution_of_Customers_Across_Cities.png)
         
     - **Key Insights**:
         - **Oakland** has the largest customer base with 167 customers, making it the top city in terms of customer concentration.
@@ -406,7 +407,7 @@ Adoption trends reveal how often pets find their forever homes and help identify
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/f7ecab98-939e-40c7-bad2-ede115669856/image.png)
+    ![Adoption vs. Non-Adoption Rates by Species](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/6.Adoption_vs._Non-Adoption_Rates_by_Species.png)
     
     - **Key Insights**:
         - **Dogs** have the highest adoption rate, with **565 adopted** out of **699 total dogs**, leaving only a small percentage unadopted.
@@ -449,7 +450,7 @@ Adoption trends reveal how often pets find their forever homes and help identify
         
         ### Visualization of the Results:
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/7f82d2a4-da48-42e1-8dfd-6dd95a5a9bf6/image.png)
+        ![Alignment Between Customer Preferences and Adopted Pets](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/7.Alignment_Between_Customer_Preferences_and_Adopted_Pets.png)
         
     - **Key Insights**:
         - **Cats and Dogs Achieve 100% Alignment:**
@@ -501,7 +502,7 @@ Adoption trends reveal how often pets find their forever homes and help identify
         
         ### Visualization of the Results:
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/fcae5799-7734-46a3-ab9b-d48fbffa3be8/image.png)
+        ![Adoption Trends Over Time](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/8.Adoption_Trends_Over_Time.png)
         
     - **Key Insights**:
         - **Steady Growth:** Adoptions have increased consistently since the pet adoption center opened in 2017, with a significant spike starting in **2020** and peaking at **711 adoptions in 2023**.
@@ -538,7 +539,7 @@ Adoption trends reveal how often pets find their forever homes and help identify
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/9777cfd0-c741-4bff-9afa-13a430b652a5/image.png)
+    ![Arrival Trends Over Time](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/9.Arrival_Trends_Over_Time.png)
     
     - **Key Insights**:
         - **Consistent Growth Until 2022:**
@@ -590,7 +591,7 @@ The characteristics of pets, such as their age, health status, and behavior, pla
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/0b8549a1-7a02-4970-b44f-6d41b858c3aa/image.png)
+    ![Effect of Aggressiveness on Stay Time in the Center](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/10.Effect_of_Aggressiveness_on_Stay_Time_in_The_Center.png)
     
     - **Key Insights**:
         - **Cats, Dogs, Guinea Pigs, Hamsters, and Rabbits**: Aggressiveness levels don’t significantly affect adoption times. These species show consistent stay durations across all levels of aggressiveness.
@@ -641,7 +642,7 @@ The characteristics of pets, such as their age, health status, and behavior, pla
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/474cdda1-ce93-48b6-9ab5-57bc77a49707/image.png)
+    ![Impact of Age on Adoption](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/11.Impact_of_Age_on_Adoption.png)
     
     - **Key Insights**:
         - **Turtles** and **parrots** are adopted at the oldest average age, at **26.6 years** and **22.5 years** respectively, reflecting their longer lifespans and slower adoption patterns.
@@ -697,9 +698,9 @@ The characteristics of pets, such as their age, health status, and behavior, pla
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/6e2de488-dd16-495d-bbcb-f1b19d74598d/image.png)
+    ![Correlation Between Health Status and Adoption Rates (1)](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/12.1.Correlation_Between_Health_Status_and_Adoption_Rates.png)
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/4c5cb915-cbe7-4816-b53d-7ba45a502599/image.png)
+    ![Correlation Between Health Status and Adoption Rates (2)](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/12.2.Correlation_Between_Health_Status_and_Adoption_Rates.png)
     
     - **Key Comparative Insights**:
         - **Health Status Has Limited Impact on Adoption Rates**:
@@ -752,7 +753,7 @@ Adoption events play a crucial role in promoting pet adoptions. This section eva
         
         ### Visualization of the Results:
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/d5602ccc-46c1-411b-8492-1bbd4e00354f/image.png)
+        ![Percentage of Adoptions During Events](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/13.Percentage_of_Adoptions_During_Events.png)
         
     - **Key Insights**:
         - **Overall Trend**: Adoption events contribute significantly to adoptions, with event-driven adoptions accounting for **35%-40%** of total adoptions annually, while the majority (60%-65%) occur independently of events.
@@ -792,7 +793,7 @@ Adoption events play a crucial role in promoting pet adoptions. This section eva
     
     ### Visualization of the Results:
     
-    ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/7d7f4b21-f670-4ac9-8e4c-d93f012821b1/image.png)
+    ![Species Adoption Trends Through Events](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/14.Species_Adoption_Trends_Through_Events.png)
     
     - **Key Insights**:
         - **Fall Adoptathon** achieved the highest adoption success overall, with **91 cats** and **78 dogs** adopted, dominating the event.
@@ -839,7 +840,7 @@ Adoption events play a crucial role in promoting pet adoptions. This section eva
         
         ### Visualization of the Results:
         
-        ![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c7cab2aa-97f9-481b-92ad-e79b03f5499f/494ceebe-4fa6-4bbc-bd1d-7cf3163525ec/image.png)
+       ![Total Adoptions per Event](Business%20Problem%201%20(Increasing_Pet_Adoptions)/Visualizations/pngs_used_in_readme/15.Total_Adoptions_per_Event.png)
         
     - **Key Insight**:
         - **Fall Adoptathon** consistently leads in adoptions, peaking at **104 adoptions in 2023**, showcasing steady growth. Its **September timing**, near the start of fall, might align with increased interest as families settle after summer vacations and prepare for the holiday season, potentially influencing the high engagement.
