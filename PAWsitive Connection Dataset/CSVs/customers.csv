@@ -1,0 +1,1442 @@
+customer_id,full_name,gender,city,pet_preferences,date_of_birth,state
+1,Floria Syms,Female,Sacramento,Small Pets,1991-02-27,CA
+2,Miles Ceaser,Male,San Francisco,Cat,1973-10-14,CA
+3,Maurizia Lintin,Female,Long Beach,Small Pets,1992-12-09,CA
+4,Pietrek Haggar,Male,Oakland,Dog,1978-05-30,CA
+5,Keary Jahndel,Male,Long Beach,Cat,1975-03-12,CA
+6,Libby Hammill,Female,Santa Barbara,Cat,1980-08-23,CA
+7,Minnnie Gason,Female,Irvine,Cat,1957-04-08,CA
+8,Cristabel Mottershead,Female,Long Beach,Cat,1995-04-01,CA
+9,Garnette Flaverty,Female,Long Beach,Farm Animals,1981-03-24,CA
+10,Ilaire Mallan,Male,Santa Barbara,Cat,1982-05-08,CA
+11,Carter Beeze,Male,San Francisco,No Preference,1992-01-07,CA
+12,Margo Dellenty,Female,Long Beach,Cat,1955-05-06,CA
+13,Lazar Hayesman,Male,Long Beach,Cat,1981-04-15,CA
+14,York MacPhail,Male,Santa Barbara,Cat,1969-09-12,CA
+15,Erl Rossey,Male,Los Angeles,Cat,1982-02-21,CA
+16,Carlye Gurry,Female,Bakersfield,Dog,1958-07-21,CA
+17,Marysa Tregiddo,Female,Irvine,Exotic,1993-01-15,CA
+18,Noah Pantlin,Male,Long Beach,,1965-07-03,CA
+19,Hyacinthie Kleinstein,Female,Santa Barbara,Dog,1959-03-10,CA
+20,Joellyn Downs,Female,Long Beach,Cat,1998-04-16,CA
+21,Eduardo Masic,Male,Fresno,Cat,1978-08-30,CA
+22,Abraham Callender,Male,Oakland,Dog,1967-09-23,CA
+23,Sully Mellings,Male,Long Beach,Cat,1988-03-30,CA
+24,Wood Cornes,Male,Santa Barbara,Small Pets,1972-07-28,CA
+25,Wat Renneke,Male,Fresno,Cat,1963-01-12,CA
+26,Norbie Guinery,Male,Irvine,Small Pets,1996-02-17,CA
+27,Lydon Parrin,Male,San Diego,Exotic,1986-04-28,CA
+28,Fransisco Windley,Male,Oakland,Dog,1988-02-19,CA
+29,Redd Rosengren,Male,Irvine,Dog,1981-12-29,CA
+30,Waite Aindriu,Male,Fresno,Cat,1995-12-03,CA
+31,Trudey Sherar,Female,Fresno,Dog,1975-03-10,CA
+32,Dael Mazzia,Male,San Diego,Dog,1960-09-15,CA
+33,Beauregard Oswick,Male,Fresno,Dog,1984-08-24,CA
+34,Boy Tankard,Male,Irvine,Cat,1975-04-17,CA
+35,Nikolos Saladine,Male,San Francisco,Small Pets,1990-04-23,CA
+36,Cyrille Langlais,Male,Irvine,Dog,1971-05-05,CA
+37,Shelly Taillard,Female,Bakersfield,,1970-12-29,CA
+38,Kean Veque,Male,Los Angeles,Cat,2002-01-06,CA
+39,Ive Weathey,Male,San Diego,Dog,1967-02-08,CA
+40,Shandee Shadbolt,Female,Los Angeles,Cat,1957-03-10,CA
+41,Cherye Julyan,Female,San Diego,Cat,2002-09-21,CA
+42,Jesselyn Chasemoore,Female,Santa Barbara,,1956-08-21,CA
+43,Gusti O' Driscoll,Female,Bakersfield,Dog,1988-04-18,CA
+44,Marja Thal,Female,Bakersfield,,1995-08-27,CA
+45,Gilbertina Taysbil,Female,Sacramento,Dog,1967-10-27,CA
+46,Vidovic Hatherley,Male,Bakersfield,Dog,1970-07-04,CA
+47,Auguste Filyukov,Female,Los Angeles,Dog,1964-06-22,CA
+48,Rosabelle Preshous,Female,Bakersfield,Exotic,1976-10-18,CA
+49,Robbi Batham,Female,Oakland,Dog,1978-10-26,CA
+50,Wallie Keppin,Male,Santa Barbara,Exotic,1965-01-22,CA
+51,Reagan Addington,Male,Long Beach,Small Pets,1996-09-15,CA
+52,Carney Pavier,Male,Santa Barbara,Exotic,1977-07-31,CA
+53,Darbee O' Gara,Male,San Francisco,Cat,1988-08-19,CA
+54,Lacie Brownsell,Female,San Francisco,Cat,2000-09-30,CA
+55,Anthiathia Luetkemeyers,Female,Santa Barbara,Cat,1973-11-03,CA
+56,Nickey Passie,Male,Los Angeles,Farm Animals,1990-12-22,CA
+57,Zoe Balch,Female,Oakland,Cat,1955-04-30,CA
+58,Devi Connelly,Female,Bakersfield,Dog,1984-08-01,CA
+59,Somerset Pedrielli,Male,Santa Barbara,Cat,1976-05-31,CA
+60,Bren Griffitts,Female,Fresno,Dog,1960-02-29,CA
+61,Daron McKinna,Male,Sacramento,Dog,1995-09-14,CA
+62,Rosemonde Siss,Female,Los Angeles,Cat,1964-03-23,CA
+63,Chauncey Phuprate,Male,San Diego,Cat,2001-06-26,CA
+64,Saundra Gilkes,Male,San Diego,,1956-06-01,CA
+65,Haze Stopforth,Male,San Diego,Cat,1999-05-25,CA
+66,Saul Arkow,Male,Irvine,Cat,1981-12-23,CA
+67,Shena Sawfoot,Female,San Diego,Aquatic Pets,1989-07-12,CA
+68,Lorena Orring,Female,Bakersfield,Dog,1970-08-22,CA
+69,Lief Stannus,Male,Fresno,Dog,1963-03-20,CA
+70,Salim Corp,Male,Sacramento,Cat,1960-05-20,CA
+71,Falito Fairlamb,Male,Irvine,Dog,1998-11-12,CA
+72,Nikkie Papaminas,Female,Oakland,Dog,2002-06-29,CA
+73,Jazmin Wellfare,Female,Irvine,Dog,1994-05-21,CA
+74,Irena Naismith,Female,San Francisco,Dog,1993-09-10,CA
+75,Rania Graal,Female,Santa Barbara,Dog,1959-01-25,CA
+76,Nate Mines,Male,San Francisco,Dog,1973-02-24,CA
+77,Earl Eakeley,Male,Irvine,Cat,1990-02-07,CA
+78,Pepillo Folley,Male,San Francisco,Cat,1956-09-17,CA
+79,Ingrim Effaunt,Male,Fresno,Dog,1992-08-08,CA
+80,Shani Maletratt,Female,Long Beach,Dog,1998-02-11,CA
+81,Gerianna Barwood,Female,San Diego,Dog,1997-03-09,CA
+82,Rodrique Dunnet,Male,Santa Barbara,,1991-12-29,CA
+83,Rey Hamblyn,Female,Santa Barbara,Farm Animals,1978-11-16,CA
+84,Danika Mannion,Female,Oakland,Dog,1975-04-27,CA
+85,Teri Fitzackerley,Female,Irvine,Cat,1975-11-02,CA
+86,Jo-ann Forton,Female,Santa Barbara,Dog,2004-05-20,CA
+87,Dreddy Baggot,Female,Los Angeles,Cat,1993-01-21,CA
+88,Sammy Smolan,Male,Irvine,Dog,2004-02-09,CA
+89,Geordie McGunley,Male,Oakland,Cat,2003-06-24,CA
+90,Trude Lyosik,Female,Oakland,Dog,2000-02-18,CA
+91,Gerik Elliman,Male,San Diego,Cat,1971-10-09,CA
+92,Alec Standbrooke,Male,Fresno,Cat,1989-09-03,CA
+93,Jared Kinsley,Male,San Diego,Cat,1993-11-20,CA
+94,Janaya Paye,Female,Bakersfield,Cat,1968-04-22,CA
+95,Tybi Farrin,Female,San Diego,Dog,1975-05-27,CA
+96,Corty Downey,Male,Fresno,Dog,1985-06-24,CA
+97,Robinia Sparey,Female,Irvine,Cat,1985-08-05,CA
+98,Anatola Sambles,Female,Fresno,Dog,1966-02-19,CA
+99,Leupold Dunton,Male,San Diego,Dog,1997-02-08,CA
+100,Cathleen Scallan,Female,Sacramento,Cat,1983-01-03,CA
+101,Erny Brough,Male,Los Angeles,Cat,1999-01-31,CA
+102,Elvyn Zarb,Male,Irvine,Cat,1965-11-19,CA
+103,Estrellita Lorking,Female,Fresno,Farm Animals,1961-07-09,CA
+104,Gordie Laight,Male,Irvine,Dog,1997-03-05,CA
+105,Ky Charles,Male,San Diego,Dog,1973-12-30,CA
+106,Ashton Geharke,Male,Long Beach,Cat,1998-12-07,CA
+107,Arnold Addicote,Male,Long Beach,Cat,1989-06-10,CA
+108,Joby Dulen,Female,Santa Barbara,Cat,2004-01-09,CA
+109,Birgitta Denyukin,Female,Long Beach,Dog,1966-10-23,CA
+110,Rochester Bielby,Male,Irvine,Dog,1993-01-03,CA
+111,Mae Addison,Female,San Francisco,Cat,2000-09-14,CA
+112,Carmel Jostan,Female,Los Angeles,Dog,1979-11-27,CA
+113,Sherman Ayris,Male,San Diego,,1996-04-28,CA
+114,Binni Pimblett,Female,Bakersfield,Cat,1985-12-07,CA
+115,Ambur Valerius,Female,San Diego,Dog,1990-05-15,CA
+116,Dennison Cauldwell,Male,Fresno,Dog,1998-04-03,CA
+117,Aksel Bartolomeazzi,Male,Irvine,Dog,1973-08-05,CA
+118,Laney Osichev,Male,Sacramento,Dog,1964-08-25,CA
+119,Chaim Ruskin,Male,Santa Barbara,Dog,2000-10-01,CA
+120,Tammy Mcettrick,Male,Fresno,Cat,1958-02-20,CA
+121,Jamison Coulling,Male,Santa Barbara,Cat,1997-03-28,CA
+122,Donnajean Stirzaker,Female,Bakersfield,Cat,1983-09-29,CA
+123,Issy Veelers,Female,Oakland,Exotic,1999-12-21,CA
+124,Charissa Kleinhandler,Female,Oakland,Dog,1992-11-08,CA
+125,Abe Crowdy,Male,Santa Barbara,Dog,1972-02-23,CA
+126,Celestyn Brickdale,Female,Sacramento,Cat,1991-03-20,CA
+127,Belvia Brunesco,Female,Fresno,Dog,1992-06-06,CA
+128,Cosimo Fairtlough,Male,San Francisco,Cat,1955-04-20,CA
+129,Zolly Limmer,Male,Long Beach,Aquatic Pets,2001-11-02,CA
+130,Drusie Songhurst,Female,Bakersfield,Dog,1994-12-13,CA
+131,Flori Farmer,Female,San Francisco,No Preference,1972-04-19,CA
+132,Hewie Morena,Male,Bakersfield,No Preference,1966-08-20,CA
+133,Germaine Ivanilov,Male,Long Beach,Cat,1997-08-31,CA
+134,Chelsy Gadeaux,Female,Bakersfield,Cat,1987-04-19,CA
+135,Greer Klosser,Female,Fresno,No Preference,2003-03-19,CA
+136,Nickey Filippazzo,Male,Santa Barbara,Dog,1969-08-03,CA
+137,Darbie Bogue,Female,Irvine,,1973-07-02,CA
+138,Francisco Wiburn,Male,Oakland,Dog,1978-01-02,CA
+139,Irving Sentinella,Male,Irvine,Small Pets,1973-10-17,CA
+140,Clare Broyd,Male,Bakersfield,Cat,1963-07-23,CA
+141,Kit Bazely,Male,Oakland,Cat,1981-04-09,CA
+142,Aubrette Longstaffe,Female,Oakland,Dog,1968-02-10,CA
+143,Humberto Crayton,Male,Los Angeles,Dog,1985-02-22,CA
+144,Dedie Massie,Female,Oakland,Cat,1987-03-09,CA
+145,Hamnet Demangel,Male,Fresno,No Preference,1993-01-28,CA
+146,Allard Lewcock,Male,San Diego,Exotic,1983-02-01,CA
+147,Ossie Bum,Male,Irvine,,1977-10-08,CA
+148,Jamal Jarrold,Male,Long Beach,Cat,1995-12-11,CA
+149,Elden Melesk,Male,Oakland,Cat,1958-01-13,CA
+150,Ashely Archbald,Female,Santa Barbara,Dog,1956-05-19,CA
+151,Portie Pietasch,Male,Sacramento,Dog,1997-03-18,CA
+152,Alessandro Mongain,Male,Fresno,No Preference,1962-01-02,CA
+153,Pen Fairfoull,Male,Oakland,Dog,1977-02-15,CA
+154,Paulie Sibbs,Male,Irvine,Cat,1986-03-18,CA
+155,Lydia Perrygo,Female,Los Angeles,Cat,2005-07-22,CA
+156,Florrie Pallent,Female,Santa Barbara,Cat,1970-05-01,CA
+157,Mic Buttfield,Male,Oakland,Cat,1960-12-25,CA
+158,Renata Blanket,Female,Fresno,Cat,1957-12-19,CA
+159,Moses Joanaud,Male,Fresno,,2003-09-12,CA
+160,Richie Pawelski,Male,Sacramento,No Preference,1999-12-09,CA
+161,Feliza McCloch,Female,San Francisco,Dog,1999-12-06,CA
+162,Gaylor Kliemann,Male,Long Beach,,1970-06-22,CA
+163,Innis Abbet,Male,Santa Barbara,Cat,1959-03-01,CA
+164,Josey Cleere,Female,Los Angeles,Dog,1993-10-11,CA
+165,Anastassia Rowney,Female,Irvine,Cat,1998-11-23,CA
+166,Noemi Spatig,Female,Bakersfield,Cat,1966-11-22,CA
+167,Noby Midgley,Male,Long Beach,Farm Animals,1982-03-30,CA
+168,Marten Nuss,Male,Oakland,Dog,2001-07-28,CA
+169,Loralyn Lote,Female,Oakland,Dog,1983-05-04,CA
+170,Corrinne Feild,Female,Santa Barbara,Cat,1980-09-12,CA
+171,Tyler Gofford,Male,Irvine,Small Pets,1975-04-18,CA
+172,Zeb Blaby,Male,Bakersfield,Small Pets,1961-08-07,CA
+173,Debbi Guiton,Female,Irvine,Dog,1959-07-18,CA
+174,Leon Peacey,Male,Long Beach,Cat,1986-07-21,CA
+175,Adrien Crang,Male,San Francisco,Small Pets,1995-04-30,CA
+176,Bonnee Tatteshall,Female,Long Beach,Cat,1977-01-17,CA
+177,Obed Hadkins,Male,Bakersfield,Dog,1983-02-17,CA
+178,Hyacinthe Muffin,Female,Sacramento,Cat,1989-04-08,CA
+179,Rolfe Jeratt,Male,Los Angeles,Dog,1982-11-04,CA
+180,Sinclair Bickford,Male,San Francisco,Dog,1960-03-07,CA
+181,Perry Blanque,Female,Santa Barbara,Cat,1955-11-28,CA
+182,Rudie Syer,Male,Santa Barbara,Cat,1988-11-29,CA
+183,Kerr Robertis,Male,San Diego,Dog,1989-08-15,CA
+184,Aristotle Bondy,Male,San Diego,Cat,1960-11-11,CA
+185,Karen Novotni,Female,Oakland,Small Pets,1968-07-24,CA
+186,Cassandra Gilogly,Female,Long Beach,Cat,1968-09-28,CA
+187,Nickolas Woolatt,Male,San Diego,Cat,1989-03-15,CA
+188,Richmound MacCoughen,Male,Fresno,Dog,1987-07-29,CA
+189,Bride Van der Mark,Female,San Francisco,Cat,1968-05-21,CA
+190,Perry Blodgetts,Female,Bakersfield,Dog,1974-05-03,CA
+191,Heidie Conkay,Female,Los Angeles,Cat,1974-10-13,CA
+192,Lauren Cassie,Male,San Diego,Cat,1971-02-22,CA
+193,Tania Jarnell,Female,San Francisco,Dog,2000-07-28,CA
+194,Roley Lamdin,Male,Los Angeles,Dog,1955-05-27,CA
+195,Donica Frie,Female,Sacramento,Cat,1996-10-03,CA
+196,Tarah Colliss,Female,Fresno,Cat,1985-07-05,CA
+197,Raynard Kohlerman,Male,Fresno,,1982-11-17,CA
+198,Gay Bauduccio,Male,Sacramento,Aquatic Pets,1956-02-27,CA
+199,Kathleen Farquharson,Female,Irvine,Cat,1997-09-26,CA
+200,Myles Jenckes,Male,Sacramento,Cat,1972-07-09,CA
+201,Jacquette Graffin,Female,Sacramento,Dog,1959-02-24,CA
+202,Eduino Delgardillo,Male,Los Angeles,Dog,1957-06-28,CA
+203,Candra Hamon,Female,Oakland,Dog,1969-05-20,CA
+204,Ilse Clench,Female,Fresno,Dog,2003-08-18,CA
+205,Elnora Cookney,Female,Santa Barbara,Dog,1962-10-07,CA
+206,Brewer Rydzynski,Male,Irvine,Dog,1965-09-19,CA
+207,Gardner Labrenz,Male,Santa Barbara,Dog,1964-11-20,CA
+208,Waly Bodycote,Female,Santa Barbara,No Preference,1999-04-03,CA
+209,Erastus Baynham,Male,Irvine,Small Pets,1977-04-17,CA
+210,Perri Furse,Female,Irvine,,1974-06-06,CA
+211,Corbin Care,Male,Los Angeles,,2000-10-14,CA
+212,Teador Pfeffer,Male,Fresno,Small Pets,1984-08-08,CA
+213,Evie Kenwell,Female,Sacramento,Dog,2000-01-31,CA
+214,Kimberley Logie,Female,Irvine,Cat,2001-12-15,CA
+215,Lorne De Rechter,Female,Oakland,Cat,1981-09-26,CA
+216,Raffaello Spaughton,Male,Sacramento,Dog,1959-10-29,CA
+217,Tabby Ambroix,Female,Los Angeles,No Preference,1973-12-08,CA
+218,Giorgia Whitworth,Female,Irvine,Small Pets,1957-07-03,CA
+219,Jonathon Selley,Male,Santa Barbara,Dog,1979-06-21,CA
+220,Aguste Greguoli,Male,Bakersfield,Aquatic Pets,1992-11-13,CA
+221,Alica Cheeke,Female,San Diego,Cat,1974-02-12,CA
+222,Jodi Leaming,Female,Fresno,Cat,1996-10-28,CA
+223,Andrey Scanterbury,Male,Los Angeles,Aquatic Pets,1962-06-05,CA
+224,Henriette Brech,Female,Bakersfield,,1968-06-27,CA
+225,Bay Masse,Male,Los Angeles,Cat,2003-11-14,CA
+226,Brandy Spaunton,Female,San Francisco,Dog,1979-08-27,CA
+227,Tedman Farleigh,Male,Irvine,Dog,1973-10-06,CA
+228,Sybyl Fowler,Female,Sacramento,Cat,1979-08-09,CA
+229,Pascal Giddens,Male,San Francisco,Dog,1986-12-23,CA
+230,Anjanette Coalburn,Female,Santa Barbara,Cat,2005-08-23,CA
+231,Quintin Dicte,Male,San Diego,Cat,1972-06-04,CA
+232,Hurley Yateman,Male,Sacramento,Dog,1966-11-29,CA
+233,Howey Forster,Male,Bakersfield,,2005-12-07,CA
+234,Domini Kightly,Female,San Francisco,Dog,1988-10-01,CA
+235,Jami Gookes,Female,Bakersfield,Small Pets,2003-02-25,CA
+236,Ross Tourville,Male,San Diego,Farm Animals,2000-09-27,CA
+237,Lyndel Ghione,Female,Los Angeles,Small Pets,1989-04-15,CA
+238,Tammie Casperri,Male,Long Beach,Dog,1979-07-04,CA
+239,Costa Cleere,Male,Fresno,Small Pets,1993-01-27,CA
+240,Michaela Boshere,Female,Fresno,Cat,1955-08-21,CA
+241,Callie Sturley,Female,San Francisco,,1990-08-23,CA
+242,Lindi Eite,Female,Fresno,Dog,1962-02-04,CA
+243,Romona Bazell,Female,Santa Barbara,Cat,1974-09-28,CA
+244,Krishna Joye,Male,Fresno,Dog,1978-08-07,CA
+245,Lindy Churchouse,Female,Fresno,Small Pets,1986-09-26,CA
+246,Sullivan Cordet,Male,Oakland,Exotic,1955-06-06,CA
+247,Beniamino Valencia,Male,Los Angeles,Cat,1972-05-09,CA
+248,Natalie Stilly,Female,Sacramento,Small Pets,1970-11-04,CA
+249,Amerigo Dalston,Male,Long Beach,Cat,1995-11-15,CA
+250,Fiona Jenik,Female,Sacramento,Cat,1972-04-17,CA
+251,Judie Nizet,Female,Oakland,Dog,1959-07-30,CA
+252,Pierson Presland,Male,Los Angeles,Aquatic Pets,1985-03-07,CA
+253,Katleen Tomasini,Female,Fresno,Dog,1967-10-28,CA
+254,Fraze Leser,Male,San Diego,,1972-10-22,CA
+255,Florrie O'Crigane,Female,San Francisco,Dog,1977-12-05,CA
+256,Joete De Andreis,Female,San Francisco,Dog,1992-01-19,CA
+257,Willdon Boulding,Male,Irvine,Dog,1984-07-31,CA
+258,Sorcha Demead,Female,Sacramento,Dog,1969-08-09,CA
+259,Gwynne Stoite,Female,San Diego,No Preference,1978-11-26,CA
+260,Eduard Lorenzini,Male,Santa Barbara,Dog,1989-05-25,CA
+261,Amara Malek,Female,Bakersfield,Dog,1956-01-10,CA
+262,Burton Bagley,Male,Sacramento,Cat,1959-09-30,CA
+263,Vitia Roughan,Female,Irvine,Small Pets,1983-03-18,CA
+264,Erastus Newbatt,Male,Los Angeles,Cat,1973-09-04,CA
+265,Thurstan Maher,Male,Fresno,Exotic,1968-01-20,CA
+266,Rice Gilliat,Male,Oakland,Cat,1982-08-03,CA
+267,Kat Pordal,Female,San Francisco,No Preference,1968-06-09,CA
+268,Reynard Hilbourne,Male,Long Beach,Dog,1993-06-12,CA
+269,Peg Reilly,Female,Irvine,Cat,1963-02-23,CA
+270,Leroi Lardge,Male,San Diego,Dog,1992-05-01,CA
+271,Betti Prester,Female,Sacramento,Dog,1972-06-12,CA
+272,Charo Gally,Female,Los Angeles,Dog,1976-09-24,CA
+273,Milena Coldman,Female,Irvine,Dog,1984-07-30,CA
+274,Orlando Iuorio,Male,Oakland,Cat,1960-12-24,CA
+275,Deloria Lamacraft,Female,Irvine,Cat,1955-11-06,CA
+276,Reade Oades,Male,San Diego,Cat,1961-01-09,CA
+277,Glenda Bonhill,Female,Santa Barbara,Cat,1995-12-09,CA
+278,Verina Cartwright,Female,Bakersfield,Dog,1962-10-01,CA
+279,Caritta Brymham,Female,Sacramento,Small Pets,1976-01-05,CA
+280,Consuela Gribbins,Female,Irvine,Small Pets,1973-04-29,CA
+281,Aylmer Bennetto,Male,Sacramento,Dog,1959-04-22,CA
+282,Lindsey Lunam,Male,Irvine,Dog,1960-09-13,CA
+283,Elbertina Burchett,Female,Los Angeles,Exotic,1978-06-03,CA
+284,Waldemar Giriardelli,Male,Fresno,Cat,1984-04-15,CA
+285,Dave Czajkowski,Male,San Francisco,No Preference,1971-10-04,CA
+286,Bonnibelle Makiver,Female,San Diego,Cat,1970-10-18,CA
+287,Mari Gaskins,Female,Irvine,,1959-12-21,CA
+288,Trace Basden,Male,Oakland,Dog,2001-06-10,CA
+289,Orion Claxson,Male,Oakland,Cat,1976-08-17,CA
+290,Homerus Handke,Male,Irvine,Cat,1959-01-09,CA
+291,Sheela Brodest,Female,Sacramento,Farm Animals,1983-07-31,CA
+292,Agata Solan,Female,Fresno,Cat,1968-08-15,CA
+293,Rafaelia Bartali,Female,Los Angeles,Dog,1964-11-18,CA
+294,Rickey Hall-Gough,Male,Fresno,Dog,1999-07-23,CA
+295,Irwinn Saer,Male,Irvine,Dog,1975-01-28,CA
+296,Rolland Longmaid,Male,San Diego,Cat,1989-09-18,CA
+297,Clemmy Druett,Female,Sacramento,Cat,1955-10-29,CA
+298,Lambert McCobb,Male,Los Angeles,Dog,1999-02-04,CA
+299,Isahella Jaeggi,Female,Long Beach,Cat,1967-04-25,CA
+300,Adan MacDwyer,Male,Oakland,Dog,2002-04-05,CA
+301,Olivia Stoneham,Female,Santa Barbara,Cat,1970-04-29,CA
+302,Caspar Escala,Male,San Francisco,Small Pets,1977-04-10,CA
+303,Velvet Vowels,Female,Oakland,Dog,1970-12-24,CA
+304,Quintina Vain,Female,Bakersfield,Small Pets,1998-12-17,CA
+305,Cheslie Ipwell,Female,Bakersfield,Dog,2001-11-10,CA
+306,Westley Purtell,Male,Sacramento,Cat,2001-12-21,CA
+307,Nils Teape,Male,Los Angeles,Aquatic Pets,1989-12-09,CA
+308,Dodie McCrone,Female,Los Angeles,Dog,1962-01-17,CA
+309,Dorrie Swansborough,Female,Irvine,Cat,1962-01-31,CA
+310,Kare Mc Harg,Female,Santa Barbara,Cat,1955-08-23,CA
+311,Lothario Duesbury,Male,Santa Barbara,Cat,1965-06-15,CA
+312,Leroi Flight,Male,Sacramento,Cat,1975-10-19,CA
+313,Valaree Ugo,Female,Los Angeles,No Preference,1977-04-25,CA
+314,Shalne Alliott,Female,Long Beach,Dog,1986-06-17,CA
+315,Tod Scamel,Male,Oakland,Dog,1980-08-01,CA
+316,Gloriane Brothwood,Female,Fresno,Cat,1961-11-03,CA
+317,Augustine Kenworthey,Male,Irvine,Dog,1989-12-02,CA
+318,Antonin Monery,Male,Fresno,Cat,1993-10-04,CA
+319,Pincas Liversley,Male,Oakland,Cat,1968-06-11,CA
+320,Elroy Simester,Male,Irvine,Exotic,1973-09-07,CA
+321,Eba Chiddy,Female,San Diego,Aquatic Pets,1972-06-07,CA
+322,Kennedy Foulkes,Male,Long Beach,No Preference,1974-12-16,CA
+323,Syman Glenton,Male,San Diego,Farm Animals,1988-03-30,CA
+324,Jenelle Borrowman,Female,Long Beach,No Preference,1991-05-22,CA
+325,Bobbi Bridgewood,Female,San Diego,Dog,2002-09-03,CA
+326,Magda Celes,Female,Fresno,Exotic,1966-05-14,CA
+327,Leonanie Collingridge,Female,Los Angeles,,1990-06-09,CA
+328,Kiah Rawnsley,Female,Bakersfield,Cat,1966-10-04,CA
+329,Gael Ramirez,Male,Irvine,Cat,1986-06-23,CA
+330,Baryram Chell,Male,Bakersfield,Cat,1963-01-29,CA
+331,Montague Lias,Male,Long Beach,Dog,1984-03-20,CA
+332,Pyotr Redfield,Male,Los Angeles,Cat,1955-06-11,CA
+333,Janot Denning,Female,Los Angeles,No Preference,1980-12-30,CA
+334,Deanna Cabena,Female,San Diego,Dog,1978-12-06,CA
+335,Mackenzie Kirtlan,Male,Sacramento,Cat,1980-04-07,CA
+336,Marie-ann Biever,Female,Oakland,Dog,1979-10-23,CA
+337,Merlina Walworche,Female,Los Angeles,Dog,1985-03-27,CA
+338,Hagan Harte,Male,Los Angeles,Cat,1980-08-16,CA
+339,Agneta Delahunty,Female,San Francisco,No Preference,1987-02-11,CA
+340,Kelwin Erington,Male,Fresno,Cat,1986-07-01,CA
+341,Arlie McGilvra,Female,San Francisco,Dog,1962-09-05,CA
+342,Gun Kahane,Male,Bakersfield,Dog,1960-04-09,CA
+343,Breanne Knoble,Female,San Francisco,Dog,1970-06-10,CA
+344,Jeanna Posselow,Female,San Francisco,Dog,2003-05-17,CA
+345,Gaultiero Evill,Male,Fresno,Cat,1975-07-03,CA
+346,Linda Klulisek,Female,Sacramento,Dog,1969-12-31,CA
+347,Connie Livard,Male,San Diego,Exotic,1973-01-01,CA
+348,Wyndham McDyer,Male,Los Angeles,Dog,1971-10-28,CA
+349,Mariette Wildey,Female,Fresno,No Preference,1971-04-16,CA
+350,Hurleigh Guiraud,Male,San Diego,Cat,1961-08-13,CA
+351,Warde Pellington,Male,Santa Barbara,Cat,1959-11-10,CA
+352,Charlie Hovington,Male,Oakland,Cat,1956-01-24,CA
+353,Sybila Muspratt,Female,Oakland,Dog,1992-10-03,CA
+354,Dotti Embling,Female,Oakland,Cat,1973-07-02,CA
+355,Rockie Thomelin,Male,Oakland,Cat,1980-10-13,CA
+356,Sabina Kerin,Female,San Francisco,Dog,1997-03-06,CA
+357,Syman Laughlan,Male,Santa Barbara,Dog,1973-07-23,CA
+358,Carlota Affleck,Female,San Diego,Cat,1975-07-13,CA
+359,Marne Snoddy,Female,Los Angeles,Cat,2003-07-16,CA
+360,Orbadiah Armal,Male,San Francisco,Dog,1957-12-01,CA
+361,Barthel Cashell,Male,Oakland,Cat,1975-03-18,CA
+362,Dan Cudiff,Male,San Diego,,2000-03-08,CA
+363,Agustin Bonafacino,Male,Los Angeles,Dog,1982-08-07,CA
+364,Fidelio Van der Kruys,Male,Long Beach,Dog,2001-10-27,CA
+365,Bili Reedshaw,Female,Long Beach,Dog,1967-05-26,CA
+366,Hildegaard Baggarley,Female,Santa Barbara,Dog,1984-03-21,CA
+367,Dael Maykin,Male,Oakland,Cat,1957-09-22,CA
+368,Vail Cooch,Male,Sacramento,Dog,1963-01-04,CA
+369,Christie Piscopo,Female,San Diego,Cat,1998-02-25,CA
+370,Vilhelmina Yerson,Female,Long Beach,,1968-01-15,CA
+371,Suzanne Heard,Female,Oakland,Dog,2000-05-30,CA
+372,Niles Whyborn,Male,Santa Barbara,No Preference,1972-07-14,CA
+373,Latisha Tourville,Female,Bakersfield,Dog,1963-10-15,CA
+374,Angelica Gentil,Female,San Diego,Exotic,1974-08-03,CA
+375,Blaire Raiman,Female,Santa Barbara,No Preference,1992-09-26,CA
+376,Bay Lanktree,Male,Santa Barbara,Dog,1965-09-10,CA
+377,Carlita Barchrameev,Female,Bakersfield,Dog,1963-01-06,CA
+378,Gottfried Heed,Male,San Francisco,Cat,1970-02-20,CA
+379,Farlay Greetland,Male,Oakland,Cat,1976-03-18,CA
+380,Horacio Swoffer,Male,Irvine,Cat,1958-05-09,CA
+381,Sheppard Borthe,Male,San Francisco,Dog,1972-09-17,CA
+382,Tommy Duguid,Male,San Francisco,Cat,2000-01-10,CA
+383,Chantal Drew-Clifton,Female,Santa Barbara,Dog,1986-11-06,CA
+384,Zandra Swayne,Female,Oakland,Cat,1988-09-07,CA
+385,Chantal Sheer,Female,Santa Barbara,Dog,1979-07-10,CA
+386,Sasha Pigeram,Female,Fresno,Cat,1983-06-18,CA
+387,Jackqueline Dillicate,Female,Santa Barbara,Cat,1992-01-10,CA
+388,Christean Fobidge,Female,Fresno,Farm Animals,1958-05-14,CA
+389,Abigail Biggam,Female,Long Beach,Cat,1990-03-12,CA
+390,Fanya Colter,Female,Irvine,Cat,2005-05-30,CA
+391,Nerta Malcher,Female,Long Beach,No Preference,1977-11-14,CA
+392,Oralie Tathacott,Female,Fresno,Dog,1970-11-24,CA
+393,Sigrid Hearnaman,Female,Long Beach,Aquatic Pets,2002-07-12,CA
+394,Cindelyn Trengrouse,Female,Fresno,Cat,1994-10-25,CA
+395,Norry Pepper,Male,Bakersfield,Dog,1955-08-17,CA
+396,Claudianus Gillingwater,Male,San Francisco,Dog,1987-10-06,CA
+397,Gan Holme,Male,Sacramento,Cat,1958-01-10,CA
+398,Melissa Tinsley,Female,Fresno,,1991-08-27,CA
+399,Damara Seabourne,Female,Santa Barbara,Dog,1958-02-13,CA
+400,El Bodker,Male,Sacramento,Cat,1998-03-15,CA
+401,Corrianne Tesseyman,Female,Irvine,Cat,1987-03-29,CA
+402,Hollis Voce,Male,Oakland,Cat,1988-11-14,CA
+403,Haydon Bulcroft,Male,Long Beach,Small Pets,2000-02-08,CA
+404,Gare Bonnesen,Male,Los Angeles,Dog,1993-08-19,CA
+405,Aksel Bamlet,Male,Irvine,Cat,1995-08-18,CA
+406,Anabal Dangerfield,Female,San Diego,Dog,1986-03-11,CA
+407,Cindy Ewebank,Female,Long Beach,Dog,1986-03-27,CA
+408,Meridith Denidge,Female,Oakland,Cat,1969-11-06,CA
+409,Milissent Duigenan,Female,Fresno,Dog,2001-10-20,CA
+410,Daron Beadman,Male,Irvine,Cat,1994-04-21,CA
+411,Martin Rosario,Male,San Francisco,,1968-01-30,CA
+412,Spense Parram,Male,Irvine,Dog,1966-02-18,CA
+413,Peria Housbey,Female,Long Beach,,1956-01-31,CA
+414,Lincoln McLaughlin,Male,Irvine,Dog,1974-01-07,CA
+415,Ned Jovanovic,Male,Oakland,,1989-06-17,CA
+416,Ronnie Mertin,Female,Fresno,,1958-04-03,CA
+417,Doralynn Semaine,Female,Long Beach,Dog,1983-12-24,CA
+418,Tera Raybould,Female,San Diego,Exotic,1955-12-13,CA
+419,Grace Sexon,Female,Irvine,,2000-12-29,CA
+420,Gennifer Sambeck,Female,Bakersfield,Exotic,1985-01-20,CA
+421,Kesley Silvester,Female,Irvine,Cat,1972-07-20,CA
+422,Delcina Markus,Female,Oakland,Cat,1970-08-28,CA
+423,Ringo Salvin,Male,San Francisco,Dog,1956-12-19,CA
+424,Krystyna Benmore,Female,San Francisco,Dog,1994-11-20,CA
+425,Thomas Cleife,Male,Long Beach,Dog,1962-03-18,CA
+426,Burg Hamshar,Male,San Francisco,Cat,2002-11-14,CA
+427,Lem Lowson,Male,Irvine,Cat,1970-05-20,CA
+428,Lynnea Dumbar,Female,Long Beach,,1989-10-12,CA
+429,Dallis Pohlke,Male,Oakland,Dog,1959-11-10,CA
+430,Ardine Cutbush,Female,Fresno,Cat,1973-08-31,CA
+431,Rickey Harrower,Male,Bakersfield,Cat,1995-03-11,CA
+432,Shirline Grebner,Female,San Diego,Cat,1955-03-17,CA
+433,Hill Ferrer,Male,Irvine,No Preference,2005-08-06,CA
+434,Gabbie Fosdick,Female,Sacramento,Small Pets,1994-01-12,CA
+435,Lyda Hogsden,Female,Fresno,Dog,1991-12-08,CA
+436,Marinna Scarlin,Female,Bakersfield,Cat,1963-09-26,CA
+437,Kennedy Lowde,Male,Bakersfield,Dog,1990-01-09,CA
+438,Dunc Purselow,Male,Sacramento,Dog,1980-01-18,CA
+439,Rahel Rosenzveig,Female,Irvine,Dog,1962-08-05,CA
+440,Barris Pimmocke,Male,Fresno,Dog,2004-10-30,CA
+441,Lewiss Normington,Male,San Francisco,Dog,2003-12-01,CA
+442,Alyse Gilbanks,Female,Fresno,Dog,1990-10-08,CA
+443,Clementius Devo,Male,San Diego,Exotic,1966-12-07,CA
+444,Aeriela Olver,Female,Irvine,Farm Animals,1995-12-24,CA
+445,Gerda Gordge,Female,Irvine,Dog,1996-08-01,CA
+446,Yorgos Berridge,Male,Los Angeles,Dog,1982-03-14,CA
+447,Candice Baudacci,Female,Irvine,Cat,1969-05-25,CA
+448,Joane Filippyev,Female,Fresno,Dog,1982-03-20,CA
+449,Trey Cluse,Male,Santa Barbara,Exotic,1976-09-03,CA
+450,Galvan Dunnet,Male,Sacramento,Dog,1995-07-09,CA
+451,Lucinda Gisburn,Female,Fresno,Dog,1970-08-12,CA
+452,Clair Kenwood,Male,Irvine,Aquatic Pets,1994-05-31,CA
+453,Rodi Ferrarello,Female,Sacramento,Exotic,2004-04-18,CA
+454,Lock Dowman,Male,Sacramento,Dog,1977-04-15,CA
+455,Essa Gundry,Female,Long Beach,Dog,1993-03-20,CA
+456,Abbie Relton,Female,Santa Barbara,Dog,1989-05-14,CA
+457,Delilah Cassels,Female,Fresno,Cat,1992-12-10,CA
+458,Ravid Bartolomivis,Male,Irvine,No Preference,1995-03-27,CA
+459,Reynold Hellis,Male,Irvine,Dog,2004-09-10,CA
+460,Berti Fesby,Male,San Francisco,No Preference,1993-11-09,CA
+461,Fionna Ciccarelli,Female,San Francisco,Dog,1996-07-20,CA
+462,Yehudit Vidler,Male,Los Angeles,No Preference,1957-01-24,CA
+463,Ardis Bielefeld,Female,Santa Barbara,Cat,2002-01-14,CA
+464,Frederique Rapelli,Female,Irvine,Cat,1970-09-04,CA
+465,Johnathan Farish,Male,Los Angeles,Cat,1981-09-30,CA
+466,Jany Pryn,Female,Oakland,Cat,2004-01-07,CA
+467,Alexei St. Hill,Male,Santa Barbara,Cat,1960-04-28,CA
+468,Trumann Hardingham,Male,Irvine,No Preference,1970-10-24,CA
+469,Brinn Muzzi,Female,Los Angeles,Cat,1979-09-12,CA
+470,Erek Gonzales,Male,Sacramento,Cat,1973-05-31,CA
+471,Hamil Ockwell,Male,Santa Barbara,Cat,1973-07-31,CA
+472,Brandtr Batalini,Male,Fresno,Cat,1970-06-08,CA
+473,Glad Esler,Female,Santa Barbara,Farm Animals,1991-10-20,CA
+474,Bartholomeus Roxbee,Male,Fresno,Dog,1980-09-29,CA
+475,Hebert Gurney,Male,Sacramento,Cat,1963-06-04,CA
+476,Aimee Tipens,Female,Fresno,Cat,1960-09-30,CA
+477,Erinna Sibly,Female,Fresno,Dog,1977-10-13,CA
+478,Robbie Raulstone,Male,Long Beach,No Preference,1982-02-09,CA
+479,Leela Dwelley,Female,Long Beach,Dog,1962-10-24,CA
+480,Kathye Damant,Female,Irvine,Dog,1973-02-02,CA
+481,Boy Pickerin,Male,Oakland,Cat,1998-09-18,CA
+482,Dick Rymill,Male,San Francisco,Dog,1964-07-21,CA
+483,Sholom Feares,Male,Los Angeles,No Preference,1964-03-16,CA
+484,Thatcher Bilham,Male,Sacramento,Small Pets,1988-09-09,CA
+485,Stafani Sheddan,Female,Sacramento,No Preference,1997-11-09,CA
+486,Northrop Jorden,Male,San Diego,Cat,1966-02-16,CA
+487,Robinet Lawlance,Male,Bakersfield,Small Pets,1971-07-24,CA
+488,Susi Found,Female,Oakland,Dog,2005-04-18,CA
+489,Inger Brunton,Male,San Francisco,Dog,1965-02-21,CA
+490,Rosaleen Georg,Female,Oakland,Cat,1965-09-19,CA
+491,Jenda Sealy,Female,Sacramento,Dog,1996-11-17,CA
+492,Jazmin Schumacher,Female,San Diego,Dog,2002-07-02,CA
+493,Nelia Audiss,Female,Irvine,Exotic,1988-08-31,CA
+494,Paolo Arne,Male,Bakersfield,Cat,1989-04-19,CA
+495,Alaster Sargeant,Male,San Francisco,Dog,1973-05-14,CA
+496,Mignonne Cottle,Female,Sacramento,Dog,1971-07-19,CA
+497,Andreas Hindmoor,Male,Santa Barbara,Exotic,1981-09-20,CA
+498,Cosmo Niset,Male,Fresno,Dog,2002-12-21,CA
+499,Shannen Triggol,Female,San Francisco,Cat,1989-10-15,CA
+500,Rey Bottoms,Male,San Francisco,Dog,1991-03-01,CA
+501,Dane Shanahan,Male,Los Angeles,Exotic,1958-09-08,CA
+502,Derk Caddy,Male,Sacramento,Cat,1959-08-02,CA
+503,Nolly Hurcombe,Male,Fresno,Small Pets,1969-03-03,CA
+504,Alice Congrave,Female,San Diego,Cat,2003-02-28,CA
+505,Bartholomeo Statersfield,Male,San Diego,Dog,2002-08-24,CA
+506,Hailey Keyte,Male,San Francisco,Dog,1981-09-01,CA
+507,Mervin Gadsdon,Male,Santa Barbara,Cat,1979-09-15,CA
+508,Ted Hartell,Male,Bakersfield,Cat,1981-02-22,CA
+509,Bail Siman,Male,Sacramento,Dog,1994-07-25,CA
+510,Pattie Markie,Female,Los Angeles,Cat,1986-04-18,CA
+511,Suzann Joddins,Female,Sacramento,Exotic,1970-07-02,CA
+512,Felipe Goaks,Male,Oakland,Cat,1980-07-05,CA
+513,Yankee Jamieson,Male,Sacramento,Cat,1959-09-03,CA
+514,Brandyn Peschet,Male,Bakersfield,Farm Animals,1967-08-15,CA
+515,Free Deeley,Male,Santa Barbara,Cat,1959-08-30,CA
+516,Lilia Soreau,Female,Los Angeles,No Preference,1977-07-24,CA
+517,Kara Foxen,Female,Sacramento,Cat,1993-03-17,CA
+518,Dario Ugoni,Male,Los Angeles,Farm Animals,1957-11-01,CA
+519,Faina Mayou,Female,Irvine,Cat,1958-07-07,CA
+520,Junia Taffrey,Female,Long Beach,Farm Animals,1987-08-27,CA
+521,Aurie Croan,Female,San Francisco,Cat,1979-06-10,CA
+522,Giulia Longworthy,Female,Los Angeles,Cat,1960-11-18,CA
+523,Lebbie Petkov,Female,Los Angeles,Cat,1986-06-24,CA
+524,Mervin Divell,Male,Irvine,Dog,2003-03-26,CA
+525,Madelena Hammant,Female,Sacramento,No Preference,1955-10-31,CA
+526,Davina Goschalk,Female,Long Beach,Dog,1979-05-14,CA
+527,Evyn Greatorex,Male,Bakersfield,Cat,1971-11-24,CA
+528,Serena Tinsey,Female,San Francisco,Cat,1995-08-07,CA
+529,Danika Hatliff,Female,Oakland,Cat,1965-03-15,CA
+530,Anders Orwin,Male,Sacramento,,1979-03-20,CA
+531,Fredia MacAndrew,Female,Sacramento,Cat,1973-05-28,CA
+532,Isidor Onge,Male,Fresno,Cat,1986-02-04,CA
+533,Justinian Kilshall,Male,San Francisco,Dog,1987-06-30,CA
+534,Marci Fautly,Female,Bakersfield,Cat,1993-07-30,CA
+535,Zaria Mauchline,Female,Bakersfield,Cat,1967-11-21,CA
+536,Bernardine O'Codihie,Female,Los Angeles,Dog,2005-01-15,CA
+537,Mano Parkyns,Male,San Diego,Dog,1992-03-09,CA
+538,Phillipe Cadden,Male,San Francisco,Farm Animals,2004-06-08,CA
+539,Wait Jimmes,Male,Irvine,Small Pets,1976-04-02,CA
+540,Bridgette D'Onise,Female,Irvine,Cat,1967-03-20,CA
+541,Weider MacLaig,Male,Oakland,Dog,1969-04-09,CA
+542,Austin Clethro,Male,San Francisco,No Preference,1995-01-31,CA
+543,Way Wasylkiewicz,Male,Los Angeles,,1965-08-27,CA
+544,Sharia Decayette,Female,Irvine,Dog,1984-05-11,CA
+545,Jermayne Raddish,Male,San Francisco,Dog,1977-10-22,CA
+546,Mort Waything,Male,Los Angeles,Exotic,1961-11-16,CA
+547,Aguste Riches,Male,San Francisco,Cat,1994-08-07,CA
+548,Nora Coull,Female,San Francisco,Dog,1981-02-23,CA
+549,Kimberley Habben,Female,San Francisco,,1965-06-19,CA
+550,Brooks Oury,Male,Los Angeles,Dog,1982-03-03,CA
+551,Conroy Pikesley,Male,Los Angeles,No Preference,1966-05-14,CA
+552,Ulrika Grix,Female,Long Beach,Cat,1995-02-19,CA
+553,Lianna Cundict,Female,Sacramento,Dog,1955-06-28,CA
+554,Penelopa Tonbridge,Female,Fresno,Dog,1967-02-15,CA
+555,Carr Tibbetts,Male,San Francisco,Dog,2001-11-11,CA
+556,Clare Mateuszczyk,Male,San Diego,Cat,1957-09-25,CA
+557,Leonhard Sibbet,Male,Oakland,Dog,1956-05-14,CA
+558,Jackie Elrick,Male,Los Angeles,Small Pets,1969-10-05,CA
+559,Fritz Dymick,Male,Oakland,Cat,1998-05-07,CA
+560,Bevvy Ronci,Female,Oakland,Exotic,1984-05-31,CA
+561,Jean Beardwood,Female,Oakland,Dog,1967-02-27,CA
+562,Milissent Dulake,Female,Irvine,Cat,1971-01-23,CA
+563,Urban Bartolozzi,Male,Irvine,Cat,1978-10-28,CA
+564,Christoforo Poundford,Male,Los Angeles,Aquatic Pets,2005-05-10,CA
+565,Ignaz O'Shields,Male,Long Beach,Cat,1985-06-10,CA
+566,Lorens Elbourne,Male,Bakersfield,Cat,1983-03-20,CA
+567,Ranique Molines,Female,Los Angeles,Cat,1964-05-04,CA
+568,Lesley Craise,Female,Sacramento,Dog,1986-11-10,CA
+569,Jasun Oxlee,Male,San Francisco,,1998-10-31,CA
+570,Tracy Marieton,Female,Fresno,,1997-09-28,CA
+571,Garfield Piner,Male,San Francisco,Exotic,1979-08-30,CA
+572,Abran Cellier,Male,San Diego,Cat,2004-03-27,CA
+573,Lamar McCurtain,Male,Fresno,Dog,1986-12-06,CA
+574,Coleman Armytage,Male,Sacramento,Dog,1991-09-23,CA
+575,Prudy Coutthart,Female,Irvine,Dog,1993-02-02,CA
+576,Verla Wotherspoon,Female,Santa Barbara,Cat,1992-09-08,CA
+577,Jacklin Dole,Female,San Diego,Cat,1959-03-04,CA
+578,Ignatius Dymoke,Male,Irvine,Cat,1957-02-16,CA
+579,Beulah Pfleger,Female,San Francisco,Cat,1983-04-19,CA
+580,Kailey Gozard,Female,Irvine,Dog,1986-06-13,CA
+581,Faye Armitage,Female,Fresno,Cat,1989-07-21,CA
+582,Bartie Cosgreave,Male,Bakersfield,Cat,1972-01-13,CA
+583,Maureen Rembrant,Female,Long Beach,Dog,1989-06-25,CA
+584,Hebert Spenley,Male,Oakland,Dog,1981-10-24,CA
+585,Paulie Cino,Female,Long Beach,Cat,2003-06-08,CA
+586,Wilhelm Darter,Male,Los Angeles,No Preference,1973-03-20,CA
+587,Leroy Tole,Male,Fresno,Exotic,1991-09-13,CA
+588,Carola Normavill,Female,San Francisco,Dog,1988-02-15,CA
+589,Bartholomeus Errey,Male,San Francisco,Cat,1971-11-08,CA
+590,Jayme Caw,Male,Los Angeles,Dog,1998-10-15,CA
+591,Brett Aikin,Male,Santa Barbara,Exotic,2005-08-09,CA
+592,Lorilee Shemmin,Female,Long Beach,Cat,1983-12-25,CA
+593,Ellynn Daud,Female,San Francisco,Cat,2002-07-05,CA
+594,Montgomery Febry,Male,San Francisco,Farm Animals,1957-09-23,CA
+595,Clea Alvarado,Female,Los Angeles,Cat,1983-01-26,CA
+596,Ernestus Elstow,Male,San Francisco,Dog,2004-05-09,CA
+597,Elly Bromby,Female,Oakland,Cat,1986-05-13,CA
+598,Dorise Vassman,Female,San Diego,Cat,1998-08-08,CA
+599,Bonnie Pinckstone,Female,Sacramento,Cat,1981-07-05,CA
+600,Katusha Cotgrove,Female,Sacramento,Dog,1967-01-25,CA
+601,Basilius Wemyss,Male,Santa Barbara,Dog,1994-11-17,CA
+602,Trace Realff,Male,Long Beach,Cat,1984-12-12,CA
+603,Tallie Woodall,Female,San Diego,Cat,1996-01-16,CA
+604,Randa Litchmore,Female,San Diego,,1990-02-21,CA
+605,Asia Simonite,Female,Oakland,Cat,1985-04-19,CA
+606,Gill Brownfield,Female,Bakersfield,Cat,1986-05-07,CA
+607,Claudius Shatliffe,Male,Oakland,Cat,1986-08-03,CA
+608,Cesar Dellit,Male,San Francisco,Cat,2002-06-19,CA
+609,Shani McNelly,Female,Sacramento,Cat,1983-07-14,CA
+610,Antonetta Imore,Female,Fresno,Dog,1991-05-01,CA
+611,Nert Bruhnsen,Female,Fresno,Dog,2002-02-04,CA
+612,Lyn Lars,Female,Irvine,,1970-04-08,CA
+613,Brewster Hesse,Male,San Diego,,1974-12-07,CA
+614,Kaitlyn Berecloth,Female,Los Angeles,Cat,2000-09-08,CA
+615,Denyse Titchard,Female,Los Angeles,Cat,1960-07-18,CA
+616,Jehanna Olczak,Female,Long Beach,Dog,1959-08-19,CA
+617,Rhona Gowans,Female,Sacramento,,1977-10-02,CA
+618,Gunner Hugnin,Male,Los Angeles,Cat,1957-08-03,CA
+619,Yurik Huson,Male,Bakersfield,Cat,1995-04-12,CA
+620,Kerwinn Cowap,Male,Santa Barbara,Small Pets,1957-05-24,CA
+621,Nixie Moland,Female,Bakersfield,Dog,2002-06-18,CA
+622,Wright Wharton,Male,Irvine,No Preference,1976-05-08,CA
+623,Albert MacTrusty,Male,Oakland,Cat,1999-01-13,CA
+624,Celia Dechelle,Female,Fresno,Cat,1959-05-01,CA
+625,Doreen Yateman,Female,Long Beach,Exotic,1976-05-17,CA
+626,Sonnie Hehl,Female,Fresno,Dog,1967-07-10,CA
+627,Kingsly Scotsbrook,Male,Santa Barbara,Cat,1999-10-07,CA
+628,Madelina Blockey,Female,Bakersfield,,1961-07-25,CA
+629,Deena Delucia,Female,Sacramento,Dog,1955-11-27,CA
+630,Tallie Pedican,Female,Long Beach,Cat,1968-02-18,CA
+631,Raffarty Sumnall,Male,San Diego,Cat,1982-10-20,CA
+632,Viki Yeiles,Female,San Francisco,Cat,1991-10-11,CA
+633,Marleen Sawle,Female,Irvine,Dog,1965-09-16,CA
+634,Gregg Pashen,Male,Bakersfield,Dog,1997-05-16,CA
+635,Brianne De Freitas,Female,Bakersfield,Cat,1990-08-04,CA
+636,Chaim Glyn,Male,Long Beach,Cat,1981-10-11,CA
+637,Betta Starrs,Female,Santa Barbara,Dog,1988-03-31,CA
+638,Scottie Mawdsley,Male,Oakland,Cat,1955-09-22,CA
+639,Helenelizabeth Carloni,Female,Long Beach,No Preference,1984-06-12,CA
+640,Max Aldis,Female,Long Beach,Cat,1977-01-31,CA
+641,Bessie Houldin,Female,Santa Barbara,Cat,1990-07-31,CA
+642,Conny Lintill,Female,San Diego,No Preference,1958-06-29,CA
+643,Carl Deegan,Male,Bakersfield,Dog,2003-08-12,CA
+644,Morna Baston,Female,Bakersfield,Farm Animals,1968-11-05,CA
+645,Hall Simoncello,Male,San Diego,Dog,1986-02-15,CA
+646,Egan Walthew,Male,Fresno,Cat,1956-03-08,CA
+647,Dynah Coldbath,Female,Bakersfield,Dog,1965-06-26,CA
+648,Rodie Dalby,Female,Oakland,Cat,1970-06-21,CA
+649,Armin Craise,Male,Los Angeles,Cat,2000-11-13,CA
+650,Alfie Cottem,Male,Los Angeles,Dog,1968-03-29,CA
+651,Ivory Geertsen,Female,San Francisco,Cat,1987-09-08,CA
+652,Northrup Catt,Male,Fresno,Exotic,1962-11-20,CA
+653,Rycca Huckerbe,Female,Oakland,Cat,1961-10-13,CA
+654,Amerigo Cowthart,Male,Bakersfield,Cat,1969-12-13,CA
+655,Bondie Mattam,Male,San Diego,Cat,1992-07-03,CA
+656,Dorisa Jindrich,Female,Fresno,Dog,2005-10-26,CA
+657,Morgen Yearron,Female,Santa Barbara,No Preference,1959-09-01,CA
+658,Vita Sign,Female,San Diego,Small Pets,1970-03-08,CA
+659,Neron Rzehorz,Male,San Diego,Exotic,1971-06-26,CA
+660,Charis Start,Female,Santa Barbara,Cat,2003-11-09,CA
+661,Suzanne Parkins,Female,San Diego,Cat,1967-05-28,CA
+662,Vinson Garter,Male,Oakland,Dog,1996-05-21,CA
+663,Gibb MacGoun,Male,Bakersfield,Dog,1996-04-28,CA
+664,Clay Waiton,Male,Bakersfield,Dog,1955-02-28,CA
+665,Romain Levison,Male,Oakland,Cat,2003-11-03,CA
+666,Augy Schellig,Male,San Diego,Cat,1959-03-29,CA
+667,Sascha Slimon,Female,San Diego,Cat,2001-10-12,CA
+668,Arabel Krolle,Female,Fresno,Cat,1968-08-11,CA
+669,Charlot Hoff,Female,San Diego,Cat,1983-09-02,CA
+670,Gian Venediktov,Male,Oakland,No Preference,1979-04-02,CA
+671,Scott McCobb,Male,San Diego,Cat,1994-03-22,CA
+672,Tandie Cavy,Female,Bakersfield,Exotic,1997-07-06,CA
+673,Marietta Garmans,Female,San Francisco,Cat,1965-11-27,CA
+674,Scottie Dominguez,Male,Los Angeles,No Preference,1972-03-01,CA
+675,Gibby Dwerryhouse,Male,Long Beach,Dog,1961-03-24,CA
+676,Carline O'Loughnan,Female,Santa Barbara,Cat,1973-08-30,CA
+677,Ilyssa Midlar,Female,Irvine,Cat,1977-02-11,CA
+678,Elayne Blunden,Female,Santa Barbara,,1966-08-16,CA
+679,Starla Anear,Female,Bakersfield,Farm Animals,1998-01-02,CA
+680,Tye Udall,Male,San Diego,Dog,1961-09-19,CA
+681,Antonella Sanper,Female,San Francisco,Cat,1993-10-25,CA
+682,Benedetto Glasspool,Male,Sacramento,Dog,1990-10-19,CA
+683,Shane Guiver,Female,Irvine,Dog,1983-03-07,CA
+684,Electra Enser,Female,Long Beach,Dog,2001-09-18,CA
+685,Whittaker Capaldi,Male,San Diego,Aquatic Pets,1983-06-29,CA
+686,Genna Denisevich,Female,San Diego,Dog,1962-03-07,CA
+687,Candida Feldbaum,Female,Santa Barbara,Cat,1975-01-13,CA
+688,Kahlil McMichael,Male,Oakland,No Preference,1989-12-15,CA
+689,Royce Smidmore,Male,Long Beach,Farm Animals,1970-11-04,CA
+690,Myrtice Rayer,Female,Oakland,Cat,1960-12-10,CA
+691,Donall Colquit,Male,San Diego,Small Pets,1970-03-29,CA
+692,Sara-ann Mucklestone,Female,San Diego,Cat,1973-05-04,CA
+693,Waverly Bromilow,Male,Oakland,Dog,1967-07-18,CA
+694,Angie Tanfield,Female,Bakersfield,Cat,1958-10-05,CA
+695,Penelopa Fforde,Female,Oakland,Dog,1994-07-11,CA
+696,Mikel Corbet,Male,Santa Barbara,Cat,1981-07-20,CA
+697,Tarrance Jaqueminet,Male,Santa Barbara,Cat,1958-10-17,CA
+698,Ashlen Coath,Female,Long Beach,Small Pets,1977-10-19,CA
+699,Cordey Abramski,Female,Bakersfield,Dog,1995-09-25,CA
+700,Gery Rickett,Male,Los Angeles,Dog,1981-12-15,CA
+701,Suzanna Grunder,Female,Oakland,Cat,1962-01-11,CA
+702,Marylynne MacNeish,Female,Fresno,Dog,1992-07-03,CA
+703,Desiree Juschka,Female,Los Angeles,Small Pets,1969-09-13,CA
+704,Tiler Brownscombe,Male,Los Angeles,Dog,1964-10-31,CA
+705,Lorie Peiser,Female,San Francisco,Exotic,1965-05-31,CA
+706,Manuel Loraine,Male,Santa Barbara,Cat,1983-03-28,CA
+707,Oliviero Ryles,Male,Irvine,Cat,1966-09-23,CA
+708,Otes Pollins,Male,Long Beach,Dog,1974-05-23,CA
+709,Gabrielle Dyhouse,Female,Oakland,Dog,1987-09-12,CA
+710,Koenraad Smurfitt,Male,Long Beach,Dog,1983-09-29,CA
+711,Joceline Rushbrook,Female,Fresno,Cat,1994-04-19,CA
+712,Thornie Holbury,Male,Sacramento,Small Pets,1961-10-05,CA
+713,Cointon Node,Male,Sacramento,Dog,1992-02-02,CA
+714,Isabelle Samweyes,Female,San Diego,Dog,1985-10-11,CA
+715,Lazar Yablsley,Male,Los Angeles,Exotic,2002-07-16,CA
+716,Andreana Duffree,Female,San Diego,Dog,1961-01-24,CA
+717,Udale McGonigle,Male,Sacramento,Dog,1987-01-10,CA
+718,Morgen Franies,Female,Bakersfield,Cat,1977-09-11,CA
+719,Leonard Juliff,Male,Sacramento,Cat,2003-11-08,CA
+720,Abie Clougher,Male,Irvine,Dog,1976-06-05,CA
+721,Staford Royson,Male,San Diego,Dog,1973-11-20,CA
+722,Klara Josovitz,Female,Oakland,Cat,1979-08-15,CA
+723,Lida Giacopelo,Female,Bakersfield,Dog,1972-07-21,CA
+724,Simonette Zumbusch,Female,Sacramento,Cat,1965-04-12,CA
+725,Archer Eykelhof,Male,Long Beach,Cat,1969-01-04,CA
+726,Baily Kain,Male,San Francisco,No Preference,1991-01-24,CA
+727,Flor I'anson,Female,Fresno,,1979-05-07,CA
+728,Harland Piquard,Male,Sacramento,Dog,1975-10-16,CA
+729,Camel Mulliss,Female,Sacramento,Dog,2005-07-17,CA
+730,Lorette Spinella,Female,San Diego,Dog,1988-08-20,CA
+731,Mona Jerrand,Female,Sacramento,,1987-04-28,CA
+732,Alastair Gelland,Male,Long Beach,Dog,1988-09-20,CA
+733,Betty Thorley,Female,Long Beach,Dog,1986-02-27,CA
+734,Joshua Pickerin,Male,Fresno,No Preference,1987-06-13,CA
+735,Clari Pashler,Female,Oakland,Dog,2005-06-01,CA
+736,Elfrieda Gettings,Female,San Diego,Cat,1960-11-01,CA
+737,Gretna Cicco,Female,San Francisco,Dog,1959-11-26,CA
+738,Elora Mayell,Female,Santa Barbara,Cat,2005-01-19,CA
+739,Obadiah Roderham,Male,Fresno,,1972-07-26,CA
+740,Melony Cristofalo,Female,Santa Barbara,Dog,1977-06-09,CA
+741,Cameron Bento,Male,San Francisco,,1977-06-14,CA
+742,Boote People,Male,Irvine,Dog,1964-10-07,CA
+743,Freddie Gives,Male,Bakersfield,Dog,1981-12-23,CA
+744,Carmine Baggally,Female,San Francisco,Dog,1980-12-25,CA
+745,Haily Ianiello,Male,Bakersfield,Cat,1987-04-18,CA
+746,Gaultiero Rudledge,Male,Long Beach,Cat,1964-07-28,CA
+747,Dannie Fibbitts,Male,Santa Barbara,Cat,1992-06-05,CA
+748,Galven Chadd,Male,Bakersfield,,1969-07-10,CA
+749,Caitrin Attiwill,Female,San Francisco,Cat,1985-06-29,CA
+750,Gerladina Bustin,Female,Los Angeles,Dog,1993-03-26,CA
+751,Karilynn Kolushev,Female,Santa Barbara,Cat,1984-04-08,CA
+752,Niccolo Duckhouse,Male,Sacramento,Dog,1966-10-11,CA
+753,Rebbecca Pudsey,Female,Bakersfield,No Preference,1996-06-01,CA
+754,Arnaldo Abrahamsen,Male,Bakersfield,Exotic,1978-10-12,CA
+755,Howard Murdy,Male,Irvine,Dog,1994-02-11,CA
+756,Vassili Dunton,Male,Los Angeles,Dog,1992-11-13,CA
+757,Jacki Sudran,Female,Bakersfield,Cat,1963-06-02,CA
+758,Nickola Torrisi,Male,Bakersfield,Small Pets,1984-11-17,CA
+759,Anica Durker,Female,Santa Barbara,Dog,1995-09-16,CA
+760,Fons Upshall,Male,Fresno,Cat,1972-07-01,CA
+761,Chickie Gristwood,Female,Los Angeles,Cat,1962-03-06,CA
+762,Paulie Byneth,Female,Sacramento,Cat,2005-06-19,CA
+763,Wally Ply,Male,Santa Barbara,Dog,1967-09-01,CA
+764,Carmencita Hallgath,Female,San Diego,No Preference,1971-10-05,CA
+765,Pippy Wayland,Female,San Francisco,Dog,1964-10-11,CA
+766,Hieronymus Waggitt,Male,Oakland,Dog,1962-02-16,CA
+767,Averyl Berntssen,Female,Long Beach,Cat,1974-01-13,CA
+768,Maje MacSharry,Male,Los Angeles,,1970-07-21,CA
+769,Gayle Orrocks,Male,San Diego,Cat,1998-09-04,CA
+770,Allayne Tant,Male,San Diego,,1986-05-04,CA
+771,Micky Rochelle,Female,Sacramento,Dog,1995-07-14,CA
+772,Rivalee Clyde,Female,Oakland,Dog,1999-04-03,CA
+773,Hanny Gomar,Female,Bakersfield,Exotic,1978-01-30,CA
+774,Darren Liger,Male,Sacramento,Dog,1963-06-30,CA
+775,Olivier Prime,Male,San Francisco,Cat,1974-05-11,CA
+776,Matt Ekell,Male,Oakland,,1958-11-29,CA
+777,Jeri Dibsdale,Female,Sacramento,Cat,1993-02-01,CA
+778,Orsa Brookzie,Female,Santa Barbara,Cat,1966-04-04,CA
+779,Florina Anthoine,Female,Sacramento,Exotic,1962-11-12,CA
+780,Leonid Odam,Male,San Francisco,Dog,1959-11-14,CA
+781,Erny Walwood,Male,Santa Barbara,Dog,1985-07-23,CA
+782,Rodolph Harcase,Male,Oakland,Dog,1960-03-02,CA
+783,Matthieu Meineck,Male,Santa Barbara,Exotic,1955-05-23,CA
+784,Gillan Kissick,Female,Oakland,Cat,1964-01-09,CA
+785,Mab Petschelt,Female,Irvine,Dog,1967-01-28,CA
+786,Nikolaus Bettison,Male,Sacramento,Dog,2004-06-16,CA
+787,Ole Elwyn,Male,San Diego,Dog,1964-12-13,CA
+788,Alfy Ugolini,Male,San Diego,Dog,2000-11-01,CA
+789,Courtnay Langmuir,Female,Fresno,Dog,1962-09-30,CA
+790,Fabiano Pegden,Male,Oakland,Cat,1956-07-07,CA
+791,Hersh Summerrell,Male,Long Beach,Cat,1989-08-13,CA
+792,Ardis Southgate,Female,Santa Barbara,Aquatic Pets,1998-04-25,CA
+793,Reynard Darrell,Male,Oakland,Dog,1959-07-22,CA
+794,Rube Twycross,Male,Oakland,Cat,1973-06-23,CA
+795,Ulysses Eshmade,Male,San Diego,No Preference,1965-06-22,CA
+796,Barney McOrkil,Male,Fresno,,2002-02-24,CA
+797,Meier Mackness,Male,Los Angeles,Dog,1961-04-19,CA
+798,Bernita Marvelley,Female,Santa Barbara,Dog,1983-12-03,CA
+799,Andras Gouch,Male,Santa Barbara,Cat,1963-02-24,CA
+800,Neysa Linn,Female,Long Beach,Exotic,1972-03-12,CA
+801,Ranee Mattaus,Female,Bakersfield,Dog,1974-11-11,CA
+802,Kalvin Font,Male,Santa Barbara,,1958-02-02,CA
+803,Emmalynn Petrowsky,Female,Bakersfield,Dog,1958-04-07,CA
+804,Melesa Gosforth,Female,Fresno,Dog,1985-02-08,CA
+805,Balduin Kingzeth,Male,Sacramento,Small Pets,1966-09-28,CA
+806,Virgilio McDavid,Male,Long Beach,Cat,1999-01-31,CA
+807,Clarabelle Winwood,Female,Long Beach,Dog,1959-09-14,CA
+808,Ellie Creggan,Female,San Francisco,Cat,1974-09-14,CA
+809,Blancha Duerden,Female,Fresno,Dog,2004-10-29,CA
+810,Maxwell Shiel,Male,Irvine,Dog,1982-03-05,CA
+811,Lanny Nesbit,Female,San Francisco,Dog,1993-10-24,CA
+812,Winna Fold,Female,Long Beach,Cat,1958-07-21,CA
+813,Jerald Hayward,Male,Bakersfield,Dog,1993-05-23,CA
+814,Zared De La Hay,Male,Irvine,Dog,1970-03-08,CA
+815,Fanchette Ruddy,Female,Long Beach,Dog,1989-09-03,CA
+816,Lucais Hefferan,Male,Irvine,Dog,1973-05-12,CA
+817,Philip Sadlier,Male,San Diego,Dog,1999-12-21,CA
+818,Aldon Roizn,Male,Oakland,Dog,1974-11-03,CA
+819,Ken Gabey,Male,Oakland,Dog,1961-11-02,CA
+820,Marleah Tarplee,Female,Long Beach,Dog,1986-06-11,CA
+821,Lanie Twine,Female,Fresno,Small Pets,1983-06-23,CA
+822,Hamlen Yesinov,Male,Fresno,Exotic,1975-01-20,CA
+823,Allyn MacTrustey,Male,Oakland,Cat,1994-03-22,CA
+824,Peadar Drable,Male,Oakland,Cat,1968-10-12,CA
+825,Di Hablot,Female,Oakland,Farm Animals,1965-06-10,CA
+826,Ansell Keiling,Male,Long Beach,Cat,1962-11-28,CA
+827,Florella Clevely,Female,Sacramento,,1970-01-21,CA
+828,Jonis Parkyn,Female,Irvine,Exotic,2003-08-29,CA
+829,Kaitlyn Branno,Female,Fresno,,1955-10-10,CA
+830,Bessy Machel,Female,Los Angeles,Cat,1956-04-09,CA
+831,Giordano Wolfendale,Male,Sacramento,Cat,1984-11-14,CA
+832,Chloris Truder,Female,Sacramento,Dog,1993-03-08,CA
+833,Rabi Chipps,Male,Los Angeles,Dog,1991-12-22,CA
+834,Orelee Dewhirst,Female,Bakersfield,Cat,1993-06-18,CA
+835,Delora Tole,Female,San Francisco,Cat,1963-07-13,CA
+836,Zacherie Winkless,Male,Los Angeles,Dog,1989-03-02,CA
+837,Rochester Linskey,Male,Los Angeles,Dog,2004-11-04,CA
+838,Malina Veel,Female,San Diego,,1999-10-28,CA
+839,Allina Rubinowitz,Female,Santa Barbara,Cat,1965-08-24,CA
+840,Aveline Powter,Female,Bakersfield,Dog,1992-06-13,CA
+841,Prentice Chazier,Male,Oakland,Cat,1957-12-30,CA
+842,Seana Boughey,Female,Long Beach,No Preference,1960-11-30,CA
+843,Kelwin Hayes,Male,Bakersfield,Dog,1956-05-06,CA
+844,Kalvin Siddeley,Male,Los Angeles,Dog,1999-03-11,CA
+845,Boniface Boyles,Male,Los Angeles,Dog,1997-12-06,CA
+846,Fredia Menichillo,Female,Long Beach,Dog,1965-07-18,CA
+847,Carson Daintier,Male,San Diego,Cat,1962-02-02,CA
+848,Antonella Weatherup,Female,Los Angeles,Cat,1983-09-29,CA
+849,Nikola Pocknell,Male,Sacramento,Small Pets,1987-10-04,CA
+850,Savina Mitchener,Female,Santa Barbara,Small Pets,1975-02-04,CA
+851,Dulsea Turpie,Female,Bakersfield,Cat,1988-07-11,CA
+852,Ulises Ashfull,Male,San Diego,Dog,1963-05-31,CA
+853,Robinson Madigan,Male,Fresno,Cat,1975-06-17,CA
+854,Karlyn Ciardo,Female,Irvine,No Preference,1991-04-16,CA
+855,Orsa Rudgard,Female,Los Angeles,Dog,1986-12-08,CA
+856,Adelbert Kaesmans,Male,Long Beach,Cat,1979-11-08,CA
+857,Cathe Ivanshintsev,Female,Sacramento,Dog,2005-05-15,CA
+858,Eal Butland,Male,Santa Barbara,Dog,1994-04-17,CA
+859,Orson Ingledow,Male,Oakland,No Preference,1974-11-07,CA
+860,Benedetto Thurner,Male,San Diego,Dog,1974-02-26,CA
+861,Nicky Moss,Female,Long Beach,Dog,2005-07-24,CA
+862,Tobit Josefowicz,Male,Long Beach,Cat,1983-08-29,CA
+863,Riobard Ayliffe,Male,Oakland,Small Pets,1986-03-14,CA
+864,Catherin Knevit,Female,San Diego,,2002-02-21,CA
+865,Opal Redhouse,Female,Bakersfield,Dog,1991-11-12,CA
+866,Haywood O'Cahsedy,Male,Los Angeles,No Preference,1957-07-07,CA
+867,Chanda Costley,Female,Irvine,Dog,1970-07-25,CA
+868,Sandye Pinkney,Female,San Francisco,Cat,1984-08-31,CA
+869,Coralyn Hencke,Female,Bakersfield,Cat,1993-03-10,CA
+870,Ferdy Sircombe,Male,San Francisco,,1979-06-15,CA
+871,Ninnette Horbart,Female,Santa Barbara,Dog,1996-08-21,CA
+872,Killy Criag,Male,Bakersfield,Dog,1979-06-10,CA
+873,Alfie Greatreax,Male,Los Angeles,Dog,1995-12-19,CA
+874,Cherey Breadmore,Female,San Francisco,,1958-05-08,CA
+875,Shirlene Roydon,Female,Fresno,,1957-12-20,CA
+876,Kare Milton-White,Female,Long Beach,Dog,1969-11-26,CA
+877,Kirk Courtliff,Male,Long Beach,No Preference,1960-10-29,CA
+878,Floyd Stickings,Male,Fresno,,1990-09-09,CA
+879,Kenton Knowlton,Male,Long Beach,Small Pets,1979-08-24,CA
+880,Nehemiah Blaxall,Male,San Diego,Cat,1981-12-16,CA
+881,Rosamund Cargill,Female,Long Beach,Dog,1987-05-05,CA
+882,Donnell Folling,Male,San Diego,Farm Animals,1993-10-22,CA
+883,Dev Slyne,Male,Long Beach,,1992-02-24,CA
+884,Ketti Powrie,Female,Santa Barbara,Cat,1993-12-09,CA
+885,Meara Robertucci,Female,Fresno,Cat,1984-01-15,CA
+886,Jerry Vine,Male,Sacramento,,1985-11-21,CA
+887,Kippie Marritt,Male,Irvine,,1959-05-15,CA
+888,Arda Broadbury,Female,Santa Barbara,Dog,2003-01-29,CA
+889,Katrina Robez,Female,Sacramento,Cat,1993-03-01,CA
+890,Drew O'Halloran,Male,Oakland,Cat,1966-06-29,CA
+891,Obediah Macartney,Male,Santa Barbara,Cat,1962-08-28,CA
+892,Olivette Portis,Female,Oakland,No Preference,1967-08-18,CA
+893,Hewet Simoneau,Male,Sacramento,Dog,1974-01-03,CA
+894,Justis Cordeix,Male,Santa Barbara,Cat,1993-02-07,CA
+895,Dino Biaggiotti,Male,Long Beach,Dog,1978-12-25,CA
+896,Ora Kippie,Female,Sacramento,Dog,1967-07-15,CA
+897,Olin Breming,Male,Oakland,Dog,2000-02-21,CA
+898,Patric Roaf,Male,Santa Barbara,,1992-01-11,CA
+899,Remus Fagge,Male,Irvine,Cat,1998-09-12,CA
+900,Dierdre Pengilly,Female,Oakland,Dog,1957-07-22,CA
+901,Sherwynd Sparshott,Male,Oakland,Dog,1967-09-23,CA
+902,Rhodia Saywood,Female,Santa Barbara,Cat,1998-11-06,CA
+903,Donnie Swatradge,Female,Sacramento,Cat,1993-07-30,CA
+904,Ezra Tudgay,Male,Irvine,No Preference,1956-10-22,CA
+905,Otes Duffitt,Male,San Francisco,Cat,2004-08-30,CA
+906,Doralyn Laux,Female,Fresno,,1972-11-21,CA
+907,Norene McCarrell,Female,Fresno,Cat,1978-08-01,CA
+908,Tally Tomicki,Female,San Francisco,No Preference,1976-10-22,CA
+909,Padget Chomicz,Male,Long Beach,Cat,1980-02-18,CA
+910,Guenevere Windrass,Female,Oakland,Dog,1994-09-01,CA
+911,Gonzalo Millott,Male,Los Angeles,Farm Animals,1963-06-11,CA
+912,Waiter Floweth,Male,Sacramento,Dog,1963-10-31,CA
+913,Meier Cunrado,Male,Santa Barbara,Cat,1990-03-11,CA
+914,Emmott McCumesky,Male,Fresno,Cat,1992-09-28,CA
+915,Lindsey Vell,Female,Long Beach,Cat,1966-06-09,CA
+916,Mendie Janoschek,Male,Fresno,Dog,2001-10-29,CA
+917,Antoinette Lemoir,Female,Oakland,No Preference,1956-09-04,CA
+918,Rowe Illesley,Female,Oakland,Dog,1996-04-09,CA
+919,Andros Gregson,Male,San Diego,Cat,1984-07-21,CA
+920,Abner Haughton,Male,Los Angeles,Dog,1979-03-12,CA
+921,Lenee Trolley,Female,San Diego,Dog,2000-05-06,CA
+922,Jorgan Clemon,Male,Long Beach,Dog,1993-10-26,CA
+923,Hilton Valance,Male,Irvine,Dog,1999-05-30,CA
+924,Pren Ogley,Male,Oakland,Dog,2005-05-28,CA
+925,Gail Raunds,Male,Irvine,Cat,1982-01-18,CA
+926,Jaquith Jirik,Female,San Diego,Small Pets,1971-07-28,CA
+927,Marigold Barukh,Female,Irvine,Dog,1983-10-05,CA
+928,Barbara-anne Itter,Female,Sacramento,Cat,1998-09-20,CA
+929,Moishe Gallety,Male,San Francisco,Cat,1959-09-15,CA
+930,Brande Kuscha,Female,Irvine,Cat,1969-08-30,CA
+931,Pearl Sayton,Female,Santa Barbara,Dog,1961-06-13,CA
+932,Hayes De Blasiis,Male,San Diego,Dog,1988-09-09,CA
+933,Merna Hewson,Female,Irvine,Dog,1985-11-01,CA
+934,Carolyn Healing,Female,San Francisco,Dog,1982-03-03,CA
+935,Eb Ranald,Male,San Francisco,Cat,1965-06-07,CA
+936,Faye Simcock,Female,Irvine,Cat,1993-07-03,CA
+937,Milicent Tansly,Female,Los Angeles,Cat,1959-09-02,CA
+938,Ripley Aim,Male,Los Angeles,Cat,1990-07-08,CA
+939,Byron Goundrill,Male,Irvine,No Preference,2005-12-20,CA
+940,Rene Dubbin,Male,Fresno,Small Pets,1971-07-31,CA
+941,Muire Mears,Female,Fresno,Small Pets,2003-08-25,CA
+942,Gawen Greendale,Male,Los Angeles,Cat,1973-09-19,CA
+943,Florenza Kelberman,Female,Long Beach,Cat,1997-06-06,CA
+944,Bob Tilliards,Male,Irvine,Dog,1981-08-18,CA
+945,Wells Ofer,Male,Sacramento,Dog,1983-09-25,CA
+946,Lucho Turner,Male,Los Angeles,Cat,1974-06-22,CA
+947,Jess Herity,Female,Long Beach,Cat,1978-11-17,CA
+948,Ursuline Rainforth,Female,San Diego,Dog,1976-06-07,CA
+949,Salvador Cleal,Male,Fresno,Cat,1976-09-03,CA
+950,Therese Freyn,Female,San Diego,,1958-05-24,CA
+951,Roxanna Ludl,Female,Long Beach,Cat,1994-08-02,CA
+952,Shawn Hrishanok,Female,Irvine,Dog,1973-03-29,CA
+953,Caprice Vose,Female,Irvine,Dog,1984-12-10,CA
+954,Barrie Sansome,Female,Long Beach,Dog,1966-08-27,CA
+955,Tyson Saltman,Male,Oakland,Cat,1979-03-08,CA
+956,Ingemar Bortolutti,Male,Los Angeles,Cat,1995-03-05,CA
+957,Rubie Thorsby,Female,Sacramento,Cat,1983-04-25,CA
+958,Gerrard Corkhill,Male,Sacramento,Farm Animals,1977-04-28,CA
+959,Roselle Chopin,Female,San Francisco,,1965-06-30,CA
+960,Fidelia Franey,Female,Santa Barbara,Cat,1987-10-19,CA
+961,Fayth Jelly,Female,Fresno,Cat,1957-10-10,CA
+962,Carlotta Biasetti,Female,San Diego,Cat,1975-10-16,CA
+963,Jasmina Hartwell,Female,San Francisco,Dog,1966-03-01,CA
+964,Claus McCormick,Male,San Francisco,,1998-07-19,CA
+965,Nathanial Yegorchenkov,Male,San Diego,No Preference,2004-01-31,CA
+966,Freeman Bowsher,Male,Long Beach,Dog,1979-03-26,CA
+967,Dylan Seamans,Male,Long Beach,Small Pets,1964-02-27,CA
+968,Johny Crohan,Male,Oakland,Aquatic Pets,1955-08-14,CA
+969,Pier Pikhno,Female,Santa Barbara,Cat,1993-06-29,CA
+970,Thorn Hehnke,Male,Sacramento,Dog,1962-11-23,CA
+971,Corabel Hanburry,Female,Los Angeles,Farm Animals,2003-10-03,CA
+972,Luca Behnecke,Male,San Diego,Cat,1969-01-04,CA
+973,Doyle McAvey,Male,Oakland,Dog,1975-12-14,CA
+974,Robinia Kalberer,Female,San Francisco,Cat,1957-03-26,CA
+975,Granny Sloss,Male,Los Angeles,No Preference,1972-08-22,CA
+976,Polly McGenn,Female,Long Beach,Dog,2005-03-26,CA
+977,Mora Cuffley,Female,Oakland,Aquatic Pets,1962-10-20,CA
+978,Ruperta Wallenger,Female,Santa Barbara,Dog,1982-09-13,CA
+979,Tucker Spours,Male,Fresno,Cat,1973-09-12,CA
+980,Bancroft Proven,Male,Santa Barbara,Dog,1959-11-20,CA
+981,Pia Bosworth,Female,Fresno,Cat,1961-04-16,CA
+982,Wildon Jerred,Male,San Francisco,Cat,1960-05-19,CA
+983,Conrad Snape,Male,San Diego,,1974-08-10,CA
+984,Edvard McKie,Male,San Francisco,Dog,1965-05-13,CA
+985,Dulciana Boothe,Female,Oakland,Cat,1985-08-17,CA
+986,Garth Sorrel,Male,Sacramento,Cat,1977-11-04,CA
+987,Towny Stebbings,Male,Los Angeles,Cat,1979-07-14,CA
+988,Melisande Metheringham,Female,Irvine,Dog,1976-11-29,CA
+989,Ikey Nesbitt,Male,Irvine,Farm Animals,1982-03-22,CA
+990,Millicent Mander,Female,Oakland,Small Pets,1961-03-08,CA
+991,Kenon Piwell,Male,Sacramento,Cat,1993-08-22,CA
+992,Gregorio Fraine,Male,Sacramento,Cat,1965-07-21,CA
+993,Germaine Tribbeck,Male,Santa Barbara,Cat,1965-03-31,CA
+994,Inglebert Bulford,Male,Oakland,Dog,1971-06-04,CA
+995,Nadean Kerrod,Female,Oakland,Cat,1985-12-08,CA
+996,Ricoriki Bleackly,Male,Irvine,Dog,1981-03-23,CA
+997,Imelda Hirsch,Female,Fresno,Cat,1989-05-15,CA
+998,Barbara Bampton,Female,Los Angeles,Cat,1991-09-02,CA
+999,Skipper Anslow,Male,Fresno,Cat,1958-10-09,CA
+1000,Tamas Feldhorn,Male,San Diego,Cat,1972-08-20,CA
+1001,Elisabeth Camell,Female,San Diego,Dog,1982-08-01,CA
+1002,Lisetta Butting,Female,Irvine,No Preference,1955-06-23,CA
+1003,Kristi Cannaway,Female,San Francisco,Farm Animals,1974-04-04,CA
+1004,Sapphira Gobourn,Female,Sacramento,No Preference,2002-02-22,CA
+1005,Marcus Mapp,Male,Irvine,No Preference,1967-09-15,CA
+1006,Malinda Bustin,Female,Fresno,No Preference,1965-05-02,CA
+1007,Randa Bridgewater,Female,Sacramento,No Preference,1962-02-01,CA
+1008,Vida Fishwick,Female,Bakersfield,No Preference,1978-02-06,CA
+1009,Bartlett Jeyness,Male,San Diego,No Preference,1994-10-03,CA
+1010,Letitia Feeney,Female,Oakland,Dog,1976-12-13,CA
+1011,Benni Key,Female,Santa Barbara,Dog,1964-01-28,CA
+1012,Karlik Gorini,Male,San Francisco,Cat,1975-10-14,CA
+1013,Maxie Kubacki,Female,Irvine,No Preference,1971-04-07,CA
+1014,Zarah Abbison,Female,Irvine,Exotic,1959-04-08,CA
+1015,Demetre Varley,Male,Santa Barbara,No Preference,2000-06-21,CA
+1016,Edy Esgate,Female,Fresno,Small Pets,1963-09-26,CA
+1017,Petra Mohun,Female,Fresno,Exotic,1986-05-09,CA
+1018,Anette Scarlon,Female,San Diego,Farm Animals,1996-09-17,CA
+1019,Sandi Daughtrey,Female,Oakland,Cat,1984-10-31,CA
+1020,Kelbee Carthy,Male,San Francisco,No Preference,1965-02-09,CA
+1021,Annadiana Ladd,Female,Los Angeles,Dog,1960-03-28,CA
+1022,Kevyn Studdeard,Female,Santa Barbara,No Preference,1975-02-16,CA
+1023,Melisse Ellissen,Female,Oakland,No Preference,2000-12-17,CA
+1024,Mayor Skillington,Male,Sacramento,,1981-09-29,CA
+1025,Allegra Willden,Female,Long Beach,,1958-09-05,CA
+1026,Cory Brothers,Male,San Francisco,Small Pets,1991-10-22,CA
+1027,Mack Abelevitz,Male,Fresno,No Preference,1969-06-18,CA
+1028,Willey Hume,Male,Bakersfield,Cat,1972-11-07,CA
+1029,Alfie Budget,Female,Oakland,Exotic,1984-09-02,CA
+1030,Gayler Chadd,Male,Fresno,Cat,1973-10-16,CA
+1031,Kingsley Readwin,Male,Long Beach,Dog,1995-08-18,CA
+1032,Laurianne Lyness,Female,Fresno,,1957-01-17,CA
+1033,Sheilah Dunkley,Female,Los Angeles,,1992-07-13,CA
+1034,Honoria Posten,Female,Long Beach,No Preference,1997-12-16,CA
+1035,Giff Hartless,Male,San Diego,Exotic,2004-04-14,CA
+1036,Demeter Keepin,Female,Long Beach,Exotic,1992-11-15,CA
+1037,Hansiain Aleshkov,Male,Santa Barbara,Cat,1957-02-27,CA
+1038,Frasier Moreman,Male,Sacramento,Small Pets,1996-07-14,CA
+1039,Percival Queyeiro,Male,Bakersfield,No Preference,1964-09-07,CA
+1040,Urson Palia,Male,Oakland,Small Pets,1960-10-27,CA
+1041,Alvera Tunstall,Female,Santa Barbara,Aquatic Pets,1983-07-29,CA
+1042,Falito Gallager,Male,Long Beach,Farm Animals,1968-01-31,CA
+1043,Sheffie Oldroyde,Male,Bakersfield,Small Pets,1981-04-02,CA
+1044,Tatiania Piner,Female,Oakland,Dog,2004-09-01,CA
+1045,Laurette Dursley,Female,San Francisco,,2003-08-19,CA
+1046,Lida Latus,Female,Los Angeles,Dog,1985-02-28,CA
+1047,Haskel Onion,Male,Oakland,Small Pets,1974-05-12,CA
+1048,Winnah Defrain,Female,Oakland,Farm Animals,2004-11-29,CA
+1049,Mahmud Sidsaff,Male,Long Beach,Exotic,1976-02-14,CA
+1050,Neddy Larraway,Male,Long Beach,No Preference,1973-03-10,CA
+1051,Amanda Klewer,Female,Oakland,Farm Animals,1971-09-05,CA
+1052,Earle Caesmans,Male,Sacramento,Dog,1965-03-21,CA
+1053,Ricard Denidge,Male,Fresno,Cat,1988-05-03,CA
+1054,Fanni Robker,Female,Los Angeles,No Preference,1967-11-28,CA
+1055,Elston Reisen,Male,Bakersfield,Dog,1992-08-09,CA
+1056,Lynette Bottjer,Female,Long Beach,Cat,1996-09-10,CA
+1057,Julita Deluze,Female,Oakland,Dog,1975-07-09,CA
+1058,Mohandas Antoney,Male,Fresno,No Preference,1990-08-11,CA
+1059,Herschel Dray,Male,San Francisco,No Preference,1963-10-11,CA
+1060,Hercule Bettis,Male,Sacramento,Dog,1978-10-23,CA
+1061,Beilul Withull,Female,Bakersfield,No Preference,1969-11-02,CA
+1062,Karlen Kettlewell,Female,San Diego,Dog,1987-02-22,CA
+1063,Lionello Jillitt,Male,Los Angeles,No Preference,1985-05-01,CA
+1064,Patrice Early,Female,Fresno,Dog,1989-08-27,CA
+1065,Napoleon Challinor,Male,Oakland,,1969-03-31,CA
+1066,Torre FitzGilbert,Male,Los Angeles,No Preference,1982-01-12,CA
+1067,Thomas Daykin,Male,San Francisco,Farm Animals,2001-11-28,CA
+1068,Melisande Broadberry,Female,Irvine,No Preference,1997-07-27,CA
+1069,Aldridge Hugnot,Male,Santa Barbara,Exotic,2004-10-30,CA
+1070,Chelsae Hiers,Female,Sacramento,No Preference,1956-01-18,CA
+1071,Grenville Legendre,Male,Fresno,No Preference,1985-03-02,CA
+1072,Tresa Lockwood,Female,San Diego,Cat,2003-03-16,CA
+1073,Opaline Cocklie,Female,San Francisco,No Preference,1981-06-03,CA
+1074,Carina Heigold,Female,Santa Barbara,No Preference,1990-05-24,CA
+1075,Daniel Lerwill,Male,Bakersfield,Cat,1957-03-10,CA
+1076,Ario Pearne,Male,Bakersfield,No Preference,1985-10-19,CA
+1077,Brana Schneidar,Female,San Francisco,Dog,1988-02-09,CA
+1078,Hermann Hearty,Male,San Diego,No Preference,1992-10-24,CA
+1079,Clotilda Bellord,Female,Bakersfield,No Preference,1982-08-10,CA
+1080,Margot Troth,Female,Fresno,No Preference,1957-08-02,CA
+1081,Adele Guly,Female,Bakersfield,Exotic,1970-02-09,CA
+1082,Vivianne Spaldin,Female,Santa Barbara,No Preference,1962-01-16,CA
+1083,Emmet Ondrus,Male,Sacramento,Cat,1979-06-12,CA
+1084,Marta Cullinan,Female,San Diego,No Preference,1978-05-04,CA
+1085,Emmalynne Grahamslaw,Female,San Diego,No Preference,1973-03-20,CA
+1086,Jeni Patzelt,Female,San Diego,No Preference,1992-12-13,CA
+1087,Dav Fedorski,Male,Long Beach,No Preference,1983-05-03,CA
+1088,Haskell McCaffery,Male,Bakersfield,Cat,1990-02-25,CA
+1089,Betsey Manuely,Female,Sacramento,Cat,1993-10-19,CA
+1090,My Banishevitz,Male,Bakersfield,No Preference,1979-01-01,CA
+1091,Timmie Cawtheray,Male,Sacramento,No Preference,1976-11-10,CA
+1092,Giorgia Assender,Female,Fresno,No Preference,1984-08-18,CA
+1093,Guenna Victoria,Female,Bakersfield,Farm Animals,2005-05-16,CA
+1094,Del Josefson,Female,Long Beach,Dog,1998-04-13,CA
+1095,Helga Turbat,Female,Los Angeles,Exotic,1984-05-21,CA
+1096,Forrester Kirgan,Male,Fresno,Dog,1999-09-07,CA
+1097,Eberhard Bernardos,Male,Sacramento,No Preference,1982-07-01,CA
+1098,Creight Madle,Male,Los Angeles,Farm Animals,2000-01-23,CA
+1099,Selie Ellingford,Female,Sacramento,No Preference,1963-11-16,CA
+1100,Jeth Tapsell,Male,San Diego,No Preference,1970-10-18,CA
+1101,Sigfrid Durrell,Male,Santa Barbara,No Preference,1998-06-27,CA
+1102,Miller Dilston,Male,Long Beach,,1970-09-12,CA
+1103,Halli Capron,Female,Los Angeles,No Preference,1968-10-31,CA
+1104,Lucinda Ricold,Female,San Diego,No Preference,1966-05-30,CA
+1105,Gerek Cranston,Male,Los Angeles,Dog,1994-08-06,CA
+1106,Sigrid Sooper,Female,Sacramento,Exotic,1969-01-21,CA
+1107,Chrissie Pedreschi,Male,Irvine,No Preference,1959-10-23,CA
+1108,Falito Shovelton,Male,San Diego,Cat,1999-07-12,CA
+1109,Finlay Spikeings,Male,Long Beach,No Preference,1964-04-17,CA
+1110,Alison Ridger,Female,Sacramento,Dog,1977-10-11,CA
+1111,Cully Roche,Male,Fresno,Cat,2001-02-08,CA
+1112,Aarika Lowman,Female,Sacramento,Small Pets,1956-07-09,CA
+1113,Matthus Pudge,Male,Long Beach,Exotic,2004-08-27,CA
+1114,Otes Havers,Male,Sacramento,No Preference,1969-05-05,CA
+1115,Shepperd Shevlane,Male,Bakersfield,Cat,2002-06-24,CA
+1116,Mitchell Aleksandrev,Male,Sacramento,Farm Animals,1983-10-08,CA
+1117,Orion Chatan,Male,Oakland,No Preference,1996-03-22,CA
+1118,Dominica Grimbaldeston,Female,San Diego,Dog,1975-10-21,CA
+1119,Stacia Peckham,Female,Bakersfield,,1982-06-15,CA
+1120,Dilly Wines,Male,Fresno,No Preference,1964-12-09,CA
+1121,Harper Fadden,Male,Irvine,No Preference,2001-03-03,CA
+1122,Pauletta Atrill,Female,Fresno,Dog,1959-11-11,CA
+1123,Dallas Orpen,Male,Fresno,No Preference,1975-09-20,CA
+1124,Rosemaria Brimfield,Female,Irvine,,1969-11-13,CA
+1125,Norris Skully,Male,Santa Barbara,No Preference,1974-10-05,CA
+1126,Tanny McCaughey,Male,Santa Barbara,Cat,1988-12-10,CA
+1127,Levin Coplestone,Male,San Francisco,,1996-10-10,CA
+1128,Nowell Whiscard,Male,Bakersfield,No Preference,1973-08-21,CA
+1129,Fabien Turfin,Male,San Diego,No Preference,1974-02-10,CA
+1130,Eduardo Plows,Male,Oakland,Exotic,1975-03-03,CA
+1131,Glyn Mairs,Male,San Diego,Farm Animals,1981-08-29,CA
+1132,Link MacCombe,Male,Irvine,Dog,1978-11-24,CA
+1133,Cristina Adds,Female,San Francisco,Cat,1967-04-29,CA
+1134,Patten Vance,Male,Santa Barbara,No Preference,1980-01-30,CA
+1135,Wilton Horburgh,Male,Irvine,No Preference,1959-05-13,CA
+1136,Tyler Levecque,Male,Santa Barbara,,2001-07-28,CA
+1137,Yard Sighart,Male,San Diego,Exotic,1962-05-03,CA
+1138,Hamlin Hardaway,Male,Long Beach,No Preference,1976-10-24,CA
+1139,Shurlocke Howsego,Male,Oakland,Cat,1974-08-01,CA
+1140,Katie Hubbuck,Female,Oakland,No Preference,1975-06-28,CA
+1141,Alexandro Islip,Male,Fresno,Cat,1973-01-31,CA
+1142,Darcee Delacourt,Female,Santa Barbara,Cat,1961-03-12,CA
+1143,Galven Earey,Male,Long Beach,No Preference,1955-08-11,CA
+1144,Boy Leggat,Male,Long Beach,No Preference,1992-11-26,CA
+1145,Kristine Faichney,Female,Santa Barbara,Farm Animals,2001-07-22,CA
+1146,Leanora Stoakes,Female,Bakersfield,,1967-07-03,CA
+1147,Sioux Kobpal,Female,Irvine,Farm Animals,1973-04-11,CA
+1148,Emlyn Kerman,Female,Fresno,Cat,1975-09-26,CA
+1149,Dael Besque,Male,San Francisco,No Preference,1980-08-19,CA
+1150,Tamas Honacker,Male,San Francisco,No Preference,1997-09-05,CA
+1151,Michelina Bothbie,Female,San Diego,Exotic,1974-09-11,CA
+1152,Sawyere Btham,Male,Bakersfield,Dog,1998-02-21,CA
+1153,Jesse Philot,Female,Oakland,Small Pets,1997-03-23,CA
+1154,Paco Anthonsen,Male,Fresno,No Preference,1992-10-19,CA
+1155,Pier Freire,Female,Sacramento,Exotic,2001-09-09,CA
+1156,Trixy Minchinden,Female,Fresno,,1972-02-09,CA
+1157,Vale Daubney,Female,Oakland,Dog,1959-05-02,CA
+1158,Terencio McCathy,Male,Los Angeles,No Preference,2002-07-23,CA
+1159,Bertie Adlam,Male,Oakland,No Preference,1965-10-22,CA
+1160,Daven Linford,Male,Sacramento,No Preference,1971-10-06,CA
+1161,Lynea Dunkinson,Female,Long Beach,Small Pets,1955-09-27,CA
+1162,Burgess Tuxwell,Male,San Diego,No Preference,1985-07-26,CA
+1163,Iver Mocher,Male,Bakersfield,No Preference,2004-06-19,CA
+1164,Gerrilee Kidds,Female,Fresno,No Preference,2004-11-25,CA
+1165,Justinn Bird,Female,Fresno,No Preference,1983-07-05,CA
+1166,Sammy Deyes,Female,San Francisco,Dog,2005-10-16,CA
+1167,Florenza Noteyoung,Female,San Diego,No Preference,1994-02-21,CA
+1168,Denys Ridgers,Male,Santa Barbara,Farm Animals,1963-04-06,CA
+1169,Giacopo Gretham,Male,Oakland,No Preference,1979-01-23,CA
+1170,Kaine Ellerton,Male,Bakersfield,No Preference,1997-04-11,CA
+1171,Bethena Vanyushin,Female,Oakland,No Preference,1986-05-23,CA
+1172,Hashim Dumbrall,Male,Fresno,,1977-01-15,CA
+1173,Yuma Elnaugh,Male,Bakersfield,No Preference,1975-09-23,CA
+1174,Timmie Gonsalvez,Male,San Francisco,,1989-10-24,CA
+1175,Chiarra Spincks,Female,Bakersfield,Cat,1955-03-15,CA
+1176,Antonius Load,Male,San Francisco,Cat,1993-07-03,CA
+1177,Lezley Eddins,Male,Oakland,No Preference,1965-10-06,CA
+1178,Paten Castelijn,Male,Fresno,Exotic,1973-06-09,CA
+1179,Brinna McCann,Female,Sacramento,No Preference,1964-05-14,CA
+1180,Taffy Reville,Female,Los Angeles,Exotic,1956-01-24,CA
+1181,Sammy Roaf,Male,Sacramento,No Preference,1961-11-26,CA
+1182,Tine Bridewell,Female,San Francisco,Small Pets,1989-03-31,CA
+1183,Janice Barby,Female,Irvine,Cat,1998-11-03,CA
+1184,Hermione Brew,Female,Oakland,Exotic,1995-05-09,CA
+1185,Merrile Crummie,Female,Sacramento,Farm Animals,1976-01-25,CA
+1186,Dorella Cotman,Female,Santa Barbara,Small Pets,1979-05-26,CA
+1187,Temp Devall,Male,Oakland,Exotic,1998-12-04,CA
+1188,Jefferey Ingman,Male,Long Beach,Exotic,1965-06-16,CA
+1189,Morgan Giacopetti,Female,San Diego,No Preference,1973-06-13,CA
+1190,Travis Philippart,Male,Irvine,Cat,1976-07-15,CA
+1191,Garrik Branchflower,Male,San Diego,Cat,1988-05-15,CA
+1192,Jamie Lumsdall,Male,San Francisco,Dog,1963-01-22,CA
+1193,Mona Brazenor,Female,Long Beach,No Preference,1966-04-13,CA
+1194,Verina Cattlow,Female,Los Angeles,Dog,1999-06-20,CA
+1195,Gradeigh Simondson,Male,Irvine,No Preference,1986-09-10,CA
+1196,Alyson Tallent,Female,Long Beach,No Preference,2004-03-27,CA
+1197,Griswold Beardsdale,Male,Irvine,Dog,1981-08-17,CA
+1198,Jabez Bursell,Male,Oakland,Farm Animals,1973-02-25,CA
+1199,Neel Genn,Male,Irvine,Farm Animals,1973-09-29,CA
+1200,Giffy Midson,Male,Long Beach,No Preference,1961-05-09,CA
+1201,Janeczka Seeman,Female,Oakland,No Preference,1978-04-29,CA
+1202,Ogden Empleton,Male,Santa Barbara,Dog,1974-07-26,CA
+1203,Mitchell Gorthy,Male,San Francisco,Cat,1992-11-25,CA
+1204,Maurits Moniker,Male,Sacramento,No Preference,1973-10-02,CA
+1205,Marsh Coey,Male,San Diego,No Preference,1984-01-16,CA
+1206,Briny Fehner,Female,Fresno,No Preference,1965-12-23,CA
+1207,Loise Rooke,Female,San Francisco,No Preference,1977-09-29,CA
+1208,Natalina de Clercq,Female,Irvine,Cat,1972-03-12,CA
+1209,Forster Amiss,Male,Fresno,,2004-12-11,CA
+1210,Tammi Pierton,Female,Sacramento,Small Pets,1984-08-26,CA
+1211,Lindsy Heineke,Female,San Diego,No Preference,1981-06-14,CA
+1212,Saxe Beney,Male,Santa Barbara,Exotic,1998-03-06,CA
+1213,Harriett Le Sarr,Female,Long Beach,,1993-01-25,CA
+1214,Ketty Kimbell,Female,Santa Barbara,Dog,1995-07-31,CA
+1215,Myrta Lambertson,Female,Santa Barbara,No Preference,2000-08-29,CA
+1216,Jory Vodden,Male,Los Angeles,Dog,1985-10-31,CA
+1217,Pace Klimkiewich,Male,Bakersfield,No Preference,1988-09-28,CA
+1218,Frieda Joiner,Female,Fresno,No Preference,2001-04-03,CA
+1219,Edmund Heffer,Male,Santa Barbara,Cat,1973-08-03,CA
+1220,Jany Souness,Female,Oakland,No Preference,1977-07-25,CA
+1221,Rafaela Snare,Female,Los Angeles,Cat,2005-10-07,CA
+1222,Roderigo Weekes,Male,Fresno,No Preference,1982-08-21,CA
+1223,Ingaborg Connechie,Female,Oakland,Dog,1955-09-11,CA
+1224,Benjy Dreghorn,Male,Sacramento,Small Pets,1991-11-22,CA
+1225,Margalit Prandin,Female,Long Beach,No Preference,1964-12-31,CA
+1226,Madge Ragbourn,Female,Santa Barbara,Farm Animals,1996-03-07,CA
+1227,Bonita Hallam,Female,Santa Barbara,No Preference,1965-02-18,CA
+1228,Kristine Castellani,Female,Irvine,No Preference,1978-08-17,CA
+1229,Leia Manvelle,Female,Fresno,No Preference,1998-06-03,CA
+1230,Alexa Kleinhausen,Female,San Diego,Cat,1980-07-10,CA
+1231,Annabella Vautin,Female,Bakersfield,No Preference,1978-09-07,CA
+1232,Elmer Binning,Male,Long Beach,,1978-10-09,CA
+1233,Francis Dyter,Male,Long Beach,Farm Animals,1989-01-23,CA
+1234,Kellsie Pimblott,Female,Long Beach,Cat,1960-06-27,CA
+1235,Forest Grieger,Male,San Francisco,Dog,1976-11-14,CA
+1236,Dari Ellerey,Female,Irvine,Dog,1979-09-18,CA
+1237,Joshua Copas,Male,San Diego,No Preference,1986-12-13,CA
+1238,Fredek Pavek,Male,San Diego,No Preference,1960-01-13,CA
+1239,Rodolph Sudron,Male,Fresno,Dog,1966-06-18,CA
+1240,Tristam Eliet,Male,San Diego,Cat,1990-07-31,CA
+1241,Ferdinande Lackeye,Female,Los Angeles,Exotic,1984-03-02,CA
+1242,Aeriela Papachristophorou,Female,Santa Barbara,No Preference,1990-10-03,CA
+1243,Roseanne Bridel,Female,San Diego,No Preference,1965-01-20,CA
+1244,Daniella Morecomb,Female,Bakersfield,Small Pets,1996-01-28,CA
+1245,Ericha Peace,Female,Los Angeles,Exotic,1970-09-11,CA
+1246,Carroll Callan,Male,Oakland,,1971-04-06,CA
+1247,Kass Skains,Female,Oakland,Cat,1970-10-28,CA
+1248,Melina Blackie,Female,Santa Barbara,Dog,1973-08-29,CA
+1249,Pam Eddies,Female,Long Beach,Small Pets,2002-09-01,CA
+1250,Alvy Hearsum,Male,Sacramento,No Preference,1995-06-13,CA
+1251,Allie Landall,Male,Sacramento,Dog,2001-04-30,CA
+1252,Eric Corkill,Male,San Diego,Small Pets,1971-01-14,CA
+1253,Derrick Penke,Male,San Diego,No Preference,1983-05-31,CA
+1254,Jerrie Waddicor,Female,Irvine,No Preference,1959-01-31,CA
+1255,Sergio Orneblow,Male,Los Angeles,Exotic,1991-01-12,CA
+1256,Carleton Brownell,Male,Long Beach,No Preference,1958-07-08,CA
+1257,Gonzales Sant,Male,Long Beach,,2005-01-04,CA
+1258,Edy Cousen,Female,Bakersfield,Dog,1999-07-15,CA
+1259,Ardith Woodfield,Female,San Diego,Farm Animals,1960-07-08,CA
+1260,Donalt Henstridge,Male,Santa Barbara,Dog,1961-02-02,CA
+1261,Ingemar Di Bernardo,Male,San Francisco,Exotic,1958-08-09,CA
+1262,Dennie Laverty,Male,Long Beach,Small Pets,1998-04-16,CA
+1263,Eadmund Colthurst,Male,Long Beach,Cat,1995-02-21,CA
+1264,Catlaina Treswell,Female,San Diego,Dog,1990-12-17,CA
+1265,Lisetta Bachanski,Female,Bakersfield,Cat,1986-06-05,CA
+1266,Edan Beldham,Male,Irvine,Exotic,1987-07-07,CA
+1267,Barbaraanne Callender,Female,Sacramento,Cat,1983-09-11,CA
+1268,Jonathon Reilly,Male,Sacramento,Cat,1960-07-26,CA
+1269,Kendrick Whyatt,Male,Fresno,Exotic,1964-04-11,CA
+1270,Zorina Berrey,Female,Los Angeles,Aquatic Pets,1994-05-11,CA
+1271,Chrissie Cowan,Male,Los Angeles,No Preference,1980-07-31,CA
+1272,Arnoldo Molineaux,Male,San Diego,Small Pets,2002-06-18,CA
+1273,Kleon Yurchishin,Male,Oakland,Cat,1956-02-15,CA
+1274,Christie Gosforth,Male,Los Angeles,Farm Animals,1960-09-21,CA
+1275,Hillard Wyre,Male,Long Beach,Dog,1981-05-30,CA
+1276,Kenn Ramsdale,Male,Long Beach,No Preference,1992-01-23,CA
+1277,Chico Johns,Male,Oakland,No Preference,1998-04-04,CA
+1278,Dasha Polglase,Female,San Francisco,Cat,1980-03-31,CA
+1279,Araldo Todari,Male,Los Angeles,No Preference,1967-08-27,CA
+1280,Rachael Engel,Female,Oakland,No Preference,1980-02-20,CA
+1281,Spense St. Aubyn,Male,Long Beach,Cat,1969-04-04,CA
+1282,Dalton Prescot,Male,Oakland,Cat,1992-03-06,CA
+1283,Morten Antoni,Male,Santa Barbara,Small Pets,1999-08-25,CA
+1284,Roze Perch,Female,Los Angeles,No Preference,1980-08-28,CA
+1285,Cloe Keyho,Female,Irvine,Cat,1979-07-25,CA
+1286,Candis Spilsbury,Female,Los Angeles,No Preference,1985-12-26,CA
+1287,Bryanty Dovington,Male,Bakersfield,No Preference,1991-01-08,CA
+1288,Robbie Pegler,Female,Fresno,Exotic,1988-07-11,CA
+1289,Delinda Twede,Female,Los Angeles,No Preference,1955-03-08,CA
+1290,Lonny Conford,Male,Fresno,Cat,1959-04-06,CA
+1291,Ossie Keat,Male,Long Beach,Dog,1960-08-09,CA
+1292,Feodor Iacovucci,Male,Fresno,No Preference,1981-03-31,CA
+1293,Cher Hamal,Female,Sacramento,Cat,1978-08-07,CA
+1294,Wes Millican,Male,Sacramento,Cat,1967-01-29,CA
+1295,Cletis Drew-Clifton,Male,San Diego,Cat,1965-01-27,CA
+1296,Vanessa Cudmore,Female,Bakersfield,No Preference,1976-03-23,CA
+1297,Cassandry Ellicombe,Female,San Francisco,Farm Animals,2003-01-03,CA
+1298,Roxi Fahrenbacher,Female,Fresno,Cat,1990-10-03,CA
+1299,Redford Keveren,Male,Sacramento,Small Pets,1986-11-24,CA
+1300,Kane Deschlein,Male,Irvine,Cat,1974-03-10,CA
+1301,Janaye Drain,Female,San Diego,No Preference,1956-11-28,CA
+1302,Jami Ellit,Female,Fresno,No Preference,1980-08-22,CA
+1303,Norene Minnis,Female,Long Beach,Dog,1998-04-20,CA
+1304,Izak Simmank,Male,Oakland,No Preference,1983-01-23,CA
+1305,Avery Self,Male,Bakersfield,No Preference,1999-05-07,CA
+1306,Sherwood Westgate,Male,Santa Barbara,Exotic,1993-07-09,CA
+1307,Gordy Cockshoot,Male,Fresno,Exotic,1997-02-16,CA
+1308,Amil Enric,Female,Fresno,Dog,2001-04-19,CA
+1309,Dix Latour,Female,Long Beach,No Preference,1958-11-05,CA
+1310,Kit Cadlock,Male,Oakland,Cat,1997-04-05,CA
+1311,Costa Masseo,Male,Fresno,Small Pets,1959-04-12,CA
+1312,Mel Blacktin,Male,Los Angeles,Cat,1963-06-03,CA
+1313,Rina Fillis,Female,Oakland,Small Pets,1995-09-20,CA
+1314,Teresita Grebbin,Female,Santa Barbara,No Preference,1961-07-03,CA
+1315,Charity Corcut,Female,Bakersfield,Cat,1971-01-16,CA
+1316,Edeline Vasenin,Female,Oakland,No Preference,1988-05-16,CA
+1317,Pietro Sibyllina,Male,San Francisco,No Preference,1962-11-19,CA
+1318,Marris Warrick,Female,Irvine,No Preference,1980-07-16,CA
+1319,Ewan Aldcorn,Male,Santa Barbara,Small Pets,1958-11-04,CA
+1320,Ingunna Longland,Female,San Diego,Small Pets,1955-04-07,CA
+1321,Vlad Dellenty,Male,Oakland,No Preference,2000-08-20,CA
+1322,Floris Fowden,Female,Los Angeles,Dog,1956-10-17,CA
+1323,Caron Attard,Female,San Francisco,No Preference,2000-11-21,CA
+1324,Rodney Albery,Male,San Diego,No Preference,1988-11-24,CA
+1325,Christal Janauschek,Female,Fresno,,1967-09-26,CA
+1326,Aylmer Manchester,Male,Sacramento,,1976-04-13,CA
+1327,Peyter Mountford,Male,Sacramento,Exotic,2003-02-15,CA
+1328,Marietta Maffin,Male,Fresno,Small Pets,1961-01-06,CA
+1329,Brenna Stanyforth,Female,Sacramento,Farm Animals,1976-09-16,CA
+1330,Cleveland Kidstoun,Male,Santa Barbara,Cat,1987-06-10,CA
+1331,Bella Hutchin,Female,Santa Barbara,,1986-04-28,CA
+1332,Margie Oldmeadow,Female,Santa Barbara,Cat,1978-10-14,CA
+1333,Glenn Chatwood,Female,Oakland,Exotic,2000-04-02,CA
+1334,Ivy Plumridege,Female,Oakland,Farm Animals,1974-11-12,CA
+1335,Tessi Pawlaczyk,Female,Santa Barbara,,2005-03-11,CA
+1336,Eduino Ionnisian,Male,San Francisco,Dog,2003-05-03,CA
+1337,Carlee Harlock,Female,Los Angeles,No Preference,1976-04-23,CA
+1338,Antin Cromie,Male,Los Angeles,Cat,1991-10-27,CA
+1339,Friedrich Bortolini,Male,Irvine,Cat,1965-04-08,CA
+1340,Klemens Kilfether,Male,Bakersfield,Exotic,1963-05-15,CA
+1341,Marjorie Whales,Female,Bakersfield,Exotic,1977-09-15,CA
+1342,Devland Kienle,Male,Santa Barbara,,1974-08-12,CA
+1343,Hew Gulberg,Male,Irvine,Dog,1971-06-05,CA
+1344,Gordan Trevenu,Male,Long Beach,Dog,1986-08-30,CA
+1345,Archaimbaud Wibberley,Male,Irvine,Aquatic Pets,1965-11-22,CA
+1346,Aharon Pendrich,Male,Oakland,No Preference,1988-08-31,CA
+1347,Lisle Brimblecombe,Male,Irvine,No Preference,1982-01-21,CA
+1348,Karlens Kroon,Male,Los Angeles,No Preference,1989-09-20,CA
+1349,Jerrie Jurek,Male,Fresno,Small Pets,1978-05-11,CA
+1350,Meghan Leppington,Female,Fresno,Cat,1973-05-02,CA
+1351,Kienan Rewcastle,Male,Fresno,No Preference,1999-05-25,CA
+1352,Elyn Burde,Female,Long Beach,Small Pets,1996-08-30,CA
+1353,Welch Woodwind,Male,Fresno,No Preference,1964-01-24,CA
+1354,Demetris Gobert,Female,Oakland,No Preference,1973-08-28,CA
+1355,Bronnie Crissil,Male,Irvine,,2002-06-25,CA
+1356,Wilburt Spurdens,Male,Oakland,Dog,2005-01-30,CA
+1357,Gerrie Saveall,Male,Oakland,Dog,2003-08-29,CA
+1358,Allianora Coyish,Female,Sacramento,Dog,1968-12-07,CA
+1359,Lorenzo Fehely,Male,Oakland,Cat,1980-03-10,CA
+1360,Felicia Fawcitt,Female,San Diego,No Preference,1983-09-29,CA
+1361,Rhett Pedri,Male,Los Angeles,Cat,1992-02-25,CA
+1362,Barry Nusche,Female,Los Angeles,No Preference,1982-08-20,CA
+1363,Timothee Wignall,Male,Long Beach,Cat,1980-01-07,CA
+1364,Dov Emeny,Male,Sacramento,No Preference,1969-07-19,CA
+1365,Pauly Tancock,Female,Santa Barbara,Small Pets,1998-04-28,CA
+1366,Dean Vitte,Male,Santa Barbara,Small Pets,1984-06-10,CA
+1367,Lesley Stileman,Female,Sacramento,No Preference,1967-08-13,CA
+1368,Sydel Roblett,Female,Fresno,Dog,1979-01-01,CA
+1369,Rana Hanshawe,Female,Oakland,Dog,1986-10-11,CA
+1370,Roldan Dolling,Male,Irvine,No Preference,1956-04-08,CA
+1371,Orelee Grzelak,Female,San Francisco,No Preference,1960-12-10,CA
+1372,Wendel Beardsell,Male,Santa Barbara,No Preference,1981-06-18,CA
+1373,Alfie Dedenham,Female,Fresno,Cat,1960-05-29,CA
+1374,Aida Mc Ilory,Female,Long Beach,Dog,1973-01-14,CA
+1375,Gretel Chitson,Female,Santa Barbara,No Preference,1968-02-16,CA
+1376,Dahlia Dodworth,Female,Irvine,Dog,1957-06-05,CA
+1377,Heida Doughton,Female,Long Beach,Dog,1984-02-27,CA
+1378,Consuela Grigoroni,Female,Oakland,No Preference,1955-02-26,CA
+1379,Dorolisa Cutbush,Female,San Diego,Exotic,1960-07-09,CA
+1380,Sloane Begin,Male,Irvine,No Preference,1964-05-17,CA
+1381,Lacee Boolsen,Female,San Francisco,No Preference,1972-10-16,CA
+1382,Maurice Gherardelli,Male,San Diego,Cat,1994-06-06,CA
+1383,Mitchel Sheahan,Male,Bakersfield,,1957-06-15,CA
+1384,Yance Dikle,Male,Oakland,Exotic,1993-06-08,CA
+1385,Marguerite Markovic,Female,San Diego,No Preference,1976-03-22,CA
+1386,Jerrome Polycote,Male,Santa Barbara,No Preference,1956-01-29,CA
+1387,Stephen Cogswell,Male,Irvine,Cat,1989-07-12,CA
+1388,Gwenneth Consterdine,Female,Oakland,No Preference,1996-03-01,CA
+1389,Mabel Sarah,Female,Bakersfield,Aquatic Pets,1994-04-07,CA
+1390,Kitty Tudor,Female,San Diego,No Preference,1972-01-04,CA
+1391,Sherie Attawell,Female,Bakersfield,Dog,1961-03-23,CA
+1392,Willa Eburne,Female,Irvine,No Preference,1986-12-20,CA
+1393,Demetre Skells,Male,San Francisco,Dog,1955-02-04,CA
+1394,Minne Chorlton,Female,Oakland,Exotic,1967-09-04,CA
+1395,Jennine Breagan,Female,Long Beach,Small Pets,1957-12-10,CA
+1396,Barty Splevings,Male,Los Angeles,Cat,2001-10-16,CA
+1397,Carina Rivalland,Female,Fresno,No Preference,1987-01-12,CA
+1398,Rochell Lottrington,Female,Long Beach,Farm Animals,1959-06-26,CA
+1399,Eimile Emberton,Female,Santa Barbara,Farm Animals,2002-07-29,CA
+1400,Marshall Whitley,Male,San Francisco,Aquatic Pets,1989-03-15,CA
+1401,Aubine Sambrook,Female,Bakersfield,Cat,1955-11-23,CA
+1402,Maddalena Budding,Female,Long Beach,Cat,1962-10-26,CA
+1403,Petr Offen,Male,Los Angeles,No Preference,1998-01-23,CA
+1404,Virgie Soggee,Female,Fresno,No Preference,2004-03-05,CA
+1405,Burr Camilleri,Male,Los Angeles,No Preference,1976-06-09,CA
+1406,Martie Zoellner,Male,San Francisco,Aquatic Pets,1964-04-26,CA
+1407,Timothee Pley,Male,Irvine,,2003-11-18,CA
+1408,Analise Tidcomb,Female,Fresno,Aquatic Pets,1975-01-25,CA
+1409,Cullan Bothe,Male,Irvine,No Preference,1990-11-14,CA
+1410,Else Slany,Female,San Francisco,Farm Animals,1963-03-02,CA
+1411,Odetta Stonary,Female,Oakland,No Preference,1971-10-15,CA
+1412,Halsy Basek,Male,San Diego,Small Pets,1971-03-12,CA
+1413,Creighton Loachhead,Male,San Francisco,Dog,1994-08-28,CA
+1414,Ianthe Crutchley,Female,San Francisco,Dog,1969-02-27,CA
+1415,Helge Quarless,Female,Fresno,Aquatic Pets,1958-12-18,CA
+1416,Tobie Pettyfer,Male,Los Angeles,No Preference,1967-09-07,CA
+1417,Stuart Chantler,Male,San Diego,No Preference,1969-08-04,CA
+1418,Stefanie Lemar,Female,Fresno,Cat,1980-01-02,CA
+1419,Delcine Matisse,Female,San Diego,Small Pets,1987-03-04,CA
+1420,Giselle Cornes,Female,San Francisco,Cat,1986-04-19,CA
+1421,Ed Dimitriades,Male,Oakland,Dog,2001-09-10,CA
+1422,Johnna Eyeington,Female,Long Beach,Farm Animals,1989-10-18,CA
+1423,Normy Jacobovitch,Male,Bakersfield,Farm Animals,1980-03-10,CA
+1424,Raffaello Bondar,Male,Long Beach,Farm Animals,1963-03-24,CA
+1425,Fernanda Salmons,Female,San Diego,Dog,1970-01-10,CA
+1426,Carleton Gitsham,Male,San Diego,Dog,1968-09-15,CA
+1427,Lisa Goodram,Female,Oakland,Cat,1978-03-27,CA
+1428,Mala Hartle,Female,Oakland,No Preference,1988-02-24,CA
+1429,Abeu Presho,Male,Bakersfield,Cat,1996-07-10,CA
+1430,Giulietta Grishechkin,Female,San Diego,Aquatic Pets,1976-11-30,CA
+1431,Neel Dowzell,Male,Oakland,No Preference,1969-01-16,CA
+1432,Jesse Tailour,Male,Bakersfield,No Preference,1955-05-23,CA
+1433,Orson Glynne,Male,San Francisco,No Preference,1987-09-20,CA
+1434,Beale Hardwell,Male,Oakland,No Preference,1981-01-30,CA
+1435,Levey Eskrick,Male,Santa Barbara,Small Pets,1991-09-25,CA
+1436,Merrick Lawty,Male,San Diego,Dog,2003-11-19,CA
+1437,Silas Cottesford,Male,San Francisco,Dog,1955-10-25,CA
+1438,Rhonda Russilll,Female,Long Beach,Cat,2003-05-05,CA
+1439,Lorin Lavalle,Male,Sacramento,Exotic,1956-09-24,CA
+1440,Tymothy Breitling,Male,San Diego,Cat,1992-11-05,CA
+1441,Nani Juhruke,Female,Fresno,Farm Animals,1980-08-05,CA

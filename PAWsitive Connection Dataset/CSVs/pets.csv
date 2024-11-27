@@ -1,0 +1,2001 @@
+pet_id,pet_name,species_id,subspecies_id,age_dec_2023,year_of_birth,arrival_date,gender,aggressiveness,adopted_status
+1,Bogart,2,6,5,3/1/2018,7/1/2018,Male,Medium,Adopted
+2,Gunther,6,55,2,4/1/2021,4/1/2021,Male,Low,Adopted
+3, Candy,4,45,2,2/1/2021,4/1/2021,Female,Medium,Adopted
+4,Homerun,3,25,6,11/1/2017,7/13/2022,Male,Medium,Adopted
+5, Kona,2,7,3,2/1/2020,2/1/2020,Male,Medium,Adopted
+6,Glimmer,8,65,24,11/1/1999,12/18/2019,Female,Low,Not Adopted
+7,Glory,1,1,1,3/1/2022,5/1/2022,Female,High,Adopted
+8,Khaleesi,7,60,12,2/1/2011,1/29/2020,Female,Low,Adopted
+9,Lakota,2,8,1,12/1/2022,3/1/2023,Female,Low,Not Adopted
+10, Fawn,4,46,3,4/1/2020,5/1/2020,Female,Medium,Not Adopted
+11,Taba,3,26,12,9/1/2011,1/3/2021,Female,Low,Adopted
+12,Gordon,11,80,89,11/1/1934,10/16/2020,Male,Low,Not Adopted
+13,Huey,2,6,18,4/1/2005,12/11/2021,Male,High,Adopted
+14, Angel,2,9,17,10/1/2006,10/25/2017,Female,Low,Adopted
+15,Jewel,2,10,7,8/1/2016,10/9/2019,Female,Low,Adopted
+16, Dexter,3,27,4,11/1/2019,11/1/2019,Male,High,Adopted
+17,Mika,3,28,15,3/1/2008,10/23/2018,Female,Low,Adopted
+18,Gizmo,3,29,8,6/1/2015,9/11/2023,Male,High,Adopted
+19, Remi,9,70,4,7/1/2019,4/30/2023,Female,Low,Adopted
+20, Mickey,3,30,2,6/1/2021,6/1/2021,Male,Low,Adopted
+21, Coco,5,50,6,10/1/2017,10/16/2017,Male,Low,Adopted
+22,Betsy,2,11,9,2/1/2014,11/15/2022,Female,Medium,Adopted
+23,Junebug,2,10,3,11/1/2020,3/1/2021,Female,Low,Adopted
+24, Rowdy,2,12,18,6/1/2005,2/27/2020,Male,Low,Adopted
+25,Kraken,5,50,6,9/1/2017,10/25/2018,Male,Low,Not Adopted
+26, Kiki,7,61,2,12/1/2021,5/1/2022,Female,Low,Adopted
+27, Albert,2,7,2,4/1/2021,7/1/2021,Male,Medium,Adopted
+28, Rani,3,29,2,6/1/2021,11/1/2021,Female,High,Not Adopted
+29,Eskimo,9,71,11,7/1/2012,12/15/2023,Male,Low,Adopted
+30,Winsome,2,13,6,5/1/2017,4/30/2018,Female,Low,Adopted
+31,Mia,3,25,13,1/1/2010,10/1/2021,Female,Low,Adopted
+32,Hadley,2,14,13,7/1/2010,6/4/2021,Female,Low,Adopted
+33,Tails,2,15,2,5/1/2021,7/1/2021,Male,Medium,Adopted
+34, Steve,1,2,4,7/1/2019,2/25/2020,Male,Low,Not Adopted
+35,Stormy,5,51,1,4/1/2022,4/1/2022,Female,Medium,Adopted
+36,Ember,5,50,2,10/1/2021,10/1/2021,Male,Low,Adopted
+37, Beetle,1,1,2,12/1/2021,6/1/2022,Male,Medium,Adopted
+38, Bianca,3,31,1,9/1/2022,9/1/2022,Female,Low,Adopted
+39, Baxter,3,32,12,8/1/2011,3/8/2019,Male,Medium,Adopted
+40, Jett,2,16,16,12/1/2007,9/2/2017,Male,Medium,Adopted
+41, Scout,2,9,5,10/1/2018,5/27/2023,Male,Low,Adopted
+42, Felicity,8,66,20,3/1/2003,10/8/2023,Female,Low,Not Adopted
+43, Yuki,4,46,5,6/1/2018,6/1/2018,Male,Medium,Not Adopted
+44,Selene,3,26,15,12/1/2008,6/22/2023,Female,Medium,Adopted
+45, Sugar,3,33,9,7/1/2014,8/14/2021,Female,Medium,Adopted
+46,Paco,3,25,1,3/1/2022,5/1/2022,Male,High,Adopted
+47,Arturo,6,56,1,1/1/2022,3/1/2022,Male,High,Adopted
+48, Taco,1,3,2,12/1/2021,3/1/2022,Male,Low,Not Adopted
+49,Cannoli,3,25,6,6/1/2017,6/12/2021,Male,Low,Adopted
+50, Georgia,3,28,7,9/1/2016,7/14/2021,Female,Medium,Adopted
+51,Barbie,5,52,6,5/1/2017,12/2/2017,Female,Medium,Not Adopted
+52, Bertie,2,17,16,3/1/2007,9/21/2022,Male,Low,Adopted
+53, Dandelion,11,81,12,4/1/2011,3/14/2019,Female,Medium,Not Adopted
+54,Tango,1,4,3,7/1/2020,12/1/2020,Male,High,Not Adopted
+55, Rocky,3,28,6,10/1/2017,8/26/2020,Male,Low,Adopted
+56,Vandal,3,34,9,8/1/2014,9/12/2020,Male,High,Adopted
+57,Kessie,4,47,2,6/1/2021,6/1/2021,Female,Low,Not Adopted
+58, Orchid,2,15,6,1/1/2017,11/29/2019,Female,High,Adopted
+59,Hammy,7,62,7,10/1/2016,3/1/2022,Male,Low,Adopted
+60,Diesel,2,6,2,8/1/2021,5/5/2023,Male,Medium,Adopted
+61, Binky,5,53,1,2/1/2022,5/1/2022,Male,Low,Not Adopted
+62,Savannah,2,18,6,3/1/2017,6/1/2019,Female,Medium,Adopted
+63, Buttercup,11,80,15,11/1/2008,1/26/2023,Female,High,Adopted
+64,Jojo,10,75,2,5/1/2021,5/1/2021,Male,High,Adopted
+65,Lilah,2,12,5,7/1/2018,1/15/2021,Female,Low,Adopted
+66,Tango,2,19,3,4/1/2020,11/15/2022,Female,Medium,Adopted
+67,Puck,3,35,12,2/1/2011,4/29/2020,Male,High,Adopted
+68, Brody,2,10,17,4/1/2006,8/19/2018,Male,Low,Adopted
+69,Porter,5,6,6,5/1/2017,11/26/2022,Male,High,Adopted
+70, Hawk,3,36,4,4/1/2019,4/1/2019,Male,Medium,Adopted
+71,Farley,2,9,2,6/1/2021,11/1/2021,Male,Low,Adopted
+72,Max,3,35,5,5/1/2018,5/1/2018,Male,Medium,Adopted
+73,Zosia,8,67,46,5/1/1977,12/5/2022,Female,Low,Not Adopted
+74,Indigo,2,11,18,11/1/2005,10/1/2018,Male,Low,Adopted
+75, Summer,3,37,3,7/1/2020,9/1/2020,Female,Low,Not Adopted
+76,Raya,5,53,5,12/1/2018,6/25/2022,Female,High,Not Adopted
+77, Pip,2,14,4,4/1/2019,9/1/2019,Male,High,Adopted
+78, Snoop,2,20,20,4/1/2003,7/21/2019,Male,Low,Adopted
+79,Ginny,1,5,5,2/1/2018,2/1/2018,Female,Medium,Adopted
+80,Dagger,7,63,7,9/1/2016,12/6/2018,Male,Low,Adopted
+81,Spock,7,64,3,10/1/2020,6/4/2023,Male,Low,Adopted
+82,Liberty,6,57,2,5/1/2021,7/1/2021,Female,Medium,Adopted
+83, Rowdy,2,21,1,2/1/2022,7/1/2022,Male,Medium,Adopted
+84, Remi,5,51,6,4/1/2017,10/16/2018,Male,Low,Adopted
+85, Niko,5,50,7,11/1/2016,11/6/2022,Male,Low,Adopted
+86, Felicity,6,56,2,2/1/2021,5/1/2021,Female,High,Adopted
+87,Widget,3,38,1,8/1/2022,1/1/2023,Male,Low,Not Adopted
+88,Mason,1,4,8,10/1/2015,12/6/2018,Male,Low,Not Adopted
+89,Arrow,2,7,4,5/1/2019,7/1/2019,Male,High,Adopted
+90,Kolby,1,4,10,8/1/2013,10/26/2023,Male,Low,Not Adopted
+91,Conan,2,7,4,7/1/2019,11/7/2019,Male,Medium,Adopted
+92, Tula,3,37,4,8/1/2019,6/29/2023,Female,Low,Adopted
+93, Simba,6,55,2,8/1/2021,10/1/2021,Male,High,Adopted
+94,Witchy,2,22,5,5/1/2018,5/21/2022,Female,Low,Adopted
+95,Evie,2,7,7,1/1/2016,2/4/2018,Female,Low,Adopted
+96,Darla,3,39,11,6/1/2012,11/11/2020,Female,Low,Adopted
+97,Venom,5,6,1,8/1/2022,2/1/2023,Male,High,Adopted
+98, Scout,3,33,11,11/1/2012,9/23/2017,Female,Low,Adopted
+99,Macee,2,21,20,1/1/2003,10/29/2017,Female,High,Adopted
+100, Sally,2,19,6,7/1/2017,9/1/2017,Female,High,Adopted
+101,Cairo,2,21,18,9/1/2005,12/4/2021,Female,Low,Adopted
+102, Roxy,4,46,4,2/1/2019,2/1/2019,Female,Low,Not Adopted
+103, Pansy,3,28,6,4/1/2017,11/21/2019,Female,High,Adopted
+104, Koji,5,50,1,8/1/2022,8/1/2022,Male,Low,Not Adopted
+105,Clifford,10,76,11,2/1/2012,1/8/2022,Male,Medium,Adopted
+106, Adeline,2,10,8,11/1/2015,3/30/2019,Female,High,Adopted
+107, Max,6,55,2,10/1/2021,10/1/2021,Male,Low,Adopted
+108,Leroy,1,4,2,3/1/2021,4/1/2021,Male,High,Adopted
+109,Roisin,2,6,1,8/1/2022,8/1/2022,Female,Medium,Adopted
+110,Leviathan,2,22,2,6/1/2021,12/1/2021,Male,Low,Adopted
+111, Pip,3,40,15,10/1/2008,7/12/2021,Male,High,Adopted
+112, Coco,3,40,11,3/1/2012,4/5/2019,Female,High,Adopted
+113,Savage,2,19,18,2/1/2005,3/12/2023,Male,High,Adopted
+114,Fuji,1,4,3,12/1/2020,4/1/2021,Male,Medium,Adopted
+115, Hawk,2,22,19,6/1/2004,8/10/2020,Male,High,Adopted
+116,Missy,1,4,8,5/1/2015,2/22/2020,Female,High,Adopted
+117,Yeti,3,34,14,11/1/2009,11/1/2018,Female,Medium,Not Adopted
+118, Rex,5,53,1,9/1/2022,12/1/2022,Male,Medium,Not Adopted
+119, Cooper,4,45,1,8/1/2022,2/1/2023,Male,Medium,Not Adopted
+120, Wiggly,2,14,13,7/1/2010,9/1/2021,Male,Medium,Adopted
+121,Cruncher,3,31,12,9/1/2011,9/15/2021,Male,Medium,Adopted
+122, Nova,2,19,1,1/1/2022,5/1/2022,Female,Medium,Adopted
+123, Ozzie,6,56,3,12/1/2020,12/1/2020,Male,Low,Adopted
+124,Riley,2,20,7,4/1/2016,9/16/2020,Male,Low,Not Adopted
+125,Taz,6,55,2,2/1/2021,2/1/2021,Male,High,Adopted
+126, Midnight,2,18,4,7/1/2019,11/29/2023,Male,Low,Adopted
+127, Pip,9,70,2,8/1/2021,11/1/2021,Male,Low,Adopted
+128,Zodiac,3,40,11,12/1/2012,4/2/2017,Male,Medium,Adopted
+129,Khaleesi,3,26,5,6/1/2018,7/24/2018,Female,High,Adopted
+130,Hydro,3,31,4,8/1/2019,3/18/2023,Male,Low,Adopted
+131, Clyde,3,25,12,6/1/2011,10/30/2021,Male,Low,Adopted
+132,Clancy,2,17,20,2/1/2003,4/17/2023,Male,Low,Adopted
+133,Taz,7,64,5,12/1/2018,12/1/2018,Male,Medium,Adopted
+134,Cannoli,2,16,2,6/1/2021,6/1/2021,Male,Medium,Adopted
+135,Salsa,5,50,4,4/1/2019,4/1/2019,Female,Low,Adopted
+136, Simba,1,5,1,8/1/2022,6/29/2023,Male,Medium,Not Adopted
+137,Juke,11,82,45,7/1/1978,3/26/2020,Male,Low,Not Adopted
+138,Lolly,3,34,2,2/1/2021,5/1/2021,Female,Medium,Adopted
+139,Ezra,2,13,5,11/1/2018,1/1/2019,Male,Medium,Adopted
+140, Skipper,5,6,3,4/1/2020,10/1/2020,Male,Medium,Not Adopted
+141,Spock,6,57,1,12/1/2022,5/20/2023,Male,High,Adopted
+142, Olive,2,21,9,10/1/2014,1/29/2021,Female,High,Adopted
+143,Ranger,3,32,4,7/1/2019,10/6/2021,Male,High,Not Adopted
+144,Croissant,3,33,8,4/1/2015,11/25/2022,Male,Low,Adopted
+145, Remi,2,17,1,12/1/2022,12/1/2022,Male,Low,Adopted
+146, Dodger,2,20,3,8/1/2020,1/1/2021,Male,Low,Adopted
+147,Vader,6,58,1,2/1/2022,6/1/2022,Male,High,Adopted
+148,Woody,3,25,7,10/1/2016,4/3/2020,Male,Low,Not Adopted
+149,Whiskey,2,23,11,3/1/2012,10/21/2022,Male,Medium,Adopted
+150,Nitro,2,18,13,11/1/2010,9/30/2023,Male,Medium,Adopted
+151,Igor,2,6,9,3/1/2014,8/25/2023,Male,Medium,Not Adopted
+152, Matilda,3,36,3,4/1/2020,8/1/2020,Female,High,Adopted
+153, Bianca,2,8,6,7/1/2017,3/8/2018,Female,Low,Adopted
+154,Reaper,5,53,5,4/1/2018,2/15/2020,Male,Medium,Not Adopted
+155, Pickles,3,40,4,12/1/2019,1/1/2020,Male,High,Not Adopted
+156, Alf,5,6,2,2/1/2021,7/1/2021,Male,High,Adopted
+157,Wolverine,3,33,11,3/1/2012,1/27/2022,Male,High,Adopted
+158, Chopper,2,22,11,12/1/2012,4/18/2017,Male,Low,Adopted
+159,Jewel,3,26,3,6/1/2020,6/1/2020,Female,Low,Adopted
+160,Esmeralda,2,7,18,6/1/2005,6/6/2019,Female,Medium,Adopted
+161, Mango,11,82,7,6/1/2016,7/27/2020,Female,Low,Not Adopted
+162, Dewey,9,71,3,10/1/2020,10/5/2022,Male,High,Adopted
+163, Charley,2,15,9,6/1/2014,8/7/2022,Female,High,Adopted
+164,Sage,2,17,19,9/1/2004,11/30/2021,Female,Low,Adopted
+165,Cruncher,5,52,3,3/1/2020,7/1/2020,Male,Medium,Not Adopted
+166,Kitkat,3,31,3,9/1/2020,9/1/2020,Female,Low,Adopted
+167,Java,3,35,14,7/1/2009,12/26/2017,Male,Low,Adopted
+168, Agnes,5,50,2,1/1/2021,2/1/2021,Female,Low,Not Adopted
+169,Willoughby,1,3,2,1/1/2021,7/1/2021,Male,Low,Not Adopted
+170,Victor,7,64,14,6/1/2009,8/17/2021,Male,High,Adopted
+171, Bubbles,2,10,2,5/1/2021,5/1/2021,Female,Low,Adopted
+172, Aurora,6,56,2,1/1/2021,6/1/2021,Female,High,Adopted
+173, Poppy,4,48,5,7/1/2018,7/1/2018,Female,Low,Not Adopted
+174, Pudding,5,53,4,1/1/2019,8/9/2022,Female,Medium,Not Adopted
+175,Arya,2,6,11,5/1/2012,11/15/2018,Female,High,Adopted
+176, Brody,3,27,10,4/1/2013,5/26/2019,Male,Medium,Adopted
+177,Corky,3,31,14,9/1/2009,1/2/2023,Male,Low,Adopted
+178, Bailey,2,22,19,5/1/2004,5/30/2018,Female,Medium,Not Adopted
+179,Lucky,5,52,6,10/1/2017,5/22/2021,Male,Low,Not Adopted
+180,Jersey,2,18,2,6/1/2021,9/1/2021,Female,Low,Adopted
+181,Barbie,5,53,2,7/1/2021,12/8/2023,Female,High,Adopted
+182,Xara,2,6,6,6/1/2017,11/16/2021,Female,Medium,Adopted
+183,Kinsley,5,6,2,11/1/2021,11/1/2021,Female,Medium,Not Adopted
+184,Jester,3,34,2,6/1/2021,7/1/2021,Male,High,Adopted
+185,Azalea,10,77,10,7/1/2013,12/29/2018,Female,High,Adopted
+186, Alonzo,11,80,15,7/1/2008,2/25/2023,Male,Medium,Not Adopted
+187, Gremlin,2,11,4,5/1/2019,6/1/2019,Male,Medium,Adopted
+188,Xerxes,3,41,8,9/1/2015,8/25/2020,Male,Low,Adopted
+189,Parrot,1,4,10,4/1/2013,12/15/2019,Female,Low,Not Adopted
+190, Sassy,2,19,19,8/1/2004,11/10/2021,Female,Medium,Adopted
+191,Leia,3,30,11,3/1/2012,10/9/2020,Female,Low,Not Adopted
+192, Buckley,4,49,3,5/1/2020,1/22/2023,Male,Medium,Adopted
+193,Yeti,3,42,9,1/1/2014,6/2/2018,Male,Medium,Adopted
+194,Aspen,2,17,15,6/1/2008,3/11/2019,Female,Low,Adopted
+195, Socks,3,26,13,10/1/2010,5/28/2023,Male,High,Adopted
+196,Abe,3,26,11,3/1/2012,1/1/2023,Male,Medium,Adopted
+197, Daphne,6,57,3,12/1/2020,12/17/2022,Female,High,Adopted
+198,Rio,3,27,14,1/1/2009,11/4/2017,Male,High,Adopted
+199,Sonic,2,9,2,8/1/2021,12/1/2021,Male,Low,Adopted
+200, Charlie,2,6,7,9/1/2016,9/28/2021,Male,Medium,Adopted
+201,Wilder,4,48,5,9/1/2018,9/21/2018,Male,Low,Not Adopted
+202,Dolly,4,45,1,2/1/2022,4/1/2022,Female,Medium,Not Adopted
+203,Hazel-Rae,10,78,5,11/1/2018,12/1/2018,Female,Low,Adopted
+204,Junebug,2,21,1,1/1/2022,6/1/2022,Female,Low,Adopted
+205, Basil,3,39,3,11/1/2020,8/28/2022,Male,High,Adopted
+206, Buckley,2,17,7,5/1/2016,4/7/2018,Male,Low,Adopted
+207,Spock,5,6,1,2/1/2022,4/1/2022,Male,High,Adopted
+208, Koji,3,30,13,12/1/2010,2/5/2022,Male,Low,Adopted
+209,Arrow,3,40,14,5/1/2009,12/6/2021,Male,Medium,Not Adopted
+210,Warrior,7,60,9,7/1/2014,4/6/2020,Male,Medium,Adopted
+211, Ruby,6,58,2,9/1/2021,9/1/2021,Female,High,Adopted
+212,Wisdom,10,79,8,6/1/2015,4/6/2022,Female,Low,Adopted
+213,Ivory,6,57,3,2/1/2020,2/1/2020,Female,Medium,Adopted
+214, Mocha,2,18,19,12/1/2004,12/30/2020,Female,Medium,Adopted
+215,Ripley,6,58,1,2/1/2022,3/1/2022,Female,Medium,Adopted
+216, Max,3,40,15,5/1/2008,2/20/2021,Male,High,Adopted
+217, Casey,2,22,12,12/1/2011,6/26/2021,Male,Medium,Adopted
+218,Beanie,2,11,1,6/1/2022,11/1/2022,Female,Medium,Adopted
+219, Jinx,4,47,5,8/1/2018,12/21/2021,Female,Low,Adopted
+220, Brina,2,19,1,1/1/2022,1/1/2022,Female,Medium,Not Adopted
+221, Jagger,4,45,3,1/1/2020,7/23/2020,Male,Medium,Not Adopted
+222,Casey,3,26,3,3/1/2020,8/1/2020,Female,Low,Adopted
+223,Alonso,3,32,10,12/1/2013,8/13/2019,Male,Low,Adopted
+224,Stoney,2,15,16,8/1/2007,11/4/2019,Male,Medium,Adopted
+225,Arrow,2,16,1,10/1/2022,10/1/2022,Male,Medium,Adopted
+226, Drift,2,6,6,7/1/2017,11/1/2019,Male,High,Adopted
+227,Tahiti,2,14,16,8/1/2007,11/3/2019,Female,Medium,Adopted
+228,Frosty,3,43,15,9/1/2008,6/17/2020,Male,Low,Adopted
+229,Tammy,3,30,7,2/1/2016,11/19/2022,Female,Low,Adopted
+230, Cooper,8,66,43,4/1/1980,10/15/2022,Male,Low,Not Adopted
+231,Paco,4,48,5,4/1/2018,8/16/2018,Male,High,Adopted
+232, Tally,9,70,12,7/1/2011,3/7/2021,Female,Low,Adopted
+233, Atticus,2,8,2,9/1/2021,9/1/2021,Male,Medium,Adopted
+234, Freya,2,16,1,12/1/2022,6/1/2023,Female,Low,Adopted
+235,Java,9,70,2,9/1/2021,1/1/2022,Male,Low,Adopted
+236, Stone,2,9,4,5/1/2019,3/5/2022,Male,Low,Adopted
+237,Frazier,5,50,3,4/1/2020,9/1/2020,Male,Low,Adopted
+238, Harley,2,15,9,11/1/2014,1/7/2019,Female,Medium,Adopted
+239, Lala,9,72,3,9/1/2020,5/3/2021,Female,Low,Adopted
+240, Belen,2,17,5,7/1/2018,9/21/2018,Female,Low,Adopted
+241, Alfons,5,6,2,9/1/2021,12/1/2021,Male,Medium,Adopted
+242, Spike,3,31,11,9/1/2012,2/18/2019,Male,High,Adopted
+243,Mojo,2,12,7,12/1/2016,4/15/2023,Male,Medium,Adopted
+244,Yara,3,39,15,3/1/2008,4/28/2021,Female,Medium,Adopted
+245, Bea,3,27,11,3/1/2012,12/18/2023,Female,High,Adopted
+246, Bodhi,2,12,18,2/1/2005,3/18/2017,Male,Medium,Adopted
+247,Saturn,10,77,17,3/1/2006,8/29/2021,Male,Medium,Adopted
+248,Mojo,2,8,5,5/1/2018,8/1/2018,Male,Medium,Adopted
+249, Mimi,3,36,1,11/1/2022,12/1/2022,Female,High,Not Adopted
+250,Kairos,2,23,17,6/1/2006,10/17/2020,Male,Low,Adopted
+251,Argus,5,51,1,3/1/2022,8/1/2022,Male,Medium,Not Adopted
+252,Rhubarb,2,17,5,3/1/2018,8/1/2018,Male,Low,Adopted
+253,Tamara,3,37,5,2/1/2018,10/11/2020,Female,High,Adopted
+254, Jacob,2,14,20,3/1/2003,1/20/2022,Male,Medium,Adopted
+255, Candy,2,15,19,9/1/2004,11/4/2020,Female,High,Adopted
+256, Queenie,2,21,1,5/1/2022,5/1/2022,Female,Medium,Adopted
+257,Wilder,6,55,2,2/1/2021,7/1/2021,Male,Low,Adopted
+258,Dream,5,52,6,11/1/2017,4/23/2021,Female,Medium,Not Adopted
+259,Mirage,2,16,5,5/1/2018,12/6/2020,Male,Low,Adopted
+260, Ace,3,28,9,6/1/2014,9/23/2021,Male,Medium,Adopted
+261, Dakota,3,39,7,12/1/2016,6/5/2017,Male,Low,Not Adopted
+262, Stone,2,23,15,10/1/2008,11/29/2019,Male,Low,Adopted
+263,Ripley,2,18,1,6/1/2022,9/1/2022,Female,High,Adopted
+264,Ember,1,5,8,5/1/2015,12/1/2021,Male,High,Adopted
+265, Spirit,5,50,3,11/1/2020,11/1/2020,Male,Low,Not Adopted
+266,Stitch,2,24,4,12/1/2019,4/1/2020,Male,Low,Adopted
+267,Panda,5,53,1,5/1/2022,5/1/2022,Male,Medium,Adopted
+268,Eloise,2,21,1,3/1/2022,5/1/2022,Female,Medium,Adopted
+269,Ladybug,2,7,14,5/1/2009,1/17/2019,Female,Low,Adopted
+270,Kermit,3,26,7,9/1/2016,3/16/2017,Male,Medium,Adopted
+271,Fuji,7,61,13,11/1/2010,4/9/2023,Male,Low,Adopted
+272,Donut,2,20,1,2/1/2022,3/1/2022,Male,Low,Adopted
+273, Phineas,5,51,1,2/1/2022,2/1/2022,Male,Medium,Not Adopted
+274, Tilly,2,24,1,1/1/2022,1/1/2022,Female,Low,Adopted
+275,Chelsea,7,63,6,6/1/2017,5/9/2020,Female,Low,Adopted
+276,Ninny,9,72,11,1/1/2012,8/15/2020,Female,Low,Adopted
+277,Martha,3,29,7,8/1/2016,7/9/2022,Female,Medium,Adopted
+278, Crumpet,3,26,13,9/1/2010,9/10/2017,Male,Medium,Adopted
+279, Tessa,6,56,1,2/1/2022,2/1/2022,Female,Low,Adopted
+280,Papillon,2,15,18,3/1/2005,6/22/2022,Male,High,Adopted
+281,Gatsby,2,18,3,2/1/2020,1/26/2022,Male,Low,Adopted
+282, Whiskers,3,39,6,11/1/2017,1/15/2023,Female,Medium,Not Adopted
+283, Galaxy,3,40,13,7/1/2010,1/10/2018,Male,High,Adopted
+284,Mika,5,6,2,11/1/2021,4/1/2022,Female,Medium,Adopted
+285,Matty,3,37,6,11/1/2017,1/5/2020,Female,Low,Adopted
+286, Vader,3,37,3,1/1/2020,7/1/2020,Male,Low,Adopted
+287, Chester,1,3,2,5/1/2021,1/18/2022,Male,Low,Adopted
+288,Biscuit,8,65,35,3/1/1988,10/26/2022,Male,Low,Not Adopted
+289,Kairos,5,51,5,11/1/2018,11/1/2018,Male,Medium,Adopted
+290,Wyatt,2,18,2,6/1/2021,11/1/2021,Male,Medium,Adopted
+291, Pippin,3,38,4,2/1/2019,12/31/2022,Male,Low,Not Adopted
+292,Kinsley,5,50,1,4/1/2022,5/1/2022,Female,Low,Not Adopted
+293,Joplin,6,57,1,8/1/2022,2/1/2023,Male,Medium,Adopted
+294, Mango,1,4,2,4/1/2021,7/1/2021,Female,High,Not Adopted
+295, Clementine,3,44,11,9/1/2012,1/2/2023,Female,High,Adopted
+296, Frankie,2,24,2,10/1/2021,11/1/2021,Female,Low,Adopted
+297,Radar,3,38,11,6/1/2012,9/2/2021,Male,Low,Adopted
+298,Nero,3,33,6,12/1/2017,10/13/2020,Male,Low,Adopted
+299, Winnie,4,45,5,4/1/2018,12/20/2020,Female,Low,Not Adopted
+300,Liliana,7,62,8,1/1/2015,11/29/2021,Female,Low,Adopted
+301,Geneva,3,39,6,5/1/2017,9/9/2020,Female,Medium,Adopted
+302, Sweetie,2,9,19,5/1/2004,12/20/2021,Female,Low,Not Adopted
+303, Augustus,2,15,3,8/1/2020,2/24/2021,Male,Medium,Adopted
+304,Donut,3,33,2,9/1/2021,11/1/2021,Male,Low,Adopted
+305,Lace,5,51,4,4/1/2019,2/6/2021,Female,Low,Not Adopted
+306, Anya,2,12,8,6/1/2015,1/12/2018,Female,Low,Adopted
+307,Titan,2,7,12,5/1/2011,11/20/2019,Male,Low,Adopted
+308,Rembrandt,3,43,5,2/1/2018,2/1/2018,Male,Low,Adopted
+309,Farley,6,59,1,2/1/2022,5/1/2022,Male,Medium,Adopted
+310,0,3,43,8,12/1/2015,3/14/2021,Female,Low,Not Adopted
+311,Iverson,5,50,7,7/1/2016,5/28/2019,Male,Low,Adopted
+312,Alexandria,3,25,7,12/1/2016,8/31/2022,Female,Low,Not Adopted
+313, Tux,1,4,1,7/1/2022,12/1/2022,Male,Medium,Adopted
+314,Macee,2,22,5,4/1/2018,4/29/2019,Female,High,Adopted
+315, Buckley,3,33,5,12/1/2018,1/12/2020,Male,Medium,Adopted
+316,Zigzag,6,55,3,7/1/2020,3/3/2021,Male,High,Adopted
+317, Henry,9,73,1,9/1/2022,3/1/2023,Male,High,Adopted
+318, Bandit,3,33,11,4/1/2012,10/12/2018,Male,Medium,Adopted
+319, Chopper,2,10,17,1/1/2006,12/27/2019,Male,Medium,Not Adopted
+320,Hunter,5,52,7,9/1/2016,12/7/2021,Male,Low,Not Adopted
+321,Tobias,6,57,2,3/1/2021,3/1/2021,Male,Medium,Adopted
+322, Henry,2,24,8,8/1/2015,12/26/2020,Male,Low,Not Adopted
+323,Cannoli,2,13,4,8/1/2019,8/1/2019,Male,Medium,Adopted
+324, Clyde,5,52,6,9/1/2017,7/6/2021,Male,Low,Not Adopted
+325, Brody,3,43,14,3/1/2009,2/10/2021,Male,Low,Adopted
+326,Kyoto,3,26,7,8/1/2016,2/5/2021,Male,Medium,Adopted
+327,Buzzard,3,31,11,6/1/2012,5/22/2021,Male,Low,Adopted
+328, Boots,2,12,2,4/1/2021,5/1/2021,Male,Low,Adopted
+329, Chief,2,10,6,7/1/2017,7/1/2017,Male,High,Adopted
+330, Prince,3,40,10,11/1/2013,9/26/2022,Male,Medium,Adopted
+331,Flash,3,25,5,11/1/2018,7/19/2022,Male,Medium,Adopted
+332, Cooper,1,4,10,5/1/2013,8/18/2018,Male,Low,Adopted
+333,Brielle,3,31,1,10/1/2022,10/1/2022,Female,Medium,Adopted
+334,Faron,3,25,2,3/1/2021,6/1/2021,Male,Medium,Adopted
+335,Alonso,5,6,7,2/1/2016,3/18/2017,Male,Medium,Not Adopted
+336,Tango,3,25,1,5/1/2022,5/1/2022,Male,Low,Adopted
+337,Witchy,8,67,33,9/1/1990,11/29/2023,Female,Low,Adopted
+338,Amos,5,52,7,6/1/2016,4/8/2017,Male,High,Adopted
+339, Enzo,5,6,7,2/1/2016,4/9/2023,Male,Medium,Not Adopted
+340,Taz,3,29,3,12/1/2020,5/1/2021,Male,Low,Adopted
+341, Maisie,2,15,6,2/1/2017,4/22/2021,Female,Medium,Not Adopted
+342,0,1,5,9,1/1/2014,4/17/2019,Female,Low,Adopted
+343, Dodge,2,10,5,1/1/2018,8/14/2018,Male,Low,Adopted
+344,Foxy,2,9,6,4/1/2017,3/4/2021,Female,Low,Adopted
+345,Joey,2,13,12,11/1/2011,9/15/2020,Female,High,Adopted
+346,Snooze,4,46,5,1/1/2018,1/2/2023,Male,Medium,Not Adopted
+347, Hank,2,20,14,7/1/2009,8/12/2017,Male,Low,Adopted
+348,Lark,2,14,2,6/1/2021,9/1/2021,Male,Medium,Adopted
+349, Winston,2,16,2,10/1/2021,2/1/2022,Male,High,Adopted
+350,Rex,3,39,8,2/1/2015,10/24/2023,Male,Medium,Not Adopted
+351,Cruz,2,8,2,4/1/2021,4/1/2021,Male,Low,Adopted
+352,Mac,4,47,5,8/1/2018,8/16/2018,Male,Low,Adopted
+353, Lyla,7,60,12,2/1/2011,7/18/2018,Female,Medium,Adopted
+354, Harley,7,64,10,10/1/2013,10/16/2018,Female,High,Adopted
+355,Raindrop,1,4,6,11/1/2017,5/24/2020,Female,Medium,Adopted
+356, Lobo,3,30,14,1/1/2009,6/6/2023,Male,Low,Not Adopted
+357,Ruben,2,17,16,2/1/2007,3/14/2018,Male,Low,Adopted
+358, Cooper,4,46,5,9/1/2018,11/1/2018,Male,Low,Adopted
+359,Indi,2,18,13,12/1/2010,12/28/2018,Female,Medium,Adopted
+360,Snickers,3,42,14,6/1/2009,8/14/2017,Male,Medium,Adopted
+361, Beauregard,3,43,5,6/1/2018,6/1/2018,Male,Low,Adopted
+362, Amigo,8,68,15,11/1/2008,10/27/2019,Male,Low,Adopted
+363, Benny,4,45,2,10/1/2021,10/1/2021,Male,Medium,Adopted
+364,Cleo,2,12,18,5/1/2005,2/5/2020,Female,Low,Adopted
+365,Kimmy,3,41,11,8/1/2012,8/21/2021,Female,Low,Adopted
+366, Duke,2,11,17,3/1/2006,2/14/2023,Male,Low,Adopted
+367, Huey,2,10,15,3/1/2008,10/13/2023,Male,Low,Adopted
+368, Barnum,5,53,1,5/1/2022,11/1/2022,Male,Medium,Adopted
+369,Hunter,3,37,1,7/1/2022,11/1/2022,Male,Medium,Adopted
+370, Koji,2,9,13,12/1/2010,7/12/2020,Male,Low,Adopted
+371,Prince,2,15,17,11/1/2006,9/11/2023,Male,High,Adopted
+372,Gypsy,3,29,1,4/1/2022,4/1/2022,Female,High,Adopted
+373,Moss,1,5,2,8/1/2021,10/1/2021,Male,High,Not Adopted
+374,Gaea,2,21,11,1/1/2012,11/15/2017,Female,Medium,Adopted
+375, Tux,3,26,1,8/1/2022,12/1/2022,Male,Medium,Adopted
+376, Marlie,3,36,13,12/1/2010,1/13/2018,Female,Medium,Adopted
+377,Cooper,3,25,14,8/1/2009,7/9/2021,Male,Medium,Adopted
+378,Mango,3,42,13,5/1/2010,6/30/2022,Male,Low,Adopted
+379, Zoey,3,36,2,2/1/2021,11/19/2021,Female,Medium,Adopted
+380,Roxy,3,26,6,6/1/2017,4/16/2023,Female,Medium,Not Adopted
+381, Marshall,6,56,1,1/1/2022,7/1/2022,Male,High,Adopted
+382,Knight,3,38,14,2/1/2009,9/16/2021,Male,Low,Adopted
+383, Ada,9,71,1,8/1/2022,8/1/2022,Female,Low,Adopted
+384,Basilisk,2,17,17,12/1/2006,11/14/2021,Male,Low,Adopted
+385, Steve,2,9,1,3/1/2022,3/1/2022,Male,Low,Adopted
+386, Sprinkles,2,8,9,4/1/2014,8/21/2021,Female,Medium,Adopted
+387, Tessa,1,3,1,10/1/2022,10/1/2022,Female,Low,Not Adopted
+388, Timmy,4,45,2,10/1/2021,11/1/2021,Male,Low,Not Adopted
+389,Dagger,3,26,2,3/1/2021,3/1/2021,Male,Medium,Adopted
+390, Toffee,5,50,5,12/1/2018,1/17/2023,Female,Low,Not Adopted
+391, Cali,2,12,12,6/1/2011,7/30/2023,Female,Low,Adopted
+392, Angus,3,38,7,5/1/2016,6/15/2023,Male,Low,Adopted
+393, Scout,3,41,10,9/1/2013,11/2/2019,Female,Medium,Adopted
+394, Floyd,1,4,5,2/1/2018,6/14/2020,Male,Medium,Not Adopted
+395, Bingo,6,56,1,5/1/2022,5/1/2022,Male,Low,Adopted
+396,Beluga,2,10,11,2/1/2012,9/14/2020,Male,High,Adopted
+397, Lyla,2,23,1,3/1/2022,9/1/2022,Female,Low,Adopted
+398, Snap,2,21,5,12/1/2018,6/21/2022,Male,Medium,Adopted
+399, Hannah,1,1,10,1/1/2013,9/13/2022,Female,High,Adopted
+400,Winchester,7,63,10,10/1/2013,10/11/2019,Male,Low,Adopted
+401, Layla,5,51,4,2/1/2019,2/1/2019,Female,Low,Adopted
+402,Leviathan,4,48,5,9/1/2018,10/1/2018,Male,High,Not Adopted
+403, Nala,7,63,6,11/1/2017,5/7/2018,Female,Low,Adopted
+404,Sierra,3,41,3,10/1/2020,3/1/2021,Female,Medium,Adopted
+405, Dodge,3,40,5,12/1/2018,1/1/2019,Male,High,Adopted
+406,Charon,3,34,7,1/1/2016,8/17/2021,Male,High,Adopted
+407,Tisha,5,50,5,8/1/2018,9/19/2018,Female,Low,Not Adopted
+408, Vixen,2,11,6,9/1/2017,10/31/2018,Female,High,Not Adopted
+409, Bandit,5,52,4,10/1/2019,12/1/2019,Male,Medium,Adopted
+410, Binky,3,26,5,9/1/2018,2/15/2022,Male,Medium,Not Adopted
+411, Rocket,2,20,14,6/1/2009,7/17/2019,Male,Low,Adopted
+412,Pashmina,3,26,14,7/1/2009,7/20/2018,Female,Medium,Adopted
+413,Ygritte,3,41,3,11/1/2020,12/1/2020,Female,Medium,Not Adopted
+414,Noctis,3,30,6,3/1/2017,6/8/2023,Male,Low,Adopted
+415,Raindrop,6,55,1,4/1/2022,6/1/2022,Female,Low,Adopted
+416, Alonzo,1,4,1,12/1/2022,2/1/2023,Male,Low,Not Adopted
+417,Maisie-Rae,3,26,3,4/1/2020,7/1/2020,Female,Low,Adopted
+418,Xyla,3,39,8,1/1/2015,8/5/2019,Female,Low,Adopted
+419, Frankie,4,49,3,9/1/2020,9/1/2020,Female,Low,Adopted
+420,Teton,2,18,12,5/1/2011,9/14/2018,Male,Low,Adopted
+421,Betsy,8,65,24,2/1/1999,8/29/2019,Female,Low,Not Adopted
+422,Cleo,3,35,12,12/1/2011,3/9/2020,Female,Medium,Adopted
+423, Pebbles,4,49,2,10/1/2021,2/1/2022,Female,Low,Adopted
+424,Lantern,2,7,5,2/1/2018,2/10/2022,Male,Medium,Adopted
+425, Flicka,9,73,3,4/1/2020,10/1/2020,Female,Medium,Adopted
+426,Cajun,3,44,3,9/1/2020,9/1/2020,Male,Low,Not Adopted
+427, Riley,9,73,8,2/1/2015,9/24/2017,Male,Low,Adopted
+428, Bella,2,12,19,3/1/2004,9/6/2017,Female,Medium,Adopted
+429,Argus,3,34,10,11/1/2013,11/15/2021,Male,High,Not Adopted
+430, Arabella,2,18,6,9/1/2017,9/28/2022,Female,Low,Adopted
+431, Frankie,3,26,1,10/1/2022,10/1/2022,Male,Low,Adopted
+432,Yam,3,34,4,5/1/2019,6/1/2019,Female,High,Adopted
+433, Alonzo,4,47,1,7/1/2022,12/1/2022,Male,Low,Adopted
+434,Kraken,9,74,1,3/1/2022,10/23/2022,Male,Low,Adopted
+435, Barnum,3,30,1,10/1/2022,2/1/2023,Male,Low,Adopted
+436, Jasper,1,1,10,3/1/2013,8/9/2021,Male,Low,Not Adopted
+437,Kaia,1,3,10,4/1/2013,3/30/2020,Female,Low,Not Adopted
+438,Noctis,3,33,1,8/1/2022,9/1/2022,Male,Low,Not Adopted
+439,Sesame,3,33,9,8/1/2014,3/4/2023,Female,Low,Adopted
+440,Montego,2,7,17,11/1/2006,7/9/2022,Male,High,Adopted
+441, Holly,4,46,3,7/1/2020,7/1/2020,Female,Low,Adopted
+442,Ygritte,2,12,6,10/1/2017,12/11/2017,Female,Medium,Adopted
+443,Noelani,3,28,2,7/1/2021,7/1/2021,Female,Medium,Not Adopted
+444,Olav,2,19,3,7/1/2020,12/1/2020,Male,Medium,Adopted
+445,0,7,61,4,5/1/2019,5/1/2019,Female,Low,Adopted
+446, Boris,3,30,6,2/1/2017,1/13/2020,Male,Low,Not Adopted
+447,Sonic,3,35,6,2/1/2017,12/1/2021,Male,Medium,Adopted
+448,Coraline,2,17,20,7/1/2003,3/31/2023,Female,Low,Adopted
+449,Chessie,3,36,5,8/1/2018,8/7/2018,Female,High,Adopted
+450, Carson,3,33,4,7/1/2019,8/9/2021,Male,Medium,Adopted
+451, Bessie,3,35,3,6/1/2020,9/1/2020,Female,Low,Adopted
+452,Sabrina,3,31,9,11/1/2014,2/14/2018,Female,High,Adopted
+453, Harvey,2,15,7,5/1/2016,1/1/2023,Male,High,Adopted
+454,Phoenix,3,37,14,8/1/2009,9/16/2019,Male,Medium,Adopted
+455,Mullet,3,33,2,5/1/2021,8/1/2021,Male,High,Adopted
+456, Bubba,1,4,2,12/1/2021,2/1/2022,Male,Medium,Adopted
+457,Sherlock,3,36,6,2/1/2017,6/22/2021,Male,Medium,Adopted
+458,Brandy,2,7,14,9/1/2009,10/26/2023,Female,High,Adopted
+459,Lumi,2,21,6,6/1/2017,7/6/2022,Female,Medium,Adopted
+460,Morty,11,80,20,10/1/2003,6/9/2017,Male,Low,Not Adopted
+461, Brina,2,23,2,11/1/2021,1/27/2022,Female,Medium,Adopted
+462, Stanley,2,10,4,1/1/2019,8/15/2019,Male,Medium,Adopted
+463,Mila,3,33,10,3/1/2013,7/19/2019,Female,High,Adopted
+464, Georgia,3,42,11,11/1/2012,10/22/2017,Female,Low,Adopted
+465, Alaska,2,20,3,5/1/2020,10/1/2020,Female,Low,Adopted
+466,Gonzo,3,37,6,7/1/2017,2/12/2022,Male,High,Adopted
+467, Copper,2,22,11,10/1/2012,12/11/2023,Male,Medium,Adopted
+468,Golda,8,67,35,11/1/1988,11/18/2021,Female,Low,Not Adopted
+469,Champ,3,38,9,9/1/2014,6/14/2023,Male,Low,Adopted
+470,Weston,3,32,6,2/1/2017,1/27/2018,Male,Medium,Adopted
+471, Trapper,2,16,6,1/1/2017,6/9/2021,Male,Low,Adopted
+472, Goose,3,28,3,12/1/2020,12/1/2020,Male,Low,Not Adopted
+473,Wilfred,3,41,5,6/1/2018,11/1/2018,Male,Medium,Adopted
+474, Squirt,1,5,1,7/1/2022,12/1/2022,Male,High,Not Adopted
+475,Plato,3,43,2,10/1/2021,10/1/2021,Male,Low,Adopted
+476, Buzz,9,74,11,7/1/2012,5/11/2020,Male,High,Adopted
+477,Kraken,3,27,2,6/1/2021,6/1/2021,Male,High,Adopted
+478, Candy,3,25,5,12/1/2018,2/1/2019,Female,Medium,Adopted
+479,0,3,39,4,10/1/2019,11/1/2019,Female,Low,Adopted
+480,Onyx,5,52,4,11/1/2019,4/1/2020,Male,Medium,Adopted
+481, Guppy,2,7,20,5/1/2003,11/28/2022,Female,Medium,Not Adopted
+482,Roar,5,50,4,11/1/2019,11/1/2019,Male,Low,Not Adopted
+483,Champ,6,58,3,5/1/2020,11/1/2020,Male,Medium,Adopted
+484,Galileo,4,47,2,7/1/2021,10/1/2021,Male,Low,Not Adopted
+485, Pippin,3,37,10,11/1/2013,10/7/2021,Male,Low,Adopted
+486, Misty,3,30,3,1/1/2020,1/1/2020,Female,Low,Adopted
+487, Norman,7,64,15,5/1/2008,11/30/2020,Male,Medium,Adopted
+488,Gypsy,3,37,13,6/1/2010,9/8/2021,Female,Medium,Adopted
+489, Slinky,5,53,4,7/1/2019,11/23/2021,Male,Low,Not Adopted
+490,Cruncher,1,4,5,5/1/2018,12/16/2020,Male,Medium,Not Adopted
+491,Bugsy,2,14,3,10/1/2020,12/8/2020,Male,Medium,Not Adopted
+492, Pearl,4,46,4,4/1/2019,10/10/2023,Female,Low,Not Adopted
+493, Diamond,1,5,8,3/1/2015,11/3/2021,Female,High,Not Adopted
+494, Tofu,3,37,9,8/1/2014,4/12/2019,Male,Low,Adopted
+495,Junebug,2,19,1,2/1/2022,8/1/2022,Female,Medium,Adopted
+496,Rorschach,9,72,6,12/1/2017,8/22/2020,Male,Low,Adopted
+497,Ryder,3,39,8,1/1/2015,8/25/2022,Male,Low,Adopted
+498,Hardy,2,23,1,8/1/2022,8/1/2022,Male,Medium,Adopted
+499, Simba,1,1,3,8/1/2020,11/1/2020,Male,Medium,Not Adopted
+500,Solo,3,35,13,4/1/2010,4/4/2017,Male,Medium,Adopted
+501,Watson,3,28,6,6/1/2017,10/20/2017,Male,Medium,Adopted
+502,Sundae,3,34,8,2/1/2015,4/5/2021,Female,Medium,Adopted
+503, Sparkle,3,29,5,4/1/2018,12/17/2023,Female,High,Adopted
+504, Fudge,1,5,6,3/1/2017,10/20/2019,Male,Low,Not Adopted
+505, Rani,10,77,19,12/1/2004,4/21/2018,Female,Medium,Adopted
+506, Bruno,3,27,5,2/1/2018,3/9/2019,Male,Medium,Adopted
+507, Beauregard,6,56,1,4/1/2022,7/1/2022,Male,Medium,Adopted
+508,Dingo,3,42,9,3/1/2014,1/8/2023,Male,Low,Adopted
+509,Bones,3,26,3,4/1/2020,4/1/2020,Male,Low,Adopted
+510,Sirius,3,32,13,5/1/2010,9/23/2018,Male,Low,Adopted
+511,Tamara,8,68,49,5/1/1974,5/24/2023,Female,Medium,Adopted
+512, Max,2,15,10,10/1/2013,3/15/2023,Male,High,Adopted
+513,Nitro,2,13,11,9/1/2012,2/19/2022,Male,Medium,Adopted
+514,Dingo,2,17,4,12/1/2019,11/17/2021,Male,Low,Adopted
+515,Rani,2,12,5,5/1/2018,8/19/2021,Female,High,Adopted
+516, Meadow,2,24,20,11/1/2003,4/12/2022,Female,Low,Adopted
+517,Richter,2,24,6,12/1/2017,11/7/2019,Male,Low,Adopted
+518,Jag,7,61,2,6/1/2021,6/1/2021,Male,Low,Adopted
+519, Pickles,2,7,3,7/1/2020,7/1/2020,Male,Medium,Not Adopted
+520,Nero,2,14,6,2/1/2017,1/10/2019,Male,Low,Adopted
+521, Tilly,2,16,10,1/1/2013,5/30/2018,Female,High,Adopted
+522,Mars,6,57,2,9/1/2021,3/1/2022,Male,Low,Adopted
+523, Murphy,2,10,6,11/1/2017,10/2/2023,Male,High,Adopted
+524, Bernard,2,22,4,11/1/2019,11/3/2021,Male,High,Not Adopted
+525,0,2,19,7,4/1/2016,3/18/2017,Female,Medium,Adopted
+526, Chance,2,18,5,11/1/2018,9/5/2023,Male,Low,Adopted
+527,Nash,2,19,1,7/1/2022,1/1/2023,Male,High,Not Adopted
+528, Buffy,2,8,2,12/1/2021,12/1/2021,Female,Medium,Adopted
+529, Wombat,4,46,5,3/1/2018,12/25/2023,Male,Medium,Adopted
+530,Elodie,2,6,12,5/1/2011,10/19/2022,Female,Medium,Adopted
+531, Dandelion,3,38,2,9/1/2021,9/1/2021,Female,Low,Adopted
+532, Arnold,3,33,1,9/1/2022,2/1/2023,Male,Low,Adopted
+533,Milo,3,40,5,1/1/2018,1/1/2018,Male,High,Adopted
+534,Magnet,2,24,8,8/1/2015,3/11/2018,Male,High,Adopted
+535, Silas,5,53,6,4/1/2017,7/27/2021,Male,High,Adopted
+536, Graham,3,36,10,6/1/2013,8/13/2018,Male,High,Adopted
+537,Savannah,2,16,4,9/1/2019,9/1/2019,Female,Medium,Adopted
+538,Woody,10,79,11,11/1/2012,6/5/2023,Male,Low,Adopted
+539,Cerise,2,9,1,1/1/2022,2/1/2022,Female,Low,Adopted
+540,Fergus,3,40,2,7/1/2021,4/8/2022,Male,High,Not Adopted
+541, Phoebe,2,6,1,4/1/2022,4/1/2022,Female,High,Adopted
+542,Sonnet,2,15,5,1/1/2018,3/1/2018,Female,High,Adopted
+543,Rebel,2,13,14,8/1/2009,10/16/2018,Female,High,Adopted
+544, Comet,2,18,6,1/1/2017,10/14/2023,Male,Medium,Adopted
+545,Sinai,3,31,15,5/1/2008,7/27/2018,Female,Medium,Adopted
+546,Butch,3,44,10,9/1/2013,2/8/2023,Male,Medium,Adopted
+547, Tally,3,43,6,7/1/2017,1/9/2022,Female,Low,Adopted
+548,Doodle,2,20,6,10/1/2017,2/26/2023,Male,Low,Adopted
+549,Ansel,3,38,8,2/1/2015,4/9/2021,Male,Low,Adopted
+550, Meadow,5,52,7,5/1/2016,10/22/2019,Female,Medium,Not Adopted
+551,Starla,3,26,1,10/1/2022,3/1/2023,Female,High,Adopted
+552,Kernel,2,20,1,9/1/2022,8/11/2023,Male,Low,Adopted
+553, Grizz,4,47,1,7/1/2022,10/1/2022,Male,Low,Adopted
+554, Ajax,2,24,7,9/1/2016,12/28/2020,Male,Medium,Adopted
+555,Cairo,5,6,2,2/1/2021,2/1/2021,Female,Medium,Not Adopted
+556,Indigo,6,55,2,3/1/2021,4/1/2021,Male,Medium,Adopted
+557, Nugget,3,41,9,10/1/2014,10/13/2017,Female,Medium,Adopted
+558,Callahan,4,49,2,4/1/2021,7/1/2021,Male,Medium,Adopted
+559,Duchess,3,34,6,7/1/2017,12/4/2019,Female,High,Adopted
+560,Queenie,1,1,10,9/1/2013,9/22/2019,Female,Low,Adopted
+561, Gracie,2,22,12,12/1/2011,7/3/2023,Female,Low,Adopted
+562, Ernie,5,52,2,4/1/2021,4/1/2021,Male,Low,Adopted
+563,Zuzu,5,51,3,1/1/2020,2/1/2020,Male,Medium,Not Adopted
+564, Jada,2,16,9,1/1/2014,12/10/2021,Female,Low,Adopted
+565, Finn,1,1,3,1/1/2020,1/1/2020,Male,Medium,Not Adopted
+566, Amigo,2,18,2,7/1/2021,8/1/2021,Male,High,Adopted
+567, Peaches,3,41,2,4/1/2021,7/24/2021,Female,Medium,Adopted
+568,Samson,4,49,1,1/1/2022,1/1/2022,Male,Medium,Adopted
+569,Zola,3,28,14,6/1/2009,7/21/2019,Female,Low,Adopted
+570,Lantern,3,43,5,2/1/2018,7/1/2018,Male,Low,Adopted
+571,Magnet,5,52,6,3/1/2017,1/4/2022,Male,High,Not Adopted
+572,Halo,3,26,15,11/1/2008,10/18/2023,Female,Low,Not Adopted
+573,Stoney,2,17,3,5/1/2020,4/18/2021,Male,Low,Adopted
+574,Ruben,5,53,2,9/1/2021,5/12/2023,Male,Medium,Not Adopted
+575,Daisy-Mae,10,78,9,11/1/2014,12/6/2022,Female,Low,Adopted
+576, Zoey,3,31,5,4/1/2018,6/26/2023,Female,Medium,Not Adopted
+577, Agnes,5,51,2,10/1/2021,2/1/2022,Female,Medium,Not Adopted
+578,Yum Yum,5,50,5,8/1/2018,5/8/2023,Female,Low,Adopted
+579,Venom,2,18,20,8/1/2003,4/4/2017,Male,Low,Not Adopted
+580,Pasha,3,39,5,6/1/2018,7/1/2018,Male,Low,Adopted
+581, Tootsie,3,26,4,4/1/2019,8/17/2019,Female,Medium,Not Adopted
+582, Oakley,3,25,14,1/1/2009,4/24/2020,Male,Medium,Adopted
+583,Congo,5,53,1,12/1/2022,2/1/2023,Male,Low,Not Adopted
+584, Rani,1,5,6,9/1/2017,4/7/2018,Female,Medium,Not Adopted
+585,Venom,2,24,4,9/1/2019,9/1/2019,Male,Low,Adopted
+586, Carly,3,36,3,9/1/2020,9/1/2020,Female,Low,Adopted
+587,Tisha,2,11,5,3/1/2018,3/1/2018,Female,Medium,Adopted
+588, Augustus,3,41,13,3/1/2010,11/12/2018,Male,Medium,Adopted
+589, Ellie,2,11,3,8/1/2020,9/1/2020,Female,Low,Adopted
+590, Nugget,5,6,6,11/1/2017,3/15/2020,Female,High,Adopted
+591,Cleo,2,21,17,8/1/2006,8/5/2018,Female,Medium,Adopted
+592,Skittles,3,27,13,6/1/2010,7/20/2020,Male,Medium,Adopted
+593, Roscoe,3,30,1,2/1/2022,2/1/2022,Male,Low,Not Adopted
+594, Rocket,3,27,4,10/1/2019,10/1/2019,Male,High,Adopted
+595, Bowser,2,14,2,11/1/2021,1/1/2022,Male,Low,Adopted
+596, Lala,2,15,6,11/1/2017,11/23/2019,Female,Medium,Not Adopted
+597, Channing,3,29,8,3/1/2015,3/15/2020,Male,Medium,Not Adopted
+598,Bugsy,2,10,17,6/1/2006,5/15/2019,Male,Medium,Adopted
+599, Alfie,3,29,14,11/1/2009,1/8/2018,Male,Medium,Adopted
+600,Gordie,3,39,15,5/1/2008,5/1/2019,Male,Medium,Adopted
+601,Paris,2,15,14,12/1/2009,7/30/2020,Female,High,Adopted
+602, Finnegan,1,4,1,11/1/2022,7/14/2023,Male,Low,Not Adopted
+603,Flash,3,36,11,6/1/2012,9/30/2018,Male,Medium,Adopted
+604, Echo,8,66,37,2/1/1986,6/3/2019,Female,Medium,Adopted
+605, Dottie,1,1,1,8/1/2022,8/1/2022,Female,Medium,Not Adopted
+606, Grizz,4,48,2,4/1/2021,4/1/2021,Male,High,Not Adopted
+607,Denim,4,47,5,12/1/2018,3/29/2023,Female,Low,Adopted
+608, Atreyu,6,59,1,2/1/2022,3/1/2022,Male,Low,Adopted
+609,Valen,1,2,3,3/1/2020,12/31/2021,Male,Low,Not Adopted
+610, Aurora,5,50,2,8/1/2021,8/1/2021,Female,Low,Adopted
+611,Aspen,3,27,1,11/1/2022,5/1/2023,Male,High,Adopted
+612, Harvey,3,44,12,7/1/2011,5/24/2023,Male,Medium,Adopted
+613, Cody,10,76,5,2/1/2018,2/25/2022,Male,High,Adopted
+614, Matilda,11,83,18,7/1/2005,6/9/2017,Female,Medium,Not Adopted
+615,Wilfred,3,42,4,2/1/2019,5/10/2019,Male,Low,Adopted
+616, Barnum,3,43,13,8/1/2010,11/20/2019,Male,Low,Adopted
+617,Watson,2,10,3,3/1/2020,6/1/2020,Male,Low,Adopted
+618, Frosty,3,37,2,4/1/2021,6/2/2023,Female,Medium,Adopted
+619, Pudding,3,43,6,8/1/2017,8/1/2017,Female,Low,Adopted
+620, Amara,3,41,13,7/1/2010,10/8/2018,Female,Medium,Not Adopted
+621, Timmy,3,35,4,1/1/2019,1/1/2019,Male,High,Adopted
+622,Zeus,3,40,14,3/1/2009,11/25/2018,Male,High,Adopted
+623,Mullet,3,29,15,5/1/2008,10/31/2019,Male,High,Adopted
+624, Drift,1,2,8,2/1/2015,8/16/2021,Male,Low,Not Adopted
+625,Reno,3,44,7,12/1/2016,1/12/2022,Male,Medium,Adopted
+626,Cajun,6,59,1,2/1/2022,2/1/2022,Male,High,Adopted
+627, Ollie,7,60,9,7/1/2014,3/9/2022,Male,Medium,Adopted
+628, Blaze,2,8,16,7/1/2007,12/7/2022,Male,Medium,Not Adopted
+629, Gator,2,15,6,3/1/2017,7/12/2022,Male,High,Adopted
+630, Elmo,8,69,29,2/1/1994,1/19/2019,Male,Low,Not Adopted
+631,Coraline,2,24,2,10/1/2021,10/1/2021,Female,Medium,Adopted
+632,Mary Jane,3,28,3,11/1/2020,5/1/2021,Female,Medium,Not Adopted
+633,Biscuit,5,53,2,8/1/2021,11/1/2021,Male,Low,Adopted
+634,Venom,2,10,16,2/1/2007,1/26/2019,Male,Medium,Adopted
+635,Gretchen,3,36,13,7/1/2010,7/15/2021,Female,High,Adopted
+636,Basilisk,3,44,2,6/1/2021,10/1/2021,Male,Medium,Adopted
+637,Zico,2,20,5,6/1/2018,10/3/2023,Male,Low,Adopted
+638, Cal,2,20,12,10/1/2011,1/28/2020,Male,Low,Adopted
+639,Alfredo,3,30,15,6/1/2008,9/14/2017,Male,Low,Adopted
+640,Chaz,2,15,6,7/1/2017,2/12/2022,Male,Medium,Adopted
+641,Knight,5,52,5,11/1/2018,5/1/2019,Male,Low,Not Adopted
+642,Odin,3,34,3,7/1/2020,11/1/2020,Male,High,Not Adopted
+643,Dingo,2,24,15,8/1/2008,4/24/2018,Male,Low,Adopted
+644,Tinsel,7,64,13,7/1/2010,9/14/2021,Female,Low,Adopted
+645, Agatha,3,25,2,5/1/2021,11/1/2021,Female,Medium,Adopted
+646, Louie,6,58,1,5/1/2022,5/1/2022,Male,Low,Adopted
+647,Leroy,11,83,19,1/1/2004,8/4/2018,Male,Medium,Not Adopted
+648,Fudge,6,55,1,3/1/2022,3/1/2022,Female,Low,Adopted
+649, Venus,3,25,10,7/1/2013,7/19/2018,Female,High,Adopted
+650,Squatch,3,26,5,1/1/2018,2/17/2020,Male,Low,Adopted
+651, Kona,5,50,2,3/1/2021,8/1/2021,Female,Low,Adopted
+652,Pashmina,2,6,1,3/1/2022,3/1/2022,Female,High,Adopted
+653, Willow,2,10,8,3/1/2015,4/21/2019,Female,Medium,Adopted
+654, Elmo,2,17,6,12/1/2017,12/1/2017,Male,Low,Adopted
+655, Campbell,2,12,17,12/1/2006,9/13/2022,Male,High,Adopted
+656, Miles,4,49,2,6/1/2021,7/7/2021,Male,Low,Adopted
+657,Mirage,2,13,9,5/1/2014,7/29/2017,Male,Medium,Adopted
+658,Ginny,3,35,5,1/1/2018,10/5/2018,Female,Medium,Adopted
+659, Ace,5,52,5,3/1/2018,8/2/2018,Male,High,Not Adopted
+660, Bernard,9,71,2,4/1/2021,7/1/2021,Male,Low,Adopted
+661,Amelie,6,58,2,7/1/2021,7/1/2021,Female,Low,Adopted
+662, Ada,3,42,13,1/1/2010,7/18/2017,Female,Low,Not Adopted
+663, Bubba,3,34,9,6/1/2014,7/23/2022,Male,High,Adopted
+664,Jessie,2,19,18,5/1/2005,2/18/2019,Female,High,Adopted
+665, Jack,5,50,7,5/1/2016,9/9/2022,Male,Low,Adopted
+666,Beanie,1,1,7,2/1/2016,12/10/2021,Female,Medium,Adopted
+667,Velvet,3,34,10,2/1/2013,6/8/2018,Female,Medium,Adopted
+668, Parker,3,29,2,8/1/2021,9/1/2021,Male,Medium,Adopted
+669,Stevie,3,26,6,8/1/2017,10/30/2021,Female,Low,Adopted
+670, Juniper,3,25,9,6/1/2014,7/8/2017,Female,Low,Adopted
+671,Natty,3,42,10,2/1/2013,3/4/2019,Female,Medium,Adopted
+672,Blossom,2,9,16,12/1/2007,3/2/2022,Female,Low,Adopted
+673,Kong,5,51,7,3/1/2016,4/18/2019,Male,Low,Not Adopted
+674, Alfons,3,26,7,8/1/2016,5/4/2020,Male,Medium,Not Adopted
+675,Starfox,11,80,7,10/1/2016,8/28/2021,Male,High,Not Adopted
+676,Darwin,3,36,3,2/1/2020,1/13/2022,Male,Low,Adopted
+677, Fiddlesticks,3,38,12,7/1/2011,6/3/2022,Female,Low,Not Adopted
+678,Norm,3,32,8,11/1/2015,9/22/2019,Male,Low,Adopted
+679, Alessia,3,40,10,3/1/2013,4/9/2022,Female,Medium,Adopted
+680,Papillon,9,73,7,7/1/2016,11/7/2020,Male,Low,Adopted
+681, Roscoe,2,17,5,8/1/2018,9/29/2022,Male,Low,Adopted
+682,Frosty,1,2,9,9/1/2014,2/2/2019,Male,Low,Not Adopted
+683, Ginger,2,9,10,12/1/2013,2/13/2020,Female,Low,Adopted
+684,Panda,4,48,1,6/1/2022,7/13/2023,Male,Low,Not Adopted
+685, Scooby,3,43,13,2/1/2010,4/15/2023,Male,Low,Adopted
+686,Elsa,8,68,40,2/1/1983,12/12/2023,Female,Medium,Adopted
+687, Rainbow,3,34,1,5/1/2022,11/30/2022,Female,Medium,Adopted
+688,Zuzu,3,26,4,3/1/2019,6/24/2022,Male,Medium,Adopted
+689,Slugger,3,43,6,7/1/2017,12/10/2023,Male,Low,Adopted
+690,Ashanti,3,40,5,10/1/2018,10/1/2018,Female,High,Adopted
+691, Olive,2,11,2,3/1/2021,3/1/2021,Female,Low,Adopted
+692,Chili,3,30,3,2/1/2020,2/1/2020,Female,Low,Adopted
+693,0,3,30,4,3/1/2019,3/1/2019,Female,Low,Adopted
+694,Khaleesi,3,43,1,5/1/2022,5/1/2022,Female,Low,Not Adopted
+695,Jojo,2,17,3,1/1/2020,6/1/2020,Male,Low,Adopted
+696,Lakota,2,14,6,2/1/2017,1/2/2019,Female,Low,Adopted
+697, Graham,5,52,4,10/1/2019,10/1/2019,Male,Low,Adopted
+698,Mullet,3,43,10,10/1/2013,9/13/2020,Male,Low,Adopted
+699,Parrot,10,78,18,8/1/2005,6/26/2019,Female,Low,Adopted
+700, Fern,5,51,7,3/1/2016,8/1/2019,Female,High,Adopted
+701, Vada,3,31,5,4/1/2018,5/10/2021,Female,High,Adopted
+702, Dusk,7,63,3,1/1/2020,1/1/2020,Female,Low,Adopted
+703, Mr. Pickles,2,8,3,11/1/2020,4/1/2021,Male,Low,Adopted
+704,Mojo,3,37,6,7/1/2017,10/15/2019,Male,Low,Not Adopted
+705,Sprite,4,48,5,2/1/2018,11/7/2021,Male,Medium,Adopted
+706,Baron,3,37,14,5/1/2009,3/26/2019,Male,Medium,Adopted
+707, Murphy,1,1,4,2/1/2019,3/15/2021,Male,High,Not Adopted
+708,Harpo,9,74,1,4/1/2022,4/1/2022,Male,Medium,Adopted
+709, Aldo,3,43,3,10/1/2020,10/1/2020,Male,Low,Not Adopted
+710, Karma,2,13,2,4/1/2021,4/1/2021,Female,Medium,Adopted
+711, Rudy,2,8,2,4/1/2021,6/1/2021,Male,Low,Adopted
+712, Pearl,1,2,2,10/1/2021,10/1/2021,Female,Low,Not Adopted
+713,Salem,4,48,2,8/1/2021,8/1/2021,Male,Low,Adopted
+714,Dream,3,37,15,5/1/2008,7/13/2023,Female,Low,Adopted
+715, Champ,2,20,14,7/1/2009,7/14/2021,Male,Low,Adopted
+716, Yoshi,2,24,4,7/1/2019,7/1/2019,Male,Medium,Adopted
+717,Bijou,3,27,4,6/1/2019,7/1/2019,Female,High,Not Adopted
+718, Everest,6,57,1,12/1/2022,3/1/2023,Male,Low,Adopted
+719,Otto,4,47,5,3/1/2018,2/14/2023,Male,Low,Adopted
+720,Conrad,2,21,8,2/1/2015,2/10/2021,Male,Medium,Adopted
+721, Tyson,1,4,1,1/1/2022,6/1/2022,Male,Low,Adopted
+722, Rosie,3,43,14,5/1/2009,10/3/2020,Female,Low,Adopted
+723, Carlotta,5,50,3,2/1/2020,8/1/2020,Female,Low,Adopted
+724, Lincoln,3,31,4,11/1/2019,4/22/2020,Male,Medium,Adopted
+725, Caramel,5,50,7,7/1/2016,3/11/2021,Female,Low,Not Adopted
+726, Shadow,2,13,6,9/1/2017,12/8/2022,Female,Low,Adopted
+727, Bowser,2,13,13,12/1/2010,11/1/2023,Male,Low,Adopted
+728,Velvet,5,52,1,2/1/2022,3/30/2022,Female,Medium,Adopted
+729, Nutmeg,3,37,8,7/1/2015,7/6/2017,Female,High,Adopted
+730,Millie Mae,3,38,15,1/1/2008,11/2/2021,Female,Low,Adopted
+731, Axel,5,53,5,4/1/2018,6/18/2019,Male,Medium,Adopted
+732,Medusa,3,27,4,4/1/2019,4/1/2019,Female,High,Adopted
+733,Igor,3,37,9,6/1/2014,12/30/2020,Male,Low,Not Adopted
+734,Scooter,2,9,15,3/1/2008,11/7/2017,Male,Low,Adopted
+735, Nino,3,27,13,7/1/2010,10/23/2017,Male,High,Adopted
+736, Clementine,10,77,1,1/1/2022,5/1/2022,Female,Medium,Adopted
+737, Fido,3,33,5,10/1/2018,10/20/2020,Male,Medium,Adopted
+738,Fintan,3,41,13,9/1/2010,10/31/2017,Male,Medium,Adopted
+739,Estrella,3,44,2,10/1/2021,11/1/2021,Female,Low,Adopted
+740, Dapper,1,5,5,3/1/2018,4/7/2023,Male,Medium,Adopted
+741, Rudy,5,52,5,8/1/2018,8/1/2018,Male,Low,Adopted
+742,Scrappy,3,38,1,10/1/2022,2/1/2023,Male,Low,Adopted
+743,Queenie,3,38,8,6/1/2015,5/8/2019,Female,Low,Adopted
+744,Corsair,6,56,1,9/1/2022,12/1/2022,Male,Low,Adopted
+745,Nevaeh,2,23,3,6/1/2020,6/1/2020,Female,Medium,Adopted
+746,Scrappy,3,43,11,10/1/2012,8/12/2017,Male,Low,Adopted
+747,Skittles,5,51,3,3/1/2020,10/21/2022,Male,Low,Adopted
+748, Frosty,4,49,4,12/1/2019,3/1/2020,Female,Medium,Adopted
+749,Venom,3,26,14,6/1/2009,7/16/2018,Male,High,Adopted
+750,Xara,1,3,2,8/1/2021,10/1/2021,Female,Low,Not Adopted
+751, Yoda,3,34,14,12/1/2009,5/18/2018,Male,Medium,Adopted
+752,Taz,1,3,4,6/1/2019,8/1/2019,Male,Low,Not Adopted
+753,Dahab,2,19,3,12/1/2020,12/1/2020,Female,Medium,Adopted
+754,Viola,2,22,2,8/1/2021,8/1/2021,Female,Low,Adopted
+755, Abbie,3,29,11,12/1/2012,4/13/2017,Female,Low,Adopted
+756,Aretha,3,35,10,4/1/2013,2/20/2018,Female,Low,Adopted
+757,Alaric,2,20,11,7/1/2012,12/24/2023,Male,Low,Adopted
+758, Dandy,2,12,7,3/1/2016,5/11/2022,Male,Medium,Adopted
+759,Twilight,5,6,3,2/1/2020,6/1/2020,Female,Medium,Not Adopted
+760,Amethyst,11,81,6,10/1/2017,1/24/2021,Female,High,Adopted
+761,Yam,3,41,6,4/1/2017,10/30/2023,Female,Medium,Adopted
+762, Queenie,2,22,4,11/1/2019,2/1/2020,Female,Medium,Adopted
+763, Oakley,3,38,4,6/1/2019,12/5/2021,Male,Low,Adopted
+764,Vesper,3,32,6,6/1/2017,11/21/2023,Female,High,Adopted
+765,Blue,3,39,4,6/1/2019,11/1/2019,Male,Medium,Adopted
+766,Glory,3,38,9,7/1/2014,5/8/2018,Female,Low,Adopted
+767,Victor,3,41,13,4/1/2010,12/14/2017,Male,Medium,Adopted
+768,Kimmy,7,62,5,12/1/2018,8/4/2022,Female,Low,Adopted
+769,Kraken,3,40,2,2/1/2021,7/1/2021,Male,Medium,Adopted
+770, Princess,6,55,1,9/1/2022,12/1/2022,Female,Low,Adopted
+771, Freya,3,38,9,3/1/2014,4/9/2022,Female,Low,Adopted
+772,Eve,1,1,4,4/1/2019,5/2/2021,Female,Medium,Not Adopted
+773,Loki,2,20,19,12/1/2004,7/10/2020,Male,Low,Adopted
+774, Buddy,9,71,3,2/1/2020,4/1/2020,Male,Medium,Adopted
+775,Sparrow,5,53,5,8/1/2018,6/10/2019,Female,Low,Not Adopted
+776,Lantern,2,11,13,3/1/2010,2/9/2022,Male,High,Adopted
+777,Arya,2,13,19,10/1/2004,8/15/2022,Female,Low,Adopted
+778,Wade,6,57,1,7/1/2022,11/1/2022,Male,High,Adopted
+779,Waldo,2,10,4,10/1/2019,4/1/2020,Male,High,Adopted
+780, Jemma,5,6,6,8/1/2017,8/19/2020,Female,High,Not Adopted
+781, Alice,2,14,2,9/1/2021,3/6/2022,Female,High,Adopted
+782,Hanky,8,66,13,8/1/2010,6/18/2022,Male,Medium,Not Adopted
+783, Steve,3,38,5,10/1/2018,11/1/2018,Male,Low,Adopted
+784,Jubilee,2,16,16,6/1/2007,5/3/2022,Male,High,Adopted
+785, Mocha,3,31,4,5/1/2019,4/21/2020,Male,Medium,Adopted
+786,Brutus,2,15,3,4/1/2020,4/1/2020,Male,High,Adopted
+787,Empress,2,11,4,1/1/2019,11/5/2021,Female,High,Adopted
+788,Felix,9,72,3,6/1/2020,6/1/2020,Male,Low,Adopted
+789, Noelle,3,40,7,6/1/2016,7/4/2023,Female,High,Adopted
+790,Cedar,2,6,10,12/1/2013,5/19/2017,Male,High,Adopted
+791,Bash,2,19,17,5/1/2006,3/16/2019,Male,Medium,Adopted
+792, Abner,2,16,1,5/1/2022,5/1/2022,Male,High,Adopted
+793,Kaitlyn,4,49,2,5/1/2021,5/1/2021,Female,Medium,Adopted
+794,Titan,4,48,1,10/1/2022,2/1/2023,Male,High,Adopted
+795, Willa,2,22,1,4/1/2022,4/1/2022,Female,Medium,Adopted
+796, Dilly,2,8,8,6/1/2015,4/12/2022,Female,Medium,Adopted
+797,Kazoo,6,55,1,2/1/2022,2/1/2022,Male,Medium,Adopted
+798,Petunia,2,16,4,10/1/2019,5/23/2020,Female,Medium,Adopted
+799,Wolverine,9,70,3,12/1/2020,3/1/2021,Male,Low,Adopted
+800, Flint,4,45,1,8/1/2022,12/1/2022,Male,Low,Not Adopted
+801, Astrid,10,75,10,3/1/2013,10/29/2019,Female,Medium,Adopted
+802,Jewel,3,40,7,11/1/2016,9/10/2019,Female,Medium,Adopted
+803, Patches,2,18,8,10/1/2015,1/17/2020,Male,Medium,Adopted
+804, Moonbeam,10,79,7,4/1/2016,4/10/2022,Male,High,Adopted
+805,Blue,5,53,1,9/1/2022,1/1/2023,Male,Medium,Not Adopted
+806,Wildflower,3,34,10,8/1/2013,4/6/2021,Female,High,Adopted
+807,Lightning,3,27,6,2/1/2017,2/12/2020,Male,High,Adopted
+808,Vandal,5,6,2,3/1/2021,5/1/2021,Male,Medium,Adopted
+809,Rasputin,3,26,5,5/1/2018,4/4/2020,Male,Medium,Adopted
+810, Boss,2,7,20,11/1/2003,10/25/2019,Male,Medium,Adopted
+811,Clancy,1,1,1,5/1/2022,4/26/2023,Male,High,Adopted
+812, Kai,3,26,9,10/1/2014,4/30/2021,Male,Low,Adopted
+813, Snap,7,63,2,3/1/2021,7/1/2021,Male,Low,Adopted
+814, Rufus,10,75,11,8/1/2012,10/7/2023,Male,High,Adopted
+815, Quincy,3,35,2,9/1/2021,1/1/2022,Female,High,Adopted
+816, Max,3,27,14,9/1/2009,2/5/2019,Male,Medium,Not Adopted
+817, Josie,4,48,5,4/1/2018,8/1/2018,Female,Low,Adopted
+818, Floyd,6,56,1,1/1/2022,1/1/2022,Male,Low,Adopted
+819, Pumpkin,3,30,4,6/1/2019,8/5/2023,Female,Low,Adopted
+820,Tundra,7,60,9,12/1/2014,3/17/2018,Male,Medium,Adopted
+821,Khaleesi,2,13,14,6/1/2009,6/7/2018,Female,Medium,Adopted
+822, Chance,2,6,4,11/1/2019,1/13/2021,Male,High,Adopted
+823, Caddy,5,51,1,8/1/2022,10/1/2022,Female,Low,Not Adopted
+824, Cloud,5,50,4,9/1/2019,3/1/2020,Female,Low,Not Adopted
+825,Link,4,47,5,8/1/2018,8/1/2018,Male,Low,Not Adopted
+826, Lobo,5,53,3,5/1/2020,8/1/2020,Male,High,Adopted
+827,Disco,3,34,6,9/1/2017,5/22/2023,Male,High,Adopted
+828,Chase,3,32,12,12/1/2011,4/12/2017,Male,Low,Adopted
+829, Pip,3,26,3,6/1/2020,11/15/2020,Male,Low,Adopted
+830, Dewdrop,2,23,18,7/1/2005,5/13/2017,Female,Medium,Adopted
+831,Salem,2,8,11,8/1/2012,8/8/2022,Male,Medium,Adopted
+832,Maestro,9,72,3,3/1/2020,10/25/2023,Male,Low,Adopted
+833, Junior,2,20,12,4/1/2011,5/1/2018,Male,Low,Adopted
+834, Brulee,2,13,5,11/1/2018,2/22/2021,Female,Low,Not Adopted
+835,Tinsel,2,18,17,8/1/2006,1/8/2018,Female,High,Adopted
+836,Aisling,9,73,2,12/1/2021,12/1/2021,Female,Medium,Adopted
+837,Avalon,2,6,16,5/1/2007,2/15/2023,Female,Medium,Adopted
+838,Buddy,3,40,11,8/1/2012,10/27/2018,Male,Medium,Adopted
+839,Mika,2,17,10,9/1/2013,2/20/2022,Female,Low,Adopted
+840,Shay,7,63,8,2/1/2015,3/1/2020,Female,Low,Adopted
+841, Milo,2,14,17,12/1/2006,3/18/2019,Male,Medium,Not Adopted
+842,Picasso,3,37,15,11/1/2008,5/24/2021,Male,High,Not Adopted
+843,Aslan,6,56,2,8/1/2021,8/1/2021,Male,Low,Adopted
+844,Scooter,3,34,14,2/1/2009,11/5/2020,Male,Medium,Not Adopted
+845, Rio,2,18,5,10/1/2018,3/13/2019,Male,Medium,Adopted
+846, Astrid,3,43,3,8/1/2020,2/1/2021,Female,Low,Adopted
+847,Sushi,2,7,5,9/1/2018,9/1/2018,Female,Low,Adopted
+848, Goliath,5,6,4,5/1/2019,10/12/2023,Male,High,Adopted
+849, Forrest,2,17,6,8/1/2017,3/24/2023,Male,Low,Adopted
+850, Autumn,3,31,14,4/1/2009,4/5/2017,Female,Medium,Adopted
+851,Leia,4,45,5,1/1/2018,4/27/2019,Female,Low,Adopted
+852,Cooper,2,21,19,5/1/2004,11/16/2022,Male,Low,Adopted
+853,Charm,2,14,17,9/1/2006,10/29/2017,Female,Low,Adopted
+854,Enid,8,65,21,11/1/2002,6/19/2019,Female,Low,Not Adopted
+855,Jacques,5,53,1,12/1/2022,5/1/2023,Male,Medium,Not Adopted
+856, Wiggly,3,30,14,7/1/2009,10/24/2019,Male,Low,Adopted
+857, Sasha,3,42,8,9/1/2015,8/23/2019,Female,High,Adopted
+858,Gypsy,3,26,11,11/1/2012,1/16/2018,Female,Medium,Adopted
+859,Camilla,3,41,6,1/1/2017,6/21/2020,Female,Low,Adopted
+860,Stitch,3,37,14,12/1/2009,7/31/2022,Male,Low,Adopted
+861,Dahab,2,8,10,8/1/2013,10/10/2023,Female,Low,Adopted
+862,Zara,7,63,5,8/1/2018,10/1/2018,Female,Low,Adopted
+863,Julian,2,23,11,7/1/2012,3/6/2020,Male,Low,Adopted
+864,Whitney,3,38,14,11/1/2009,9/6/2021,Female,Low,Not Adopted
+865,Sariah,3,32,2,4/1/2021,4/1/2021,Female,Low,Adopted
+866,Carver,2,18,12,8/1/2011,1/8/2019,Male,Medium,Adopted
+867,Kuma,2,11,2,1/1/2021,1/1/2021,Male,High,Adopted
+868, Albert,3,44,4,2/1/2019,5/1/2019,Male,Medium,Not Adopted
+869, Finn,4,47,3,4/1/2020,9/1/2020,Male,Low,Adopted
+870,Aragon,1,2,5,5/1/2018,1/27/2020,Male,Low,Not Adopted
+871,Jewel,3,44,12,6/1/2011,11/13/2018,Female,Medium,Adopted
+872, Electra,3,28,11,12/1/2012,4/20/2022,Female,Low,Adopted
+873,Carmel,6,59,1,3/1/2022,3/1/2022,Female,Low,Adopted
+874,Meli,6,57,1,7/1/2022,9/1/2022,Female,High,Adopted
+875,Boomerang,3,36,4,2/1/2019,1/4/2022,Male,Medium,Adopted
+876,Radar,2,19,16,12/1/2007,6/7/2020,Male,Medium,Adopted
+877,Stitch,2,15,11,5/1/2012,1/31/2020,Male,High,Adopted
+878, Clementine,3,29,14,2/1/2009,4/18/2019,Female,Medium,Adopted
+879, Wiggly,3,38,12,6/1/2011,3/28/2019,Male,Low,Adopted
+880,Poe,1,5,6,8/1/2017,4/28/2022,Male,Low,Adopted
+881, Coco,5,50,5,11/1/2018,1/1/2019,Male,Low,Not Adopted
+882, Bodhi,2,18,7,6/1/2016,10/8/2017,Male,Low,Adopted
+883, Beauregard,3,29,2,6/1/2021,6/1/2021,Male,High,Not Adopted
+884, Carrot,2,16,5,3/1/2018,9/21/2022,Female,Medium,Not Adopted
+885,Huey,3,37,5,5/1/2018,5/1/2018,Male,Medium,Adopted
+886,Jubilee,3,32,11,7/1/2012,3/11/2023,Female,High,Adopted
+887, Yara,1,2,2,8/1/2021,8/1/2021,Female,Low,Not Adopted
+888, Gem,3,34,13,5/1/2010,5/28/2022,Female,High,Adopted
+889,Caesar,5,51,1,12/1/2022,12/1/2022,Male,Medium,Not Adopted
+890, Max,5,50,3,4/1/2020,4/1/2020,Male,Low,Adopted
+891,Farnsworth,3,42,4,10/1/2019,10/1/2019,Male,Low,Adopted
+892,Valor,3,38,1,12/1/2022,3/1/2023,Male,Low,Adopted
+893,Snooze,3,30,3,11/1/2020,5/1/2021,Male,Low,Adopted
+894,Tabasco,3,28,1,5/1/2022,9/8/2022,Male,Medium,Adopted
+895,Elsie,2,19,6,11/1/2017,2/8/2020,Female,Medium,Adopted
+896,Yara,10,75,10,10/1/2013,4/22/2017,Female,High,Adopted
+897,Huey,2,23,15,4/1/2008,10/20/2018,Male,High,Adopted
+898, Alistair,3,26,15,1/1/2008,1/19/2021,Male,Medium,Adopted
+899,Uno,5,50,4,10/1/2019,10/1/2019,Male,Low,Not Adopted
+900,Bubbles,3,40,4,5/1/2019,5/1/2019,Female,Medium,Adopted
+901,April,3,30,4,11/1/2019,11/1/2019,Female,Low,Adopted
+902, Rex,3,38,13,12/1/2010,6/30/2020,Male,Low,Adopted
+903, Autumn,2,16,5,12/1/2018,1/1/2019,Female,High,Not Adopted
+904, Zina,7,63,9,11/1/2014,5/20/2020,Female,Low,Adopted
+905,Tracker,3,36,7,4/1/2016,11/23/2019,Male,High,Adopted
+906,Pesto,2,11,9,8/1/2014,6/22/2017,Male,Low,Adopted
+907, Tucker,4,46,4,4/1/2019,4/3/2022,Male,Low,Adopted
+908,Jubilee,2,23,18,9/1/2005,2/5/2021,Male,Low,Adopted
+909,Sandman,5,53,6,7/1/2017,11/22/2019,Male,Low,Adopted
+910, Sable,3,36,2,11/1/2021,2/1/2022,Female,Low,Not Adopted
+911, Patches,3,27,14,10/1/2009,2/3/2022,Male,High,Not Adopted
+912,Kinsley,2,22,11,7/1/2012,10/4/2021,Female,Medium,Adopted
+913, Sweet Pea,2,24,17,4/1/2006,3/15/2017,Female,Low,Adopted
+914, Yukon,3,40,4,12/1/2019,5/1/2020,Male,High,Not Adopted
+915,Conan,1,3,1,11/1/2022,2/1/2023,Male,Low,Adopted
+916,Quill,1,2,3,8/1/2020,10/19/2022,Male,Low,Adopted
+917,Croissant,5,53,2,2/1/2021,9/1/2023,Male,High,Not Adopted
+918,Bones,2,11,6,7/1/2017,11/10/2017,Male,High,Adopted
+919, Gromit,3,26,1,12/1/2022,3/1/2023,Male,Medium,Adopted
+920,Kyoto,2,12,11,1/1/2012,5/3/2022,Male,Medium,Adopted
+921, Teddy,5,52,5,1/1/2018,3/15/2021,Male,Medium,Adopted
+922,Carina,10,77,11,6/1/2012,8/23/2018,Female,High,Adopted
+923, Cali,3,27,4,8/1/2019,2/1/2020,Female,Medium,Adopted
+924,Macee,2,17,11,8/1/2012,9/7/2019,Female,Low,Not Adopted
+925, Grace,10,78,9,4/1/2014,7/9/2023,Female,Low,Adopted
+926,Chevy,3,34,4,2/1/2019,7/1/2019,Male,Medium,Adopted
+927, Rags,2,8,5,5/1/2018,5/1/2018,Male,High,Adopted
+928, Duke,3,43,8,5/1/2015,8/15/2018,Male,Low,Adopted
+929, Amigo,5,51,7,4/1/2016,7/17/2022,Male,Low,Adopted
+930,Cajun,1,2,4,1/1/2019,6/1/2019,Male,Low,Adopted
+931,Alonso,2,21,4,8/1/2019,9/1/2019,Male,High,Adopted
+932,Nico,2,12,16,12/1/2007,2/14/2021,Male,Medium,Adopted
+933,Panzer,2,6,6,3/1/2017,12/7/2020,Male,Medium,Adopted
+934, Grace,3,26,5,8/1/2018,1/24/2021,Female,Medium,Adopted
+935,Liv,3,41,4,11/1/2019,11/1/2019,Female,Medium,Not Adopted
+936,Benson,2,11,20,3/1/2003,12/18/2017,Male,Medium,Adopted
+937, Willow,5,53,1,2/1/2022,3/1/2022,Female,Medium,Not Adopted
+938,Savage,5,53,1,7/1/2022,9/15/2023,Male,Low,Adopted
+939, Gabi,2,13,8,3/1/2015,10/12/2018,Female,Low,Adopted
+940, Chomp,5,50,7,3/1/2016,5/1/2017,Male,Low,Adopted
+941, Casey,6,57,2,1/1/2021,8/27/2021,Male,Low,Adopted
+942, Dewdrop,2,22,16,11/1/2007,8/1/2023,Female,Low,Adopted
+943,Mamie,2,24,11,6/1/2012,5/13/2023,Female,High,Adopted
+944,Jacinda,2,22,6,7/1/2017,9/14/2022,Female,High,Adopted
+945,Jubilee,3,36,5,6/1/2018,11/9/2019,Female,High,Not Adopted
+946,Wink,3,41,12,4/1/2011,9/25/2022,Female,Low,Adopted
+947,Whimsy,3,29,6,3/1/2017,1/30/2020,Female,Medium,Adopted
+948,Jolie,2,6,2,3/1/2021,3/1/2021,Female,Medium,Adopted
+949,Lark,3,27,2,5/1/2021,5/1/2021,Male,Medium,Adopted
+950,Norm,9,70,3,7/1/2020,7/1/2020,Male,Low,Adopted
+951, Ivy,2,20,10,9/1/2013,7/9/2022,Female,Low,Adopted
+952, Graham,3,37,14,4/1/2009,4/1/2019,Male,Medium,Adopted
+953,Denim,2,22,5,9/1/2018,11/1/2018,Female,Medium,Adopted
+954, Sage,4,49,2,6/1/2021,3/30/2023,Female,Medium,Not Adopted
+955, Doug,5,52,7,7/1/2016,4/17/2018,Male,Low,Not Adopted
+956, Bonkers,3,40,3,5/1/2020,5/1/2020,Male,High,Adopted
+957, Noelle,1,2,3,1/1/2020,11/23/2020,Female,Low,Adopted
+958,Olympia,1,4,10,5/1/2013,11/9/2019,Female,Low,Not Adopted
+959,Nibbles,5,52,7,10/1/2016,6/12/2018,Female,Low,Not Adopted
+960, Madison,2,17,19,3/1/2004,9/30/2018,Female,Low,Adopted
+961,Jubilee,3,25,3,12/1/2020,3/29/2022,Male,Low,Adopted
+962,Kinsley,1,2,6,4/1/2017,3/22/2021,Female,Low,Not Adopted
+963, Kovu,3,28,6,9/1/2017,9/9/2022,Male,Medium,Adopted
+964, Sally,2,13,13,8/1/2010,8/17/2020,Female,Medium,Adopted
+965, Buster,8,67,9,9/1/2014,4/3/2020,Male,Low,Adopted
+966,Karma,3,25,15,5/1/2008,5/8/2018,Female,Medium,Adopted
+967, Funky,5,52,7,3/1/2016,8/5/2021,Male,High,Adopted
+968,Solo,6,56,2,5/1/2021,6/1/2023,Male,Low,Adopted
+969, Bridget,3,32,7,6/1/2016,4/18/2017,Female,Medium,Adopted
+970,Bugsy,7,61,5,10/1/2018,10/1/2018,Male,Low,Adopted
+971,Indigo,3,30,14,9/1/2009,2/6/2019,Female,Low,Adopted
+972, Dewey,3,28,15,7/1/2008,3/24/2020,Male,Low,Adopted
+973,Gulliver,3,41,13,9/1/2010,8/19/2019,Male,High,Adopted
+974,Dot,3,32,11,9/1/2012,2/10/2023,Female,Low,Not Adopted
+975,McGregor,3,25,2,6/1/2021,6/1/2021,Male,Low,Adopted
+976, Alessia,4,48,4,11/1/2019,11/26/2022,Female,Low,Adopted
+977,Otto,3,34,8,6/1/2015,10/4/2021,Male,Medium,Adopted
+978,Skittles,2,20,18,7/1/2005,1/17/2023,Male,Low,Adopted
+979,Elva,3,39,9,11/1/2014,12/2/2019,Female,Medium,Not Adopted
+980,Cassiopeia,4,46,5,12/1/2018,1/22/2019,Female,Low,Adopted
+981,Meli,4,45,1,11/1/2022,3/1/2023,Female,High,Not Adopted
+982, Foxy,5,53,2,1/1/2021,6/1/2021,Female,Low,Not Adopted
+983, Charlotte,3,27,10,1/1/2013,7/30/2023,Female,High,Not Adopted
+984, Amethyst,3,25,13,6/1/2010,11/22/2021,Female,Medium,Not Adopted
+985, Niko,7,63,8,6/1/2015,12/6/2021,Male,Low,Adopted
+986, Radar,2,24,17,6/1/2006,2/20/2018,Male,Low,Adopted
+987, Bindi,5,50,7,9/1/2016,7/15/2021,Female,Low,Not Adopted
+988, Cinnamon,5,51,7,6/1/2016,7/15/2022,Female,Low,Not Adopted
+989, Albie,10,77,11,4/1/2012,7/30/2018,Male,Medium,Adopted
+990, Niko,1,4,4,10/1/2019,2/1/2020,Male,Medium,Not Adopted
+991, Atreyu,3,37,5,6/1/2018,5/9/2022,Male,High,Adopted
+992,Snickers,2,15,2,7/1/2021,10/1/2021,Male,High,Adopted
+993, Jackson,3,44,15,3/1/2008,5/18/2021,Male,Medium,Not Adopted
+994, Alfons,2,8,4,8/1/2019,10/1/2019,Male,Medium,Adopted
+995,Sage,9,72,12,6/1/2011,12/23/2018,Female,Low,Adopted
+996, Bodhi,3,34,12,8/1/2011,5/22/2020,Male,High,Not Adopted
+997, Sweetie,1,5,5,12/1/2018,11/17/2020,Female,High,Not Adopted
+998,Annika,7,60,5,9/1/2018,11/1/2022,Female,Medium,Adopted
+999, Wombat,3,31,6,12/1/2017,2/21/2018,Male,Low,Adopted
+1000, Ace,2,19,3,6/1/2020,6/6/2020,Male,Medium,Adopted
+1001,Montego,2,12,2,9/1/2021,11/1/2021,Male,Low,Adopted
+1002,Dahab,4,45,2,9/1/2021,11/4/2021,Female,Medium,Adopted
+1003, Milo,2,13,20,10/1/2003,7/22/2018,Male,High,Adopted
+1004,Tori,3,36,10,5/1/2013,7/29/2017,Female,Medium,Adopted
+1005,Velvet,1,5,2,11/1/2021,12/1/2021,Female,Low,Not Adopted
+1006, Buddy,1,2,6,1/1/2017,9/21/2019,Male,Low,Adopted
+1007,Onyx,5,50,4,3/1/2019,3/1/2019,Male,Low,Adopted
+1008,Frosty,1,2,5,9/1/2018,10/1/2018,Male,Low,Not Adopted
+1009, Rosie,8,67,14,4/1/2009,3/29/2022,Female,Low,Adopted
+1010, Zoe,3,40,6,8/1/2017,3/12/2022,Female,High,Adopted
+1011,Velvet,5,53,1,8/1/2022,8/1/2022,Female,Low,Adopted
+1012, Squirt,5,6,3,6/1/2020,9/1/2020,Male,High,Adopted
+1013, Foxy,5,51,7,10/1/2016,2/23/2020,Female,Low,Adopted
+1014, Snoopy,3,26,1,1/1/2022,1/1/2022,Male,Low,Adopted
+1015,Zynae,2,18,2,10/1/2021,11/1/2021,Female,High,Adopted
+1016,Nirvana,3,37,11,7/1/2012,7/30/2017,Female,Low,Adopted
+1017,Sage,2,8,3,2/1/2020,5/1/2020,Female,High,Adopted
+1018, Callie,2,15,18,2/1/2005,7/29/2022,Female,High,Adopted
+1019, Bowie,2,10,3,11/1/2020,3/1/2021,Male,High,Adopted
+1020, Betty,2,13,3,3/1/2020,9/1/2020,Female,High,Adopted
+1021,Basilisk,3,39,6,12/1/2017,12/18/2017,Male,Medium,Adopted
+1022, Malachi,3,40,4,2/1/2019,2/1/2019,Male,Medium,Adopted
+1023, Willow,3,42,4,11/1/2019,11/1/2019,Female,Low,Adopted
+1024, Astrid,2,7,3,6/1/2020,10/1/2020,Female,Medium,Adopted
+1025, Bree,2,24,2,1/1/2021,2/1/2021,Female,Medium,Adopted
+1026,Gander,2,8,20,8/1/2003,10/1/2020,Male,Low,Adopted
+1027, Lala,3,38,11,11/1/2012,4/21/2022,Female,Low,Adopted
+1028,Zigzag,1,1,5,11/1/2018,9/19/2023,Male,Medium,Not Adopted
+1029, Bodhi,9,74,2,1/1/2021,2/1/2021,Male,High,Adopted
+1030,Paco,2,15,15,9/1/2008,4/5/2020,Male,High,Adopted
+1031,Smokey,2,8,3,1/1/2020,11/20/2023,Male,Low,Adopted
+1032, Watson,2,20,5,12/1/2018,12/1/2018,Male,Low,Adopted
+1033,Sinai,9,71,12,9/1/2011,6/13/2022,Female,Medium,Adopted
+1034,Forrest,3,32,12,12/1/2011,12/15/2021,Male,Medium,Not Adopted
+1035, Flower,2,14,15,9/1/2008,3/31/2018,Female,High,Adopted
+1036,Sunshine,11,83,19,11/1/2004,3/23/2023,Female,Medium,Adopted
+1037,Tank,5,50,7,2/1/2016,11/18/2019,Male,Low,Not Adopted
+1038,Mars,2,6,6,6/1/2017,9/1/2023,Male,Medium,Adopted
+1039,Sherlock,3,38,8,2/1/2015,4/21/2020,Male,Low,Adopted
+1040,Spock,2,16,1,4/1/2022,7/1/2022,Male,Medium,Adopted
+1041,Slugger,2,20,6,3/1/2017,12/9/2020,Male,Low,Adopted
+1042,Galena,2,9,10,10/1/2013,2/3/2021,Female,Low,Adopted
+1043, Iggy,3,42,9,10/1/2014,2/17/2022,Male,Medium,Not Adopted
+1044, Jacob,3,27,14,5/1/2009,8/24/2018,Male,Medium,Adopted
+1045, Pacer,3,27,15,10/1/2008,8/5/2019,Male,High,Adopted
+1046,Norm,2,14,1,1/1/2022,1/1/2022,Male,High,Adopted
+1047, Ryder,3,37,13,7/1/2010,8/7/2023,Male,Medium,Adopted
+1048,Mila,3,41,15,5/1/2008,4/20/2018,Female,Medium,Adopted
+1049,Xanadu,3,44,10,1/1/2013,11/15/2021,Female,Low,Adopted
+1050, Lyla,5,50,2,9/1/2021,3/1/2022,Female,Low,Not Adopted
+1051, Benji,2,14,15,2/1/2008,9/3/2020,Male,Medium,Adopted
+1052,Captain,5,51,7,9/1/2016,11/8/2019,Male,High,Adopted
+1053,Whimsy,2,10,2,7/1/2021,7/1/2021,Female,High,Adopted
+1054,Dylan,2,17,13,9/1/2010,8/22/2021,Male,Low,Not Adopted
+1055,Alfredo,3,41,4,4/1/2019,4/4/2020,Male,Medium,Adopted
+1056, Abner,9,72,8,3/1/2015,2/5/2022,Male,Low,Adopted
+1057,Fabio,2,8,3,11/1/2020,6/9/2021,Male,Low,Adopted
+1058,Wilder,4,46,1,5/1/2022,5/1/2022,Male,Medium,Adopted
+1059,Lorenzo,2,24,6,3/1/2017,8/3/2023,Male,Medium,Adopted
+1060,Elodie,6,56,2,12/1/2021,6/1/2022,Female,Medium,Adopted
+1061, Koji,4,45,2,10/1/2021,11/1/2021,Male,Medium,Not Adopted
+1062, Skipper,3,42,10,3/1/2013,5/24/2020,Male,Medium,Adopted
+1063,Charm,6,56,1,4/1/2022,8/1/2022,Female,Medium,Adopted
+1064, Breeze,2,17,5,5/1/2018,3/21/2022,Female,Low,Adopted
+1065, Madison,2,9,5,3/1/2018,12/3/2021,Female,Low,Adopted
+1066,Aiden,2,10,3,5/1/2020,5/1/2020,Male,Low,Adopted
+1067,Aragon,3,30,15,7/1/2008,6/15/2018,Male,Low,Not Adopted
+1068,Jessie,6,57,2,11/1/2021,5/1/2022,Female,High,Adopted
+1069, Mango,10,75,14,3/1/2009,9/13/2022,Male,High,Adopted
+1070, Yoda,3,43,4,3/1/2019,2/26/2020,Male,Low,Not Adopted
+1071, Jelly,5,50,3,7/1/2020,9/1/2020,Female,Low,Not Adopted
+1072, Chip,3,36,10,1/1/2013,4/6/2021,Male,Medium,Adopted
+1073,Titan,2,8,12,12/1/2011,5/3/2022,Male,Medium,Adopted
+1074, Max,3,44,10,6/1/2013,2/13/2020,Male,Medium,Adopted
+1075,River,3,44,9,9/1/2014,9/8/2017,Female,High,Not Adopted
+1076, Cloud,2,14,6,6/1/2017,12/29/2021,Female,Medium,Not Adopted
+1077, Toby,2,24,10,8/1/2013,3/26/2021,Male,High,Adopted
+1078,Tink,3,43,12,7/1/2011,4/14/2021,Female,Low,Not Adopted
+1079, Precious,2,15,13,5/1/2010,3/22/2019,Female,High,Adopted
+1080, Icarus,7,61,13,10/1/2010,8/15/2021,Male,Low,Adopted
+1081,Jacques,7,60,3,7/1/2020,9/3/2023,Male,Medium,Adopted
+1082,Skittles,2,14,2,1/1/2021,1/1/2021,Male,Medium,Adopted
+1083, Fiddlesticks,3,26,15,4/1/2008,11/13/2017,Female,Medium,Not Adopted
+1084,Patti,1,5,1,5/1/2022,6/1/2022,Female,Low,Adopted
+1085,Kimber,8,66,29,9/1/1994,11/9/2023,Female,Low,Not Adopted
+1086,Brutus,3,26,5,1/1/2018,6/19/2019,Male,Low,Adopted
+1087,0,3,26,10,8/1/2013,1/9/2019,Female,Medium,Not Adopted
+1088,Scooter,1,1,3,3/1/2020,9/1/2020,Male,Low,Not Adopted
+1089, Beetle,2,17,8,1/1/2015,5/13/2020,Male,Low,Adopted
+1090,Gretchen,3,44,1,4/1/2022,8/1/2022,Female,Low,Adopted
+1091,Aardvark,2,8,10,9/1/2013,8/12/2021,Male,High,Adopted
+1092,Richter,6,56,2,1/1/2021,7/1/2021,Male,Low,Adopted
+1093,Felix,3,40,12,9/1/2011,12/19/2023,Male,Medium,Adopted
+1094,Valor,5,50,3,10/1/2020,2/1/2021,Male,Low,Not Adopted
+1095,Olympia,2,24,11,10/1/2012,3/7/2023,Female,Low,Adopted
+1096, Thunder,11,83,43,7/1/1980,12/5/2023,Male,High,Not Adopted
+1097, Peanut,5,6,7,10/1/2016,3/15/2019,Female,High,Not Adopted
+1098,Avalon,2,10,3,9/1/2020,9/1/2020,Female,Low,Adopted
+1099, Beetle,2,17,19,12/1/2004,9/11/2020,Male,Low,Adopted
+1100, Xander,2,24,4,11/1/2019,2/1/2020,Male,Medium,Adopted
+1101, Angus,3,30,5,3/1/2018,5/26/2021,Male,Low,Adopted
+1102, Stella,5,53,1,9/1/2022,11/1/2022,Female,High,Not Adopted
+1103, Stewie,2,19,12,2/1/2011,8/24/2017,Male,High,Adopted
+1104, Maddie,3,41,1,11/1/2022,2/1/2023,Female,High,Adopted
+1105,Zari,6,55,1,4/1/2022,4/1/2022,Female,Low,Adopted
+1106, Remi,3,25,3,8/1/2020,8/13/2023,Male,Low,Adopted
+1107,Mac,3,26,1,3/1/2022,3/1/2022,Male,Medium,Adopted
+1108,Frosty,9,72,12,12/1/2011,8/30/2018,Male,Low,Adopted
+1109, Amber,11,82,19,8/1/2004,4/28/2021,Female,Low,Not Adopted
+1110, Eldon,5,50,6,11/1/2017,8/6/2023,Male,Low,Adopted
+1111,Napoleon,1,4,10,5/1/2013,8/28/2019,Male,High,Not Adopted
+1112,Drex,2,12,4,3/1/2019,6/1/2019,Male,Medium,Adopted
+1113, Funky,3,37,10,8/1/2013,6/17/2021,Male,Medium,Adopted
+1114, Digger,2,11,10,1/1/2013,4/17/2019,Male,High,Adopted
+1115,Muppet,1,2,1,5/1/2022,9/1/2022,Female,Low,Adopted
+1116,Camille,4,49,4,8/1/2019,1/1/2020,Female,Low,Not Adopted
+1117,Zico,2,7,5,11/1/2018,2/1/2019,Male,Low,Adopted
+1118,Stryker,2,19,6,6/1/2017,7/2/2019,Male,High,Adopted
+1119, Beatrice,2,20,15,3/1/2008,10/9/2023,Female,Low,Adopted
+1120,Liliana,3,34,4,3/1/2019,3/30/2019,Female,High,Not Adopted
+1121, Aurora,2,8,18,10/1/2005,2/4/2018,Female,Medium,Not Adopted
+1122,Polly,3,32,4,5/1/2019,7/24/2023,Female,Medium,Adopted
+1123, Sheldon,3,29,3,8/1/2020,9/17/2023,Male,Medium,Adopted
+1124, Chica,2,24,6,3/1/2017,4/19/2023,Female,High,Adopted
+1125,Cadence,9,73,2,4/1/2021,7/1/2021,Female,Medium,Adopted
+1126,Pocky,3,41,12,1/1/2011,4/13/2022,Female,Medium,Adopted
+1127,Blueberry,5,53,5,11/1/2018,11/20/2019,Female,Medium,Adopted
+1128,Gulliver,5,52,2,10/1/2021,11/20/2022,Male,Medium,Not Adopted
+1129,Neon,5,51,6,3/1/2017,2/2/2019,Male,Medium,Adopted
+1130,Cruz,2,15,1,6/1/2022,10/1/2022,Male,High,Not Adopted
+1131,Wendy,3,43,5,6/1/2018,6/27/2023,Female,Low,Adopted
+1132, Zara,2,17,6,5/1/2017,6/6/2022,Female,Low,Adopted
+1133,Ripley,2,10,12,12/1/2011,5/11/2021,Female,Medium,Adopted
+1134,Savage,2,9,8,9/1/2015,2/21/2018,Male,Low,Adopted
+1135, Spirit,1,4,4,1/1/2019,7/15/2023,Male,Low,Adopted
+1136,Peony,1,2,3,1/1/2020,1/1/2020,Female,Low,Adopted
+1137, Venus,10,79,4,5/1/2019,11/1/2019,Female,High,Adopted
+1138,Fernie,10,78,15,10/1/2008,7/31/2020,Female,Low,Adopted
+1139, Delilah,3,26,3,12/1/2020,3/1/2021,Female,Low,Adopted
+1140, Tulip,4,45,1,1/1/2022,1/1/2022,Female,Medium,Adopted
+1141,Betsy,1,5,1,7/1/2022,7/1/2022,Female,Medium,Not Adopted
+1142, Lincoln,1,3,1,8/1/2022,11/1/2022,Male,Low,Adopted
+1143, Pippin,3,44,14,5/1/2009,10/30/2022,Male,Low,Adopted
+1144, Snickers,3,28,13,10/1/2010,3/6/2022,Male,Medium,Not Adopted
+1145,Whiskey,6,56,2,2/1/2021,2/1/2021,Male,Medium,Adopted
+1146, Snickers,4,46,1,2/1/2022,8/1/2022,Male,Low,Not Adopted
+1147, Diego,2,15,13,9/1/2010,4/1/2021,Male,High,Adopted
+1148,Wendy,2,9,1,3/1/2022,10/5/2022,Female,Low,Adopted
+1149,Kasumi,7,64,14,8/1/2009,7/21/2019,Female,High,Adopted
+1150, Princess,4,49,5,5/1/2018,1/25/2019,Female,Low,Not Adopted
+1151, Tigerlily,5,50,1,11/1/2022,11/1/2022,Female,Low,Adopted
+1152, Jacob,3,43,3,4/1/2020,7/8/2021,Male,Low,Adopted
+1153, Maddie,3,44,5,2/1/2018,7/12/2019,Female,High,Not Adopted
+1154,Chili,3,34,4,6/1/2019,7/7/2023,Female,High,Adopted
+1155, Zippy,3,32,5,1/1/2018,11/12/2020,Male,Medium,Adopted
+1156,Napoleon,3,44,10,9/1/2013,3/16/2020,Male,Medium,Not Adopted
+1157,Blythe,3,44,1,11/1/2022,11/1/2022,Female,Low,Adopted
+1158,Nightshade,2,6,19,4/1/2004,4/17/2022,Female,High,Adopted
+1159, Chance,2,6,3,2/1/2020,2/1/2020,Male,High,Adopted
+1160, Jojo,3,44,10,5/1/2013,9/3/2022,Female,High,Not Adopted
+1161, Bridget,5,6,7,6/1/2016,10/23/2019,Female,High,Adopted
+1162, Charlie,2,19,1,12/1/2022,4/1/2023,Male,Medium,Adopted
+1163,Montego,2,11,1,2/1/2022,4/1/2022,Male,High,Adopted
+1164, Apple,2,10,18,10/1/2005,2/19/2018,Female,High,Adopted
+1165, Maple,3,30,15,3/1/2008,5/27/2020,Female,Low,Not Adopted
+1166, Rhea,2,16,18,4/1/2005,10/2/2018,Female,Medium,Adopted
+1167,Akira,2,8,16,9/1/2007,4/29/2020,Male,Medium,Adopted
+1168, Karma,3,40,1,5/1/2022,8/1/2022,Female,Medium,Adopted
+1169,Kaylee,3,38,3,2/1/2020,8/2/2020,Female,Low,Adopted
+1170,Gordon,2,21,5,8/1/2018,1/6/2022,Male,Medium,Adopted
+1171, Baxter,5,52,3,8/1/2020,9/9/2020,Male,Low,Not Adopted
+1172,Bandito,2,23,20,6/1/2003,8/13/2022,Male,High,Adopted
+1173, Stewie,2,23,6,7/1/2017,6/23/2023,Male,Medium,Adopted
+1174, Beatrix,2,7,2,2/1/2021,3/1/2021,Female,High,Adopted
+1175,Abe,2,7,6,12/1/2017,6/5/2022,Male,Low,Adopted
+1176,Fairy,5,6,4,2/1/2019,2/1/2019,Female,High,Not Adopted
+1177,Julian,3,40,3,9/1/2020,7/11/2021,Male,High,Adopted
+1178, George,3,35,5,9/1/2018,11/1/2018,Male,High,Adopted
+1179,Zuzu,2,7,15,10/1/2008,11/7/2019,Male,Low,Adopted
+1180, Tally,3,42,1,12/1/2022,6/1/2023,Female,Medium,Adopted
+1181, Chomp,2,19,18,7/1/2005,6/20/2018,Male,High,Adopted
+1182,Marlena,3,36,13,11/1/2010,9/5/2019,Female,Low,Not Adopted
+1183,Patti,2,14,3,12/1/2020,1/1/2021,Female,Low,Adopted
+1184, Tux,1,2,7,8/1/2016,3/8/2018,Male,Low,Not Adopted
+1185, Beryl,5,50,5,10/1/2018,12/19/2018,Female,Low,Not Adopted
+1186,Jolie,1,4,4,3/1/2019,10/22/2021,Female,Medium,Not Adopted
+1187,Croissant,7,64,3,12/1/2020,12/1/2020,Male,Medium,Adopted
+1188, Remy,6,58,1,9/1/2022,1/16/2023,Male,Medium,Adopted
+1189, Stella,1,1,3,5/1/2020,5/1/2020,Female,Medium,Not Adopted
+1190, Simba,5,50,4,5/1/2019,6/1/2019,Male,Low,Not Adopted
+1191,Aztec,3,42,3,6/1/2020,7/1/2020,Male,High,Adopted
+1192,Thrasher,2,8,11,9/1/2012,8/19/2022,Male,Medium,Adopted
+1193, Vader,6,58,2,5/1/2021,9/1/2021,Male,Medium,Adopted
+1194,Sirius,3,26,11,11/1/2012,6/24/2017,Male,Medium,Not Adopted
+1195,Nyla,5,51,6,8/1/2017,9/20/2019,Female,Low,Not Adopted
+1196, Stella,1,5,10,11/1/2013,10/8/2022,Female,Medium,Not Adopted
+1197, Eddie,2,6,10,2/1/2013,10/31/2018,Male,Medium,Adopted
+1198,Dingo,3,31,12,7/1/2011,4/19/2018,Male,Medium,Adopted
+1199, Grace,2,18,6,9/1/2017,9/15/2022,Female,Low,Adopted
+1200, Mango,4,45,5,5/1/2018,10/22/2023,Male,Medium,Not Adopted
+1201,Willoughby,7,62,3,6/1/2020,6/1/2020,Male,Low,Adopted
+1202, Scout,2,18,19,1/1/2004,5/11/2020,Female,Low,Adopted
+1203,Bandito,9,73,7,8/1/2016,10/1/2020,Male,Medium,Adopted
+1204,Anise,6,55,2,2/1/2021,6/1/2021,Female,High,Adopted
+1205, Homer,3,28,4,12/1/2019,4/17/2021,Male,Medium,Adopted
+1206,Chevy,3,41,8,11/1/2015,4/29/2018,Male,Medium,Adopted
+1207,Plato,6,55,2,2/1/2021,3/13/2021,Male,Low,Adopted
+1208,Esmeralda,3,40,9,1/1/2014,12/21/2019,Female,High,Not Adopted
+1209,Bandito,2,18,9,5/1/2014,3/17/2017,Male,Low,Adopted
+1210,Imogen,9,73,11,9/1/2012,12/26/2021,Female,Medium,Adopted
+1211, Frankie,3,31,14,7/1/2009,11/25/2020,Male,High,Adopted
+1212,T-Bone,5,52,2,2/1/2021,4/1/2021,Male,Low,Not Adopted
+1213, Wombat,6,56,2,12/1/2021,11/9/2023,Male,Medium,Adopted
+1214, Matilda,2,16,3,2/1/2020,8/28/2021,Female,Medium,Adopted
+1215,Apollo,8,67,19,9/1/2004,7/5/2023,Male,Low,Not Adopted
+1216, Nova,3,38,9,9/1/2014,9/1/2021,Female,Low,Adopted
+1217,Sassy,4,45,5,2/1/2018,8/18/2020,Female,Low,Not Adopted
+1218, Spencer,2,12,7,12/1/2016,12/25/2020,Male,Low,Adopted
+1219,Karma,10,75,8,1/1/2015,12/20/2017,Female,Medium,Adopted
+1220, Aria,9,72,3,11/1/2020,11/1/2020,Female,Low,Adopted
+1221,Marlena,1,5,5,8/1/2018,6/26/2021,Female,Low,Not Adopted
+1222,Oak,9,70,3,3/1/2020,4/1/2020,Male,Low,Adopted
+1223, Howie,3,27,5,5/1/2018,5/1/2018,Male,High,Not Adopted
+1224, Alice,5,51,3,7/1/2020,10/1/2020,Female,Medium,Adopted
+1225,Whiz,2,11,6,10/1/2017,2/4/2022,Male,Medium,Adopted
+1226, Archer,2,23,11,8/1/2012,1/31/2022,Male,Medium,Adopted
+1227,Nero,2,12,16,5/1/2007,7/20/2017,Male,Medium,Adopted
+1228, Beatrice,3,34,10,12/1/2013,5/23/2021,Female,High,Adopted
+1229, Cosmo,3,28,11,10/1/2012,12/12/2023,Male,Low,Adopted
+1230, Edward,2,21,8,4/1/2015,5/10/2017,Male,High,Adopted
+1231,Nitro,3,41,2,6/1/2021,6/1/2021,Male,Medium,Adopted
+1232,Xanadu,5,51,7,5/1/2016,1/8/2022,Female,High,Not Adopted
+1233,Pandora,3,28,12,5/1/2011,5/12/2022,Female,Low,Adopted
+1234,Curly,2,17,20,6/1/2003,2/5/2018,Male,Low,Adopted
+1235,Bijou,2,20,10,8/1/2013,12/6/2022,Female,Low,Adopted
+1236,Whiz,3,25,3,12/1/2020,3/1/2021,Female,Medium,Adopted
+1237, Atlas,11,81,41,3/1/1982,2/23/2022,Male,Low,Not Adopted
+1238,Raindrop,3,43,9,4/1/2014,9/3/2023,Female,Low,Adopted
+1239,Loki,2,6,2,2/1/2021,2/1/2021,Male,Medium,Adopted
+1240, Riley,5,53,1,3/1/2022,9/1/2022,Male,High,Not Adopted
+1241,Tails,7,60,15,6/1/2008,5/11/2023,Male,Low,Adopted
+1242,River,6,58,1,1/1/2022,5/1/2022,Female,High,Adopted
+1243,Nevaeh,2,14,15,10/1/2008,8/23/2017,Female,High,Adopted
+1244, Dawn,2,12,9,11/1/2014,9/23/2021,Female,Low,Adopted
+1245,Hammy,2,24,14,2/1/2009,6/6/2020,Male,Low,Adopted
+1246, Snoopy,2,10,8,9/1/2015,8/10/2021,Male,Medium,Adopted
+1247, Hank,3,29,3,2/1/2020,8/1/2020,Male,Medium,Adopted
+1248, Caramel,10,77,20,6/1/2003,12/10/2023,Female,Medium,Adopted
+1249, Crumb,3,30,2,2/1/2021,5/1/2021,Male,Low,Adopted
+1250,Iverson,2,17,17,12/1/2006,6/19/2022,Male,Low,Adopted
+1251,Brielle,2,13,1,4/1/2022,4/1/2022,Female,Low,Adopted
+1252,Caputcha,3,42,13,6/1/2010,3/4/2023,Male,Medium,Adopted
+1253,Viva,7,60,6,7/1/2017,7/27/2018,Female,Medium,Adopted
+1254, Spirit,3,39,15,11/1/2008,3/18/2017,Male,Medium,Adopted
+1255, Darla,3,25,2,5/1/2021,5/1/2021,Female,Medium,Adopted
+1256, Yara,6,57,1,6/1/2022,9/1/2022,Female,Medium,Adopted
+1257, Spencer,1,5,4,8/1/2019,5/25/2022,Male,Low,Not Adopted
+1258,Zuzu,2,24,2,11/1/2021,4/1/2022,Male,Medium,Adopted
+1259, Finnegan,3,42,2,11/1/2021,11/1/2021,Male,Low,Adopted
+1260, Pumpkin,2,17,8,5/1/2015,8/7/2017,Female,Low,Adopted
+1261, Caramel,2,20,19,10/1/2004,1/19/2023,Female,Low,Adopted
+1262,Starla,3,33,9,9/1/2014,7/6/2022,Female,Medium,Adopted
+1263,Gretchen,3,29,9,11/1/2014,8/8/2017,Female,Low,Not Adopted
+1264, Dewdrop,11,82,78,7/1/1945,10/12/2020,Female,Low,Not Adopted
+1265, Juno,10,77,17,9/1/2006,1/19/2020,Female,High,Adopted
+1266,Lola,2,9,5,2/1/2018,9/21/2023,Female,Low,Adopted
+1267, Tilly,3,26,10,5/1/2013,6/29/2020,Female,High,Adopted
+1268, Noodle,2,7,2,2/1/2021,10/16/2022,Female,Medium,Adopted
+1269,Lancelot,4,47,1,5/1/2022,8/19/2023,Male,Low,Adopted
+1270, Bernard,2,17,10,3/1/2013,4/1/2019,Male,Low,Adopted
+1271,Herbert,3,34,13,6/1/2010,11/11/2020,Male,Medium,Adopted
+1272, Chilli,5,6,1,1/1/2022,6/1/2022,Male,High,Adopted
+1273, Chica,2,14,3,4/1/2020,8/1/2020,Female,High,Adopted
+1274, August,1,3,10,6/1/2013,7/27/2019,Male,Low,Not Adopted
+1275,Skittles,4,45,1,1/1/2022,7/1/2022,Male,Low,Adopted
+1276, Bea,2,12,2,1/1/2021,4/1/2021,Female,Low,Adopted
+1277,Aslan,3,33,10,3/1/2013,3/13/2022,Male,Low,Adopted
+1278, Dino,3,35,13,11/1/2010,1/5/2022,Male,Low,Adopted
+1279, Nino,2,8,5,12/1/2018,7/30/2023,Male,Medium,Adopted
+1280,Champagne,9,70,2,5/1/2021,9/1/2021,Female,Low,Adopted
+1281, Eliza,2,19,2,12/1/2021,6/1/2022,Female,High,Adopted
+1282,Hendrix,2,22,12,12/1/2011,9/9/2018,Male,Low,Adopted
+1283, Yukon,2,16,3,1/1/2020,8/23/2023,Male,Medium,Adopted
+1284,Hallie,5,53,3,5/1/2020,3/1/2023,Female,Medium,Not Adopted
+1285,Hadley,6,57,1,2/1/2022,6/1/2022,Female,Medium,Adopted
+1286,Iverson,3,36,15,7/1/2008,4/25/2020,Male,High,Not Adopted
+1287, Finnegan,4,47,5,2/1/2018,7/6/2020,Male,Low,Adopted
+1288,T-Bone,4,47,1,11/1/2022,11/1/2022,Male,Low,Adopted
+1289, Bingo,4,48,5,6/1/2018,6/21/2019,Male,Medium,Adopted
+1290, Hope,2,15,1,11/1/2022,11/1/2022,Female,Medium,Adopted
+1291, Fox,1,5,5,5/1/2018,9/9/2018,Male,High,Not Adopted
+1292,Caputcha,2,11,4,3/1/2019,3/1/2019,Male,Medium,Adopted
+1293,Trinity,5,6,2,8/1/2021,12/1/2021,Female,Medium,Not Adopted
+1294,Sierra,3,40,2,11/1/2021,1/1/2022,Female,Medium,Adopted
+1295, Dale,3,32,12,2/1/2011,6/11/2023,Male,Low,Adopted
+1296,Mac,2,9,13,4/1/2010,10/29/2017,Male,Low,Adopted
+1297,Ione,2,14,4,10/1/2019,6/16/2022,Female,Low,Adopted
+1298,Halo,3,34,9,5/1/2014,3/24/2017,Female,High,Adopted
+1299,Harpo,2,10,13,5/1/2010,4/6/2023,Male,Medium,Adopted
+1300, Archer,2,19,3,11/1/2020,11/1/2020,Male,High,Adopted
+1301,Hyacinth,3,27,6,1/1/2017,8/17/2021,Female,High,Adopted
+1302, Diego,2,16,20,9/1/2003,3/22/2023,Male,Medium,Adopted
+1303, Bingo,3,35,12,6/1/2011,9/15/2017,Male,Low,Adopted
+1304, Cosmo,3,25,11,10/1/2012,5/12/2018,Male,Low,Adopted
+1305, Amelia,6,58,1,3/1/2022,6/1/2022,Female,Medium,Adopted
+1306,Martha,5,6,2,5/1/2021,5/1/2021,Female,Medium,Not Adopted
+1307, Dawn,4,48,3,3/1/2020,3/1/2020,Female,Medium,Adopted
+1308, Zeus,7,61,1,12/1/2022,6/1/2023,Male,Low,Adopted
+1309,Ace,1,2,4,12/1/2019,12/1/2019,Male,Low,Not Adopted
+1310,Rooster,8,67,39,1/1/1984,11/14/2020,Male,Low,Not Adopted
+1311, Dash,2,24,12,10/1/2011,6/23/2023,Male,High,Adopted
+1312,Panzer,7,60,4,11/1/2019,11/1/2019,Male,Medium,Adopted
+1313,Juke,3,29,15,5/1/2008,8/6/2022,Male,Low,Adopted
+1314,Felina,2,24,4,9/1/2019,5/3/2020,Female,Medium,Adopted
+1315, Scooby,3,36,3,1/1/2020,7/1/2020,Male,Low,Not Adopted
+1316, Luna,1,1,6,4/1/2017,7/1/2020,Female,Medium,Not Adopted
+1317,Dot,2,19,11,8/1/2012,4/25/2020,Female,Medium,Adopted
+1318,Mimosa,3,29,6,2/1/2017,3/2/2023,Female,Medium,Adopted
+1319, Bandit,2,15,3,6/1/2020,6/1/2020,Male,High,Adopted
+1320,Orchid,2,24,8,1/1/2015,4/19/2019,Female,Medium,Adopted
+1321, Jax,3,43,6,6/1/2017,4/3/2023,Male,Low,Not Adopted
+1322,Sirius,3,44,4,6/1/2019,11/1/2019,Male,Medium,Not Adopted
+1323, Mia,2,24,2,4/1/2021,8/1/2021,Female,Medium,Adopted
+1324,Daisy-Mae,1,4,8,9/1/2015,5/19/2019,Female,Low,Not Adopted
+1325,Pocky,2,19,5,11/1/2018,1/15/2023,Female,High,Adopted
+1326, Enzo,3,30,14,8/1/2009,5/29/2021,Male,Low,Not Adopted
+1327,Shadowfax,2,9,1,11/1/2022,2/1/2023,Male,Low,Adopted
+1328, Crunch,2,11,11,12/1/2012,12/27/2019,Male,Medium,Not Adopted
+1329, Goose,2,12,1,6/1/2022,6/1/2022,Male,Low,Adopted
+1330, Fido,2,23,15,2/1/2008,10/16/2019,Male,Medium,Adopted
+1331, Jasper,7,61,5,6/1/2018,12/1/2018,Male,Low,Adopted
+1332, Twizzler,2,6,10,12/1/2013,4/8/2017,Female,Medium,Adopted
+1333,Ranger,3,28,6,12/1/2017,7/1/2021,Male,Low,Adopted
+1334,Coraline,2,20,6,6/1/2017,1/25/2021,Female,Low,Adopted
+1335,Felix,10,78,10,8/1/2013,10/6/2021,Male,Low,Adopted
+1336, Benji,2,16,17,3/1/2006,5/4/2023,Male,Medium,Adopted
+1337, Olive,4,47,5,5/1/2018,11/8/2020,Female,Low,Not Adopted
+1338, Nugget,5,50,4,10/1/2019,10/15/2020,Female,Low,Not Adopted
+1339, Poppy,2,16,8,6/1/2015,3/5/2023,Female,Low,Adopted
+1340,Knight,2,17,3,2/1/2020,2/1/2020,Male,Low,Adopted
+1341, Jack,3,40,6,5/1/2017,4/3/2018,Male,High,Adopted
+1342, Jacob,2,15,20,9/1/2003,11/19/2022,Male,Medium,Not Adopted
+1343, Gromit,4,49,1,11/1/2022,4/1/2023,Male,Low,Not Adopted
+1344, Bruno,2,22,7,10/1/2016,1/18/2019,Male,Low,Adopted
+1345,Samurai,3,41,2,6/1/2021,10/1/2021,Male,High,Adopted
+1346, Charley,3,38,1,5/1/2022,8/1/2022,Female,Low,Adopted
+1347,Justice,4,47,2,8/1/2021,8/1/2021,Male,Low,Adopted
+1348,Aretha,2,17,5,12/1/2018,4/22/2022,Female,Low,Adopted
+1349, Ziggy,3,36,3,1/1/2020,3/1/2020,Male,Medium,Adopted
+1350, Xander,3,33,15,11/1/2008,11/24/2023,Male,Medium,Adopted
+1351, Velvet,2,7,3,9/1/2020,1/1/2021,Female,Low,Adopted
+1352, Beryl,3,43,6,8/1/2017,3/2/2021,Female,Low,Adopted
+1353,Missy,2,16,6,7/1/2017,4/1/2018,Female,Low,Adopted
+1354, Lola,3,41,10,4/1/2013,6/7/2018,Female,High,Adopted
+1355,Nitro,2,10,5,11/1/2018,10/21/2019,Male,Low,Adopted
+1356,Yara,2,23,4,9/1/2019,9/1/2019,Female,Low,Adopted
+1357,Lucky,2,18,1,7/1/2022,7/1/2022,Male,Medium,Adopted
+1358,Precious,2,24,14,5/1/2009,3/10/2019,Female,Low,Adopted
+1359,Figaro,2,22,8,2/1/2015,12/12/2017,Male,Medium,Adopted
+1360,Bravo,2,24,16,10/1/2007,12/26/2021,Male,Low,Adopted
+1361,Valen,2,22,3,4/1/2020,10/1/2020,Male,Low,Adopted
+1362,Spunky,3,31,5,4/1/2018,4/1/2018,Female,High,Adopted
+1363,Wilfred,2,16,8,1/1/2015,8/23/2019,Male,Medium,Adopted
+1364,Cadence,3,37,13,1/1/2010,12/19/2020,Female,Medium,Adopted
+1365, Holly,3,27,9,9/1/2014,10/9/2018,Female,Medium,Not Adopted
+1366,Maximus,9,72,3,8/1/2020,12/29/2021,Male,Low,Adopted
+1367,Daisy-Mae,11,81,49,4/1/1974,1/3/2020,Female,Low,Adopted
+1368,Norm,3,43,6,12/1/2017,1/1/2018,Male,Low,Not Adopted
+1369,Weston,3,26,3,7/1/2020,11/1/2020,Male,High,Adopted
+1370, Brando,2,14,4,9/1/2019,9/1/2019,Male,Low,Adopted
+1371, Pinky,2,21,11,3/1/2012,8/3/2019,Female,Medium,Adopted
+1372, Hope,2,17,18,11/1/2005,8/28/2021,Female,Low,Adopted
+1373,Hendrix,2,11,3,10/1/2020,11/1/2020,Male,Medium,Adopted
+1374, Mack,5,6,6,6/1/2017,6/1/2017,Male,High,Not Adopted
+1375, Foxy,6,59,2,3/1/2021,5/1/2021,Female,Low,Adopted
+1376,Hickory,3,30,2,10/1/2021,10/1/2021,Male,Low,Adopted
+1377,Snickers,3,28,9,11/1/2014,4/14/2022,Female,Low,Adopted
+1378,Annika,9,71,1,5/1/2022,9/1/2022,Female,Low,Adopted
+1379,Ghost,4,45,1,11/1/2022,4/1/2023,Male,Medium,Adopted
+1380,Max,3,39,10,6/1/2013,8/25/2023,Male,Medium,Adopted
+1381, Carlotta,3,25,6,10/1/2017,6/16/2021,Female,Medium,Adopted
+1382,Limbo,11,84,7,9/1/2016,12/15/2023,Male,High,Not Adopted
+1383,Huck,9,72,5,6/1/2018,1/14/2023,Male,Low,Adopted
+1384,Whiz,3,26,6,11/1/2017,4/28/2020,Male,Medium,Adopted
+1385, Prince,3,25,3,6/1/2020,7/1/2020,Male,Low,Adopted
+1386, Nacho,10,76,6,7/1/2017,3/12/2023,Male,Medium,Adopted
+1387, Slinky,3,41,15,7/1/2008,12/20/2018,Male,High,Adopted
+1388,Indigo,3,35,5,11/1/2018,11/30/2019,Male,High,Adopted
+1389,Tracker,2,9,4,6/1/2019,7/1/2019,Male,Low,Adopted
+1390,China,2,20,19,3/1/2004,6/11/2023,Female,Low,Adopted
+1391,Xavia,1,4,6,9/1/2017,9/1/2017,Female,Medium,Not Adopted
+1392, Crumble,6,56,1,12/1/2022,2/1/2023,Male,Low,Adopted
+1393, Willa,2,24,9,9/1/2014,4/16/2022,Female,Medium,Adopted
+1394, Dandelion,2,8,11,7/1/2012,3/5/2018,Female,Low,Adopted
+1395,Xara,3,41,4,2/1/2019,2/10/2020,Female,Medium,Not Adopted
+1396, Archie,3,31,3,12/1/2020,4/1/2021,Male,Low,Not Adopted
+1397, Noodles,6,58,1,12/1/2022,12/1/2022,Male,High,Adopted
+1398,Cedar,2,8,9,1/1/2014,3/8/2019,Male,Low,Not Adopted
+1399,Pocky,7,63,2,11/1/2021,12/4/2021,Female,Low,Adopted
+1400,Jester,2,16,2,7/1/2021,10/1/2021,Male,Low,Adopted
+1401,Quill,3,40,3,11/1/2020,11/1/2020,Male,Medium,Not Adopted
+1402, Gypsy,5,51,2,12/1/2021,12/1/2021,Female,Low,Adopted
+1403,Mufasa,3,39,2,2/1/2021,5/1/2021,Male,Low,Adopted
+1404,Kimber,2,17,12,7/1/2011,5/29/2022,Female,Low,Adopted
+1405,Moss,2,13,5,7/1/2018,7/1/2018,Male,High,Adopted
+1406, Karma,11,80,11,11/1/2012,12/18/2019,Female,Low,Not Adopted
+1407,Diesel,3,25,13,12/1/2010,5/30/2017,Male,Low,Adopted
+1408, Acey,3,31,15,12/1/2008,12/31/2017,Male,Medium,Adopted
+1409,Huck,3,33,10,8/1/2013,5/31/2018,Male,Low,Adopted
+1410,Ruben,3,34,15,11/1/2008,5/20/2021,Male,Medium,Adopted
+1411,Popsicle,2,15,5,6/1/2018,8/2/2021,Female,Medium,Adopted
+1412, Owen,2,21,10,8/1/2013,7/25/2021,Male,High,Not Adopted
+1413,Milo,2,18,12,5/1/2011,6/19/2021,Male,Medium,Adopted
+1414, Ash,6,57,3,12/1/2020,12/1/2020,Male,High,Adopted
+1415,Elsie,2,17,2,3/1/2021,3/1/2021,Female,Low,Adopted
+1416,Mika,2,22,6,4/1/2017,2/24/2023,Female,High,Adopted
+1417,Huck,2,19,9,12/1/2014,9/11/2023,Male,Medium,Adopted
+1418,Champ,3,29,6,5/1/2017,9/13/2023,Male,Medium,Adopted
+1419, Kona,3,28,11,10/1/2012,5/24/2020,Female,High,Not Adopted
+1420,Valen,3,43,13,9/1/2010,1/22/2020,Male,Low,Not Adopted
+1421, Miles,1,4,6,1/1/2017,10/12/2021,Male,Low,Not Adopted
+1422,Sesame,2,19,2,3/1/2021,5/1/2021,Female,High,Adopted
+1423,Aiden,2,15,4,12/1/2019,12/1/2019,Male,Medium,Not Adopted
+1424, Icarus,1,5,5,6/1/2018,3/18/2021,Male,Medium,Not Adopted
+1425, Josie,2,24,2,4/1/2021,4/1/2021,Female,Low,Adopted
+1426, Chase,4,47,3,11/1/2020,11/1/2020,Male,Low,Adopted
+1427, Abner,3,38,5,5/1/2018,6/26/2021,Male,Low,Adopted
+1428,Elva,3,29,9,8/1/2014,8/12/2020,Female,Medium,Adopted
+1429, Fiona,3,25,1,2/1/2022,5/1/2022,Female,Medium,Adopted
+1430,Hunter,9,73,2,12/1/2021,5/1/2022,Male,Medium,Adopted
+1431, Fido,3,25,13,11/1/2010,10/10/2019,Male,High,Adopted
+1432,Kimber,1,4,3,11/1/2020,3/1/2021,Female,Low,Adopted
+1433,Rocky,7,64,6,9/1/2017,7/1/2023,Male,Low,Adopted
+1434,Loretta,6,58,1,12/1/2022,12/1/2022,Female,High,Adopted
+1435,Flora,7,64,2,4/1/2021,7/1/2021,Female,Low,Adopted
+1436,Bravo,2,15,5,10/1/2018,12/23/2018,Male,High,Adopted
+1437,Wisdom,2,13,9,8/1/2014,3/30/2019,Female,Medium,Adopted
+1438,Ace,9,72,2,3/1/2021,6/1/2021,Male,Low,Adopted
+1439,Cerise,2,14,12,4/1/2011,3/29/2023,Female,Medium,Adopted
+1440, Digger,3,35,10,8/1/2013,3/9/2023,Male,High,Adopted
+1441,Dagger,6,58,3,11/1/2020,11/1/2020,Male,Low,Adopted
+1442,Slate,2,14,9,10/1/2014,12/12/2022,Male,Medium,Adopted
+1443,Chessie,3,40,7,7/1/2016,6/25/2022,Female,High,Adopted
+1444,Sirius,2,14,6,6/1/2017,1/21/2023,Male,Low,Adopted
+1445, Leia,3,33,6,8/1/2017,4/10/2020,Female,High,Adopted
+1446,Chino,3,33,12,11/1/2011,12/1/2019,Female,Medium,Adopted
+1447,Darwin,3,40,13,3/1/2010,2/20/2022,Male,High,Adopted
+1448,Bubbles,9,70,4,10/1/2019,4/1/2020,Male,Low,Adopted
+1449,Vlad,11,83,77,5/1/1946,11/3/2018,Male,Medium,Not Adopted
+1450,Wolfgang,3,27,6,5/1/2017,2/6/2022,Male,High,Adopted
+1451,Bubbles,3,39,5,5/1/2018,6/11/2019,Female,High,Adopted
+1452, Buck,2,6,2,7/1/2021,7/1/2021,Male,Medium,Adopted
+1453,0,3,30,1,7/1/2022,11/1/2022,Female,Low,Adopted
+1454,Akira,5,52,6,5/1/2017,6/18/2021,Male,Medium,Not Adopted
+1455, Boss,3,42,11,7/1/2012,7/16/2021,Male,Medium,Adopted
+1456, Sugar,3,27,8,9/1/2015,9/5/2018,Female,Medium,Adopted
+1457,Sariah,8,69,10,6/1/2013,5/19/2018,Female,Low,Adopted
+1458,Lark,3,39,2,5/1/2021,5/1/2021,Male,Medium,Not Adopted
+1459, Fido,9,74,9,1/1/2014,1/1/2020,Male,High,Adopted
+1460,Woody,2,23,5,12/1/2018,10/26/2022,Male,Low,Adopted
+1461, Lulu,2,19,5,9/1/2018,7/27/2020,Female,High,Adopted
+1462,Tessa,3,27,4,10/1/2019,8/29/2020,Female,High,Not Adopted
+1463, Jade,2,24,12,11/1/2011,6/27/2023,Female,Low,Adopted
+1464, Foxy,4,45,1,10/1/2022,1/1/2023,Female,Low,Adopted
+1465,Emira,3,36,9,8/1/2014,10/11/2023,Female,High,Adopted
+1466, Alec,11,80,52,5/1/1971,9/30/2018,Male,High,Not Adopted
+1467, Dodge,1,1,10,12/1/2013,2/27/2022,Male,High,Adopted
+1468,Aristotle,2,14,13,2/1/2010,9/6/2023,Male,Low,Adopted
+1469,Elva,3,39,2,8/1/2021,8/1/2021,Female,Medium,Adopted
+1470,Quigley,2,15,19,4/1/2004,11/15/2021,Male,Medium,Adopted
+1471, Misty,4,46,2,2/1/2021,6/1/2021,Female,High,Not Adopted
+1472,Blueberry,2,7,11,8/1/2012,10/19/2020,Female,Low,Adopted
+1473, Chilli,2,17,18,7/1/2005,5/29/2021,Male,Low,Adopted
+1474, Hope,3,25,7,12/1/2016,3/26/2023,Female,Medium,Not Adopted
+1475,Pablo,3,25,4,8/1/2019,8/27/2023,Male,Low,Not Adopted
+1476,Butch,4,46,2,11/1/2021,3/1/2022,Male,Medium,Not Adopted
+1477,Snickers,3,27,2,1/1/2021,7/1/2021,Male,Medium,Adopted
+1478,Glisten,2,11,2,9/1/2021,9/1/2021,Female,High,Not Adopted
+1479, Brulee,3,40,11,5/1/2012,10/15/2023,Female,High,Adopted
+1480,Dingo,3,26,8,11/1/2015,8/24/2020,Male,High,Not Adopted
+1481,Aristotle,1,5,1,3/1/2022,5/1/2022,Male,High,Not Adopted
+1482, Alaska,10,79,19,1/1/2004,5/20/2020,Female,Medium,Adopted
+1483, Campbell,2,11,14,7/1/2009,2/7/2023,Male,Low,Adopted
+1484, Remi,2,15,1,2/1/2022,3/1/2022,Female,High,Adopted
+1485,Cassia,7,63,4,10/1/2019,2/1/2020,Female,Low,Adopted
+1486,0,2,9,19,3/1/2004,7/5/2017,Female,Low,Adopted
+1487,Krypton,5,6,3,12/1/2020,8/17/2023,Male,Medium,Not Adopted
+1488, Fiddlesticks,2,6,2,11/1/2021,5/1/2022,Female,High,Adopted
+1489, Tyson,5,53,2,7/1/2021,10/1/2021,Male,Low,Not Adopted
+1490, Finnegan,4,48,4,8/1/2019,11/1/2023,Male,Low,Not Adopted
+1491,Gaea,2,7,20,1/1/2003,2/27/2018,Female,Medium,Adopted
+1492, Dilly,3,39,5,12/1/2018,11/2/2022,Female,Low,Adopted
+1493, Layla,8,66,11,2/1/2012,6/16/2018,Female,Medium,Adopted
+1494, Fable,3,37,14,7/1/2009,12/19/2018,Male,Low,Not Adopted
+1495,Enid,1,3,1,7/1/2022,7/1/2022,Female,Low,Not Adopted
+1496, Gummy,3,30,9,5/1/2014,4/8/2023,Female,Low,Not Adopted
+1497, Alfalfa,3,38,15,10/1/2008,11/5/2021,Male,Low,Adopted
+1498,Pharaoh,3,31,1,10/1/2022,2/1/2023,Male,Medium,Not Adopted
+1499,Jojo,2,11,7,11/1/2016,12/31/2022,Male,Medium,Adopted
+1500,Kanye,3,34,12,2/1/2011,7/18/2018,Male,High,Adopted
+1501, Sprinkles,3,27,1,3/1/2022,3/1/2022,Female,High,Adopted
+1502,Weston,3,34,4,5/1/2019,5/1/2019,Male,High,Not Adopted
+1503,Hunter,3,29,13,6/1/2010,4/12/2018,Male,Low,Adopted
+1504,Lace,2,9,15,1/1/2008,9/5/2017,Female,Low,Adopted
+1505, Atticus,5,53,3,3/1/2020,6/1/2020,Male,Medium,Not Adopted
+1506, Romeo,5,53,3,10/1/2020,3/1/2021,Male,Low,Adopted
+1507,Mia,3,44,12,11/1/2011,1/11/2020,Female,Medium,Adopted
+1508, Greta,3,34,1,3/1/2022,3/1/2022,Female,High,Adopted
+1509,Knight,2,17,6,2/1/2017,4/5/2018,Male,Low,Adopted
+1510, Teddy,2,6,6,3/1/2017,7/19/2020,Male,High,Adopted
+1511,Dagger,2,19,1,3/1/2022,7/1/2022,Male,High,Adopted
+1512,Xerxes,3,25,14,4/1/2009,12/4/2019,Male,Low,Adopted
+1513, Hank,6,59,3,3/1/2020,7/15/2020,Male,Medium,Adopted
+1514,Zuzu,5,51,4,10/1/2019,3/1/2020,Male,Medium,Adopted
+1515, Dax,3,33,14,4/1/2009,7/24/2021,Male,High,Adopted
+1516, Chilli,3,32,5,5/1/2018,11/1/2023,Male,High,Adopted
+1517,Nene,5,6,2,6/1/2021,3/15/2023,Female,High,Not Adopted
+1518, Arnold,3,31,15,2/1/2008,3/11/2018,Male,Medium,Adopted
+1519, Funky,2,7,18,4/1/2005,8/13/2017,Male,Low,Adopted
+1520, Rocky,2,11,17,5/1/2006,3/14/2018,Male,Medium,Adopted
+1521, Gracie,10,76,11,3/1/2012,7/26/2020,Female,High,Adopted
+1522, Freya,2,17,16,8/1/2007,8/9/2020,Female,Low,Adopted
+1523, Dakota,5,50,6,6/1/2017,8/28/2022,Female,Low,Adopted
+1524,Belinda,3,39,1,9/1/2022,11/1/2022,Female,Medium,Not Adopted
+1525, Thunder,10,76,6,5/1/2017,11/7/2018,Male,High,Adopted
+1526,Lucia,5,6,5,12/1/2018,11/5/2020,Female,Medium,Adopted
+1527,Mitzi,2,11,6,11/1/2017,11/30/2019,Female,Low,Adopted
+1528, Gremlin,3,29,14,3/1/2009,1/28/2019,Male,Medium,Adopted
+1529,Meadow,3,44,3,12/1/2020,2/1/2021,Female,Low,Adopted
+1530,Sofia,2,12,5,3/1/2018,9/19/2022,Female,Medium,Adopted
+1531, Norman,3,35,13,12/1/2010,6/26/2020,Male,High,Adopted
+1532,Juke,6,59,1,12/1/2022,12/1/2022,Male,Medium,Adopted
+1533, Pluto,3,35,14,2/1/2009,6/9/2022,Male,Medium,Adopted
+1534,Alaric,5,52,4,11/1/2019,5/1/2020,Male,Medium,Adopted
+1535,Leather,5,6,7,1/1/2016,10/12/2018,Male,High,Adopted
+1536,Bumble,4,47,5,8/1/2018,8/17/2022,Male,Low,Not Adopted
+1537, Ava,3,41,15,8/1/2008,9/30/2022,Female,Low,Adopted
+1538,Trix,3,39,11,8/1/2012,12/26/2017,Female,Low,Not Adopted
+1539,Corsair,3,41,10,4/1/2013,10/20/2017,Male,Low,Adopted
+1540, Shiloh,3,26,14,2/1/2009,11/13/2019,Male,Low,Not Adopted
+1541,Weston,6,58,1,4/1/2022,4/1/2022,Male,High,Adopted
+1542,Winsome,6,55,2,6/1/2021,10/1/2021,Female,Low,Adopted
+1543,Gretchen,6,55,1,12/1/2022,12/1/2022,Female,Medium,Adopted
+1544,Viva,4,49,5,5/1/2018,6/3/2020,Female,Low,Not Adopted
+1545,Mars,2,20,9,4/1/2014,11/13/2019,Male,Low,Not Adopted
+1546, Homer,5,52,1,12/1/2022,4/1/2023,Male,Low,Adopted
+1547, Bernard,4,46,3,3/1/2020,11/20/2021,Male,High,Not Adopted
+1548, Rowdy,2,19,1,4/1/2022,10/1/2022,Male,Medium,Adopted
+1549, Archer,2,11,1,3/1/2022,3/1/2022,Male,Medium,Adopted
+1550,Yukon,3,26,1,2/1/2022,4/1/2022,Male,High,Adopted
+1551,Clive,1,5,3,10/1/2020,10/1/2020,Male,Low,Not Adopted
+1552,Nevaeh,3,39,15,5/1/2008,4/10/2022,Female,Low,Not Adopted
+1553, Duke,5,51,4,9/1/2019,3/1/2020,Male,Low,Not Adopted
+1554,Savage,3,28,8,11/1/2015,7/15/2023,Male,Medium,Adopted
+1555, Buck,2,19,3,2/1/2020,6/1/2020,Male,Medium,Adopted
+1556, Jacob,3,44,2,7/1/2021,7/1/2021,Male,Medium,Adopted
+1557,Wilder,3,28,5,1/1/2018,12/23/2022,Male,Low,Adopted
+1558, Albie,4,46,4,5/1/2019,10/18/2019,Female,Medium,Adopted
+1559,Curly,2,12,2,11/1/2021,4/1/2022,Male,High,Adopted
+1560,Corky,2,22,7,3/1/2016,11/21/2020,Male,High,Adopted
+1561,Blondie,3,27,1,5/1/2022,5/1/2022,Female,High,Not Adopted
+1562, Alfons,3,40,6,11/1/2017,11/27/2021,Male,Medium,Adopted
+1563,Attila,2,17,12,7/1/2011,1/8/2022,Male,Low,Adopted
+1564,Zico,2,23,5,3/1/2018,8/21/2023,Male,High,Not Adopted
+1565,Amethyst,2,7,1,5/1/2022,8/1/2022,Female,High,Adopted
+1566, Flicka,3,29,13,2/1/2010,11/25/2018,Female,Low,Adopted
+1567,Weston,8,68,35,5/1/1988,4/7/2021,Male,High,Adopted
+1568,Tails,2,6,2,9/1/2021,10/1/2021,Male,Medium,Adopted
+1569,Hyacinth,9,73,2,1/1/2021,1/1/2021,Female,Medium,Adopted
+1570, Scout,3,26,14,6/1/2009,1/19/2023,Male,Medium,Adopted
+1571,Patti,2,7,18,12/1/2005,10/27/2019,Female,Medium,Adopted
+1572,Buzzard,5,6,3,11/1/2020,11/1/2020,Male,High,Not Adopted
+1573,Sunshine,8,69,11,12/1/2012,6/2/2019,Female,Medium,Not Adopted
+1574,Tabasco,3,34,13,9/1/2010,4/7/2023,Male,Medium,Adopted
+1575,Yeti,5,50,4,1/1/2019,3/13/2022,Female,Low,Not Adopted
+1576,Eve,2,13,3,8/1/2020,8/1/2020,Female,Low,Adopted
+1577,Baron,5,50,4,6/1/2019,8/1/2019,Male,Low,Adopted
+1578, Ashby,2,7,19,10/1/2004,4/9/2022,Male,High,Adopted
+1579,Ivory,3,43,11,11/1/2012,1/14/2019,Male,Low,Adopted
+1580, Mack,3,32,5,9/1/2018,6/18/2019,Male,Low,Adopted
+1581,Tisha,2,20,10,10/1/2013,11/13/2017,Female,Low,Adopted
+1582, Oakley,3,36,3,3/1/2020,3/1/2020,Male,Medium,Adopted
+1583, Davy,3,33,11,9/1/2012,2/24/2019,Male,Low,Adopted
+1584,Teton,1,1,3,3/1/2020,12/3/2023,Male,Medium,Not Adopted
+1585, Thunder,5,6,5,1/1/2018,10/18/2022,Male,High,Adopted
+1586, Taffy,3,27,13,3/1/2010,3/2/2020,Female,Medium,Adopted
+1587,Aragon,2,13,12,2/1/2011,4/4/2019,Male,Medium,Adopted
+1588, Fiona,3,36,15,11/1/2008,8/11/2018,Female,High,Adopted
+1589,Betsy,3,28,14,4/1/2009,3/10/2018,Female,Medium,Adopted
+1590,Twilight,3,35,2,7/1/2021,7/15/2023,Female,High,Not Adopted
+1591,Venom,3,35,7,5/1/2016,1/24/2018,Male,Medium,Adopted
+1592,Corsair,2,14,5,7/1/2018,7/1/2018,Male,High,Adopted
+1593, Bubba,3,34,1,12/1/2022,6/1/2023,Male,High,Adopted
+1594,Avalon,6,56,1,3/1/2022,3/1/2022,Female,Medium,Adopted
+1595,Kangaroo,5,53,7,8/1/2016,3/26/2018,Male,Medium,Not Adopted
+1596,Halo,1,3,7,10/1/2016,4/11/2017,Female,Low,Not Adopted
+1597,Leroy,2,19,11,1/1/2012,5/11/2021,Male,High,Adopted
+1598,Roy,9,73,1,10/1/2022,10/1/2022,Male,Medium,Adopted
+1599,Blue,1,2,5,7/1/2018,8/31/2018,Male,Low,Not Adopted
+1600,Watson,3,33,3,1/1/2020,1/1/2020,Male,Medium,Adopted
+1601,Baron,1,3,2,7/1/2021,7/1/2021,Male,Low,Not Adopted
+1602, Gromit,8,69,19,9/1/2004,1/30/2020,Male,Low,Not Adopted
+1603,Zyrie,7,62,6,10/1/2017,11/7/2018,Female,Low,Adopted
+1604, Coconut,2,18,2,8/1/2021,10/1/2021,Female,Low,Adopted
+1605,Curly,3,33,14,8/1/2009,10/1/2018,Male,Medium,Adopted
+1606,Honeybee,2,16,8,6/1/2015,8/12/2019,Female,Medium,Adopted
+1607,Cruzito,2,23,12,2/1/2011,1/10/2020,Male,Low,Adopted
+1608,Lena,4,46,5,7/1/2018,7/26/2021,Female,Low,Adopted
+1609,Panda,4,46,3,5/1/2020,5/1/2020,Male,Medium,Not Adopted
+1610,Ninny,3,41,3,6/1/2020,11/1/2020,Female,High,Adopted
+1611, Xander,2,22,4,2/1/2019,9/13/2019,Male,Low,Adopted
+1612,Kya,3,35,14,7/1/2009,4/29/2017,Female,High,Not Adopted
+1613, Tilly,2,21,5,6/1/2018,8/17/2023,Female,Medium,Adopted
+1614,Phoebe,3,32,13,9/1/2010,8/4/2022,Female,Medium,Adopted
+1615, Ginny,2,22,3,8/1/2020,6/8/2023,Female,Low,Adopted
+1616, Wombat,3,38,9,11/1/2014,7/3/2019,Male,Low,Adopted
+1617,Sariah,2,16,11,5/1/2012,12/3/2020,Female,Medium,Adopted
+1618, Anakin,3,30,9,9/1/2014,8/30/2017,Male,Low,Adopted
+1619, Audrey,2,24,4,1/1/2019,6/25/2021,Female,Low,Adopted
+1620,Gizmo,3,26,7,8/1/2016,7/15/2021,Male,Medium,Not Adopted
+1621, Basil,4,47,5,7/1/2018,10/14/2023,Male,Low,Not Adopted
+1622, Chilli,2,6,1,7/1/2022,7/1/2022,Male,High,Adopted
+1623, Benny,2,13,8,5/1/2015,6/5/2020,Male,Low,Adopted
+1624,Odin,2,19,9,10/1/2014,1/11/2019,Male,High,Adopted
+1625,Champ,6,56,1,5/1/2022,7/1/2022,Male,Low,Adopted
+1626,Cajun,3,28,3,7/1/2020,7/1/2020,Male,Low,Adopted
+1627, Buzz,2,24,4,2/1/2019,1/3/2020,Male,Low,Not Adopted
+1628, Finn,3,37,12,11/1/2011,10/5/2022,Male,Low,Adopted
+1629, Arbor,3,33,7,12/1/2016,2/6/2022,Male,High,Adopted
+1630, Marshall,2,16,1,11/1/2022,2/1/2023,Male,Low,Not Adopted
+1631,Starfox,3,31,14,11/1/2009,9/7/2023,Male,Medium,Adopted
+1632,Blythe,3,27,14,10/1/2009,11/24/2018,Female,Medium,Adopted
+1633, Chomp,1,1,1,10/1/2022,10/1/2022,Male,Medium,Adopted
+1634, Tofu,2,10,15,9/1/2008,2/19/2022,Male,Low,Adopted
+1635,Shadow,3,26,6,12/1/2017,3/1/2018,Male,Low,Adopted
+1636,Fintan,3,37,2,7/1/2021,7/1/2021,Male,Low,Adopted
+1637, Echo,3,26,4,2/1/2019,8/4/2020,Female,Medium,Adopted
+1638,Flintstone,1,2,9,3/1/2014,12/2/2017,Male,Low,Not Adopted
+1639, Della,5,6,2,2/1/2021,5/1/2021,Female,Medium,Not Adopted
+1640,Tracker,4,46,4,10/1/2019,4/1/2020,Male,Medium,Adopted
+1641,Zephyr,2,7,17,6/1/2006,6/8/2023,Female,Low,Adopted
+1642,Dutch,3,44,2,5/1/2021,5/1/2021,Male,Low,Adopted
+1643, Jellybean,9,73,9,9/1/2014,6/30/2017,Female,Low,Adopted
+1644,Savage,2,14,1,3/1/2022,3/1/2022,Male,Low,Adopted
+1645,Cruz,3,42,5,5/1/2018,5/1/2018,Male,Low,Adopted
+1646, Chapo,3,33,15,8/1/2008,4/23/2023,Male,Medium,Not Adopted
+1647, Atreyu,2,12,6,2/1/2017,1/30/2020,Male,Low,Adopted
+1648, Bailey,2,8,6,4/1/2017,4/26/2019,Female,Low,Adopted
+1649,Tansy,3,39,6,1/1/2017,1/7/2022,Female,High,Adopted
+1650, Champ,3,32,7,8/1/2016,9/7/2023,Male,Low,Adopted
+1651, Bramble,5,50,3,1/1/2020,1/1/2020,Male,Low,Not Adopted
+1652, Goliath,3,35,8,5/1/2015,2/11/2018,Male,Medium,Adopted
+1653, Bessie,3,32,10,11/1/2013,3/18/2022,Female,Low,Not Adopted
+1654,Phoebe,3,38,13,5/1/2010,8/26/2018,Female,Low,Adopted
+1655,Sherlock,3,33,8,4/1/2015,3/26/2023,Male,Medium,Adopted
+1656, Oakley,3,33,12,3/1/2011,11/21/2020,Male,Medium,Adopted
+1657, Aida,3,35,10,6/1/2013,7/31/2023,Female,Medium,Adopted
+1658,Chevy,5,53,2,10/1/2021,2/1/2022,Male,High,Not Adopted
+1659,Yeti,4,46,5,8/1/2018,8/1/2018,Female,High,Not Adopted
+1660, Shiloh,5,51,4,5/1/2019,10/1/2019,Male,Low,Adopted
+1661,Tobias,5,50,5,10/1/2018,2/1/2021,Male,Low,Not Adopted
+1662, Arabella,2,6,2,3/1/2021,3/1/2021,Female,High,Adopted
+1663, Boots,4,45,5,4/1/2018,1/8/2022,Male,Medium,Not Adopted
+1664,Lucille,3,28,6,10/1/2017,10/1/2017,Female,Medium,Adopted
+1665,Aspen,5,6,3,11/1/2020,2/1/2021,Female,High,Not Adopted
+1666, Beatrice,1,1,1,10/1/2022,3/1/2023,Female,Medium,Adopted
+1667,Teton,7,61,1,6/1/2022,11/1/2022,Male,Low,Adopted
+1668,Tink,3,32,8,1/1/2015,8/27/2021,Female,High,Adopted
+1669,Ducky,2,21,3,2/1/2020,6/16/2021,Female,Low,Adopted
+1670, Penelope,3,41,3,2/1/2020,10/13/2022,Female,Low,Adopted
+1671,Fiona,2,20,6,1/1/2017,9/17/2022,Female,Low,Adopted
+1672,Fergus,3,31,9,12/1/2014,10/8/2017,Male,Medium,Adopted
+1673,Boomerang,3,42,11,11/1/2012,5/25/2022,Male,Low,Adopted
+1674,Hadley,2,23,2,12/1/2021,1/1/2022,Female,High,Adopted
+1675, Felicity,3,29,14,6/1/2009,1/23/2023,Female,Low,Not Adopted
+1676,Chara,3,38,4,6/1/2019,2/16/2021,Female,Low,Adopted
+1677, Flip,2,17,3,11/1/2020,11/23/2023,Male,Low,Adopted
+1678, Remi,2,7,3,1/1/2020,7/23/2023,Male,Low,Adopted
+1679, Abbie,3,43,5,5/1/2018,1/6/2021,Female,Low,Adopted
+1680, Dolly,3,37,9,5/1/2014,11/15/2019,Female,Medium,Adopted
+1681,Shadowfax,11,81,18,2/1/2005,8/28/2020,Male,Low,Adopted
+1682,Eloise,3,38,14,8/1/2009,12/1/2021,Female,Low,Adopted
+1683, Doug,3,26,10,12/1/2013,9/13/2022,Male,Low,Adopted
+1684, Casey,3,42,5,1/1/2018,12/27/2020,Male,Medium,Adopted
+1685, Nimbus,4,49,2,5/1/2021,8/1/2021,Male,Medium,Not Adopted
+1686, Betty,2,15,2,7/1/2021,7/1/2021,Female,High,Adopted
+1687, Ace,3,26,8,6/1/2015,3/10/2020,Male,Medium,Adopted
+1688, Davy,5,51,2,2/1/2021,7/1/2021,Male,High,Not Adopted
+1689, Buddy,2,22,13,8/1/2010,7/4/2020,Male,High,Adopted
+1690,Foxy,3,26,13,8/1/2010,10/17/2020,Female,Medium,Adopted
+1691, Gabi,2,12,19,5/1/2004,5/25/2023,Female,Medium,Adopted
+1692, Lacy,8,69,19,9/1/2004,1/9/2018,Female,High,Not Adopted
+1693, Rain,6,56,1,6/1/2022,12/1/2022,Female,Low,Adopted
+1694,Zara,3,26,1,1/1/2022,1/1/2022,Female,Medium,Adopted
+1695, Brookie,3,32,1,5/1/2022,8/1/2022,Female,Low,Adopted
+1696,Dahlia,2,20,7,5/1/2016,3/30/2023,Female,Low,Adopted
+1697, Flint,6,55,1,3/1/2022,5/1/2022,Male,Medium,Adopted
+1698, Buck,3,33,1,2/1/2022,4/1/2022,Male,Low,Adopted
+1699, Cosmo,2,24,6,11/1/2017,12/1/2017,Male,Medium,Adopted
+1700, Slinky,3,43,7,9/1/2016,4/13/2018,Male,Low,Adopted
+1701,Maple,3,39,14,1/1/2009,12/12/2020,Male,High,Adopted
+1702, Hank,3,29,15,11/1/2008,4/20/2023,Male,Medium,Adopted
+1703,Nitro,2,7,11,5/1/2012,1/30/2019,Male,Medium,Adopted
+1704,Gimli,2,15,7,2/1/2016,8/13/2019,Male,Medium,Adopted
+1705,Fawn,3,28,4,7/1/2019,8/11/2021,Female,High,Adopted
+1706, Barley,3,41,6,8/1/2017,11/1/2017,Male,Medium,Adopted
+1707, Smokey,3,42,3,6/1/2020,5/9/2023,Male,Medium,Adopted
+1708,Nirvana,1,3,5,6/1/2018,2/5/2019,Female,Low,Not Adopted
+1709,Olive,3,33,1,7/1/2022,11/1/2022,Female,High,Adopted
+1710, Lala,7,62,15,2/1/2008,5/15/2019,Female,Low,Adopted
+1711, Nelly,3,30,3,9/1/2020,9/1/2020,Female,Low,Adopted
+1712, Summer,2,21,14,2/1/2009,4/2/2017,Female,Low,Adopted
+1713, Boots,3,33,12,5/1/2011,11/7/2018,Male,High,Adopted
+1714, Romeo,3,34,7,5/1/2016,5/11/2018,Male,High,Not Adopted
+1715,Jack,2,15,1,12/1/2022,3/1/2023,Male,Medium,Adopted
+1716, Stella,3,30,10,10/1/2013,3/4/2021,Female,Low,Adopted
+1717, Taffy,5,50,7,6/1/2016,12/13/2020,Female,Low,Not Adopted
+1718, Barley,2,9,17,5/1/2006,9/3/2017,Male,Low,Adopted
+1719,Lennon,3,39,8,11/1/2015,1/5/2021,Male,Medium,Adopted
+1720, Leia,3,38,5,9/1/2018,9/1/2018,Female,Low,Adopted
+1721,Kanye,2,12,5,1/1/2018,4/13/2023,Male,Low,Adopted
+1722,Norm,9,72,9,11/1/2014,3/29/2017,Male,Low,Adopted
+1723,Reno,3,39,12,1/1/2011,7/18/2023,Male,Low,Adopted
+1724,Arya,1,1,6,11/1/2017,8/13/2023,Female,Medium,Not Adopted
+1725,Frankie,6,57,1,4/1/2022,9/5/2023,Female,Medium,Adopted
+1726,Mabel,2,8,5,9/1/2018,12/1/2018,Female,Low,Adopted
+1727,Teton,3,41,2,5/1/2021,5/1/2021,Male,High,Adopted
+1728,Aristotle,4,45,4,12/1/2019,9/26/2022,Male,Low,Not Adopted
+1729, Yukon,3,40,2,1/1/2021,1/1/2021,Male,High,Not Adopted
+1730,Loki,2,20,13,8/1/2010,8/24/2017,Male,Low,Adopted
+1731, Phoebe,4,47,5,7/1/2018,7/1/2018,Female,Low,Not Adopted
+1732,Zico,2,17,5,2/1/2018,3/21/2021,Male,Low,Adopted
+1733,Frankie,3,40,1,5/1/2022,10/1/2022,Female,Medium,Not Adopted
+1734, Grace,3,32,2,9/1/2021,10/1/2021,Female,Low,Adopted
+1735, Boomer,3,38,6,3/1/2017,8/9/2019,Male,Low,Adopted
+1736, Maddie,2,19,3,9/1/2020,9/1/2020,Female,High,Adopted
+1737, Nibbler,4,46,2,11/1/2021,2/1/2022,Male,Low,Adopted
+1738, Ashby,1,2,7,2/1/2016,4/8/2023,Male,Low,Not Adopted
+1739,Yeti,3,43,9,5/1/2014,10/14/2021,Male,Low,Not Adopted
+1740,Clifford,6,58,1,6/1/2022,6/1/2022,Male,Low,Adopted
+1741,Vanilla,4,45,5,3/1/2018,3/1/2018,Female,Low,Not Adopted
+1742, Spike,3,44,1,2/1/2022,2/9/2023,Male,Medium,Adopted
+1743,Jinx,6,59,3,4/1/2020,4/1/2020,Male,Low,Adopted
+1744,Zigzag,2,8,2,3/1/2021,3/1/2021,Male,Medium,Adopted
+1745, Ernie,10,77,12,2/1/2011,10/17/2020,Male,Medium,Adopted
+1746,Radar,3,41,3,11/1/2020,3/1/2021,Male,Low,Adopted
+1747, Clementine,3,42,6,3/1/2017,1/26/2018,Female,Medium,Adopted
+1748,Brielle,2,6,2,8/1/2021,8/1/2021,Female,High,Adopted
+1749,Igor,6,58,3,4/1/2020,7/19/2022,Male,Low,Adopted
+1750,Zephyr,1,3,2,11/1/2021,12/1/2022,Female,Low,Adopted
+1751,Willoughby,2,20,6,10/1/2017,11/30/2023,Male,Low,Adopted
+1752,Mirage,6,59,1,2/1/2022,2/1/2022,Female,Low,Adopted
+1753,Raindrop,3,26,3,7/1/2020,7/1/2020,Female,Low,Adopted
+1754, Jinx,10,79,10,11/1/2013,11/13/2021,Female,High,Adopted
+1755, Curly,10,77,14,1/1/2009,2/8/2021,Male,Medium,Adopted
+1756,Popsicle,2,18,9,8/1/2014,5/16/2021,Female,Medium,Adopted
+1757, Marley,3,28,8,1/1/2015,12/9/2022,Male,High,Not Adopted
+1758,Lucia,1,1,10,1/1/2013,4/8/2022,Female,Low,Adopted
+1759,Pandora,9,73,6,10/1/2017,4/11/2018,Female,Low,Adopted
+1760, Guinevere,7,61,1,9/1/2022,11/1/2022,Female,Low,Adopted
+1761, Tucker,4,49,5,2/1/2018,5/28/2019,Male,Low,Adopted
+1762,Pablo,3,28,3,7/1/2020,7/1/2020,Male,Low,Adopted
+1763, Roxy,2,6,19,11/1/2004,6/30/2019,Female,Medium,Adopted
+1764, Sunny,4,48,2,9/1/2021,9/1/2021,Male,Medium,Not Adopted
+1765, Cal,1,3,1,3/1/2022,9/1/2022,Male,Low,Not Adopted
+1766,Rhubarb,3,28,5,1/1/2018,5/1/2018,Male,Medium,Adopted
+1767, Scooter,6,57,2,4/1/2021,5/1/2021,Male,Medium,Adopted
+1768,Eve,7,64,7,3/1/2016,2/27/2019,Female,Low,Adopted
+1769, Dash,3,40,5,10/1/2018,4/1/2019,Male,Medium,Adopted
+1770, Howie,10,79,7,8/1/2016,3/1/2023,Male,Medium,Adopted
+1771, Jasper,4,48,4,2/1/2019,5/1/2019,Male,Low,Adopted
+1772,Solo,3,39,1,6/1/2022,10/1/2022,Male,Medium,Adopted
+1773,Cadence,3,31,2,11/1/2021,11/1/2021,Female,Low,Adopted
+1774,Ygritte,4,45,2,1/1/2021,4/1/2021,Female,High,Adopted
+1775,Emme,3,26,11,9/1/2012,12/5/2017,Female,Low,Adopted
+1776,Scooter,2,23,11,5/1/2012,11/12/2022,Male,Medium,Adopted
+1777,Rocky,5,53,4,10/1/2019,4/1/2020,Male,Medium,Adopted
+1778, Fiddlesticks,3,37,4,1/1/2019,3/1/2019,Female,High,Adopted
+1779, Odin,2,11,13,9/1/2010,11/2/2018,Male,High,Adopted
+1780,Abe,2,11,1,11/1/2022,3/1/2023,Male,High,Adopted
+1781,Zynae,2,24,4,11/1/2019,2/1/2020,Female,Low,Adopted
+1782, Felicity,1,4,5,12/1/2018,12/1/2018,Female,High,Not Adopted
+1783, Storm,3,42,15,7/1/2008,12/24/2023,Male,High,Adopted
+1784,Kimber,2,17,16,3/1/2007,1/8/2022,Female,Low,Adopted
+1785, Fable,6,59,1,8/1/2022,11/1/2022,Female,Low,Adopted
+1786,Aslan,3,31,1,6/1/2022,9/1/2022,Male,Low,Adopted
+1787, Ollie,8,67,13,9/1/2010,4/11/2017,Male,Low,Not Adopted
+1788, Teddy,4,45,3,5/1/2020,7/1/2020,Male,Medium,Adopted
+1789,Fairy,1,4,1,3/1/2022,3/1/2022,Female,High,Adopted
+1790,Frosty,2,15,1,2/1/2022,2/1/2022,Male,Medium,Adopted
+1791, Gable,3,36,15,3/1/2008,7/19/2020,Male,Medium,Adopted
+1792, Wren,3,38,7,2/1/2016,3/2/2019,Female,Low,Adopted
+1793,Rambo,4,45,3,8/1/2020,11/1/2020,Male,Medium,Adopted
+1794,Beanie,6,56,2,9/1/2021,11/1/2021,Female,Medium,Adopted
+1795,Fiona,3,42,6,7/1/2017,8/15/2023,Female,Medium,Not Adopted
+1796,Stryker,2,17,20,9/1/2003,1/20/2020,Male,Low,Adopted
+1797,Melody,3,32,4,4/1/2019,10/7/2020,Female,Medium,Adopted
+1798,Spyro,3,29,13,7/1/2010,12/12/2017,Male,Medium,Adopted
+1799,Shay,8,69,22,6/1/2001,2/22/2022,Female,High,Adopted
+1800, Everest,3,33,13,11/1/2010,8/4/2021,Male,High,Not Adopted
+1801, Neptune,2,10,20,5/1/2003,3/14/2021,Male,Low,Adopted
+1802,Brutus,4,48,1,6/1/2022,8/1/2022,Male,Low,Adopted
+1803,Tundra,6,57,2,4/1/2021,4/1/2021,Male,High,Adopted
+1804,Joey,5,52,3,2/1/2020,8/1/2020,Female,Medium,Adopted
+1805,Napoleon,2,17,5,5/1/2018,5/10/2019,Male,Low,Adopted
+1806,Marina,3,29,3,9/1/2020,3/1/2021,Female,Medium,Not Adopted
+1807,Hanky,3,28,1,12/1/2022,1/1/2023,Male,Low,Not Adopted
+1808, Skipper,5,50,7,8/1/2016,8/11/2018,Male,Low,Not Adopted
+1809, Snickers,3,30,3,2/1/2020,8/1/2020,Male,Low,Adopted
+1810,Thistle,2,16,6,9/1/2017,1/28/2023,Female,High,Adopted
+1811,Denim,2,12,9,11/1/2014,3/14/2022,Female,Medium,Adopted
+1812, Huey,7,61,15,9/1/2008,7/12/2022,Male,Low,Adopted
+1813, Scout,1,1,1,2/1/2022,6/1/2022,Female,Medium,Adopted
+1814, Remy,2,14,3,11/1/2020,9/11/2022,Male,Medium,Adopted
+1815,Remy,3,30,4,2/1/2019,4/24/2023,Female,Low,Not Adopted
+1816, Nugget,3,30,14,6/1/2009,12/30/2017,Female,Low,Adopted
+1817, Gummy,3,28,13,10/1/2010,10/20/2019,Female,Medium,Adopted
+1818,Noelani,2,23,4,6/1/2019,3/9/2020,Female,Medium,Adopted
+1819,Ripley,8,67,16,10/1/2007,7/24/2018,Male,Low,Not Adopted
+1820, Jinx,1,3,1,4/1/2022,9/1/2022,Female,Low,Not Adopted
+1821,Fairy,3,27,7,12/1/2016,1/16/2021,Female,High,Adopted
+1822,Leviathan,9,73,1,3/1/2022,3/1/2022,Male,Low,Adopted
+1823, Twinkie,3,26,13,4/1/2010,3/16/2018,Male,Low,Adopted
+1824, Albert,2,23,4,8/1/2019,8/1/2019,Male,Low,Adopted
+1825, Lyla,2,7,6,4/1/2017,1/14/2020,Female,High,Adopted
+1826,Jigsaw,3,38,5,2/1/2018,2/1/2018,Male,Low,Adopted
+1827,Zeppelin,3,39,1,11/1/2022,11/1/2022,Male,High,Adopted
+1828, Pixie,2,13,6,2/1/2017,8/25/2019,Female,Medium,Adopted
+1829, Dolly,3,25,2,9/1/2021,4/27/2022,Female,Medium,Adopted
+1830, Bruce,3,38,12,2/1/2011,8/18/2023,Male,Low,Adopted
+1831,Sprite,2,15,18,11/1/2005,4/1/2017,Male,High,Adopted
+1832,Kenya,3,29,2,3/1/2021,7/1/2021,Female,Medium,Adopted
+1833,Kona,3,43,11,4/1/2012,1/2/2018,Female,Low,Adopted
+1834, Scout,3,35,10,9/1/2013,8/11/2022,Male,Medium,Not Adopted
+1835, Isla,3,35,6,11/1/2017,3/18/2020,Female,High,Not Adopted
+1836, Arbor,1,1,3,9/1/2020,9/1/2020,Male,Medium,Not Adopted
+1837,Lilac,6,57,2,10/1/2021,12/1/2021,Female,Medium,Adopted
+1838, Kip,2,16,1,1/1/2022,1/1/2022,Male,Low,Adopted
+1839,Smokey,3,40,8,10/1/2015,10/2/2019,Male,Medium,Adopted
+1840, Leona,2,18,9,9/1/2014,8/1/2018,Female,Low,Adopted
+1841,Mason,2,16,1,1/1/2022,1/1/2022,Male,Medium,Adopted
+1842,Lotus,7,62,3,10/1/2020,10/1/2020,Female,Low,Adopted
+1843,Ember,2,12,6,9/1/2017,4/13/2018,Male,Low,Adopted
+1844,Doc,3,38,1,8/1/2022,2/1/2023,Male,Low,Adopted
+1845, Bianca,3,43,7,4/1/2016,9/3/2018,Female,Low,Adopted
+1846, Tigerlily,3,37,10,9/1/2013,8/27/2023,Female,Medium,Adopted
+1847, Ginger,7,61,7,1/1/2016,7/16/2023,Female,Low,Adopted
+1848, Floyd,7,62,5,9/1/2018,12/28/2019,Male,Low,Adopted
+1849, Scooby,2,11,6,5/1/2017,2/10/2020,Male,Low,Adopted
+1850, Tansy,7,63,3,8/1/2020,8/1/2020,Female,Low,Adopted
+1851,Stella Luna,3,39,2,9/1/2021,2/1/2022,Female,Medium,Adopted
+1852,Thistle,5,6,4,11/1/2019,12/20/2022,Male,Medium,Not Adopted
+1853, Flicka,1,4,2,5/1/2021,8/1/2021,Female,Low,Not Adopted
+1854,Alexandria,3,29,14,11/1/2009,10/4/2018,Female,Medium,Adopted
+1855,Landon,1,3,4,11/1/2019,1/1/2020,Male,Low,Not Adopted
+1856, Pippin,3,31,10,8/1/2013,12/3/2017,Male,Low,Not Adopted
+1857,Augustus,3,34,7,7/1/2016,4/17/2020,Male,Medium,Adopted
+1858,Clementina,4,45,5,6/1/2018,12/6/2018,Female,Low,Adopted
+1859,Slate,6,56,3,10/1/2020,2/1/2021,Male,High,Adopted
+1860,Ranger,2,16,15,7/1/2008,4/24/2020,Male,Low,Adopted
+1861,Cleo,3,32,5,11/1/2018,1/5/2020,Female,Low,Adopted
+1862, Ringo,3,25,15,1/1/2008,2/20/2019,Male,Medium,Adopted
+1863, Huey,2,11,5,7/1/2018,2/3/2019,Male,Low,Adopted
+1864, Mabel,6,58,2,6/1/2021,12/1/2021,Female,Low,Adopted
+1865, Doug,2,18,17,8/1/2006,6/23/2019,Male,Medium,Adopted
+1866, Gummy,3,33,6,8/1/2017,6/10/2021,Female,High,Not Adopted
+1867,Orion,3,32,10,11/1/2013,11/28/2018,Male,Low,Not Adopted
+1868, Teddy,2,14,9,4/1/2014,4/16/2020,Male,Low,Adopted
+1869, Hope,2,9,6,12/1/2017,12/1/2017,Female,Low,Adopted
+1870,Estrella,1,5,4,3/1/2019,3/1/2019,Female,Low,Adopted
+1871, Autumn,3,37,4,7/1/2019,1/2/2023,Female,Low,Adopted
+1872, Coconut,4,45,2,3/1/2021,3/1/2021,Female,High,Not Adopted
+1873,Cedar,8,65,6,5/1/2017,7/25/2023,Male,Low,Not Adopted
+1874,Lucky,3,26,14,12/1/2009,9/30/2022,Male,Low,Adopted
+1875, Betty,2,9,2,3/1/2021,3/1/2021,Female,Low,Adopted
+1876,Roswell,9,71,5,8/1/2018,12/14/2019,Male,Low,Adopted
+1877,Umbra,6,55,2,12/1/2021,4/1/2022,Female,Medium,Adopted
+1878, Boris,2,24,12,4/1/2011,10/15/2023,Male,Medium,Adopted
+1879,Enzo,2,11,6,4/1/2017,1/6/2022,Male,Medium,Adopted
+1880,Arya,2,7,17,9/1/2006,6/16/2022,Female,Low,Adopted
+1881,Amos,3,34,15,4/1/2008,3/31/2022,Male,Medium,Not Adopted
+1882,Amos,2,24,20,8/1/2003,7/28/2022,Male,High,Not Adopted
+1883, Taz,2,23,10,6/1/2013,7/14/2018,Male,Medium,Adopted
+1884,Caesar,3,28,4,11/1/2019,3/22/2022,Male,Medium,Adopted
+1885,Elodie,8,65,11,10/1/2012,11/1/2019,Female,Low,Adopted
+1886,Papaya,2,16,3,5/1/2020,8/19/2023,Female,Low,Adopted
+1887,Carmel,6,59,3,5/1/2020,8/22/2020,Female,High,Adopted
+1888, Isabeau,3,43,9,8/1/2014,7/12/2021,Female,Low,Adopted
+1889, Xena,1,4,7,3/1/2016,7/24/2023,Female,Medium,Not Adopted
+1890, Bunny,3,35,4,3/1/2019,3/1/2019,Female,High,Adopted
+1891,Hanky,6,56,1,7/1/2022,9/1/2022,Male,Medium,Adopted
+1892, Wombat,3,36,6,1/1/2017,1/22/2018,Male,Low,Adopted
+1893,Daria,6,59,3,3/1/2020,8/14/2022,Female,Low,Adopted
+1894, Rocky,9,74,6,4/1/2017,7/10/2019,Male,Medium,Adopted
+1895, Alden,3,40,2,2/1/2021,2/1/2021,Male,Medium,Adopted
+1896,Eve,3,43,5,4/1/2018,9/27/2021,Female,Low,Adopted
+1897, Chloe,3,38,7,8/1/2016,11/26/2019,Female,Low,Not Adopted
+1898,Irving,3,35,9,12/1/2014,6/1/2017,Male,Medium,Adopted
+1899, Spencer,2,11,5,1/1/2018,4/13/2021,Male,Medium,Adopted
+1900, Prince,4,45,5,5/1/2018,1/16/2021,Male,Low,Not Adopted
+1901,Diesel,3,43,5,10/1/2018,10/1/2018,Male,Low,Adopted
+1902, Cal,5,51,3,9/1/2020,12/1/2020,Male,Low,Adopted
+1903, Pumpkin,3,37,11,8/1/2012,9/2/2018,Female,Medium,Not Adopted
+1904,Beethoven,2,10,6,11/1/2017,9/24/2022,Male,High,Adopted
+1905, Simba,3,32,10,9/1/2013,7/8/2023,Male,Low,Adopted
+1906,Jester,9,73,7,4/1/2016,6/22/2019,Male,Low,Adopted
+1907,Maggie-May,9,72,6,11/1/2017,12/22/2022,Female,Low,Adopted
+1908,Harpo,2,9,8,9/1/2015,3/17/2020,Male,Low,Adopted
+1909,Chevy,3,32,11,12/1/2012,4/25/2020,Male,High,Adopted
+1910, Ashby,2,20,19,9/1/2004,6/11/2022,Male,Low,Adopted
+1911,Quinn,3,33,5,7/1/2018,5/31/2019,Male,Low,Not Adopted
+1912, Fido,2,19,3,10/1/2020,1/2/2021,Male,Medium,Adopted
+1913,Aretha,4,48,5,11/1/2018,7/28/2022,Female,High,Not Adopted
+1914,Aardvark,2,17,15,1/1/2008,10/29/2019,Male,Low,Adopted
+1915, Elroy,3,36,1,7/1/2022,10/1/2022,Male,Low,Adopted
+1916, Chip,2,9,10,3/1/2013,6/24/2023,Male,Low,Adopted
+1917,Quinn,3,29,8,1/1/2015,7/1/2019,Male,Medium,Adopted
+1918, Ace,2,20,5,11/1/2018,2/1/2019,Male,Low,Adopted
+1919, Dale,3,42,3,11/1/2020,12/14/2021,Male,High,Adopted
+1920,Soraya,9,70,1,10/1/2022,2/1/2023,Female,Low,Adopted
+1921,Jefferson,3,28,5,7/1/2018,11/18/2018,Male,Medium,Adopted
+1922, Coral,3,40,5,10/1/2018,10/1/2018,Female,Medium,Adopted
+1923,Mojo,3,42,2,1/1/2021,1/1/2021,Male,Medium,Adopted
+1924, Maggie,3,40,3,7/1/2020,1/1/2021,Female,Medium,Adopted
+1925,Echo,3,33,5,1/1/2018,7/13/2021,Male,Low,Adopted
+1926,Hannah,5,50,3,11/1/2020,2/1/2021,Female,Low,Adopted
+1927,Cruzito,1,5,6,4/1/2017,7/4/2021,Male,Medium,Not Adopted
+1928, Emma,8,69,46,5/1/1977,2/12/2019,Female,Low,Not Adopted
+1929, Honey,2,18,19,6/1/2004,6/17/2018,Female,Medium,Adopted
+1930,Fernie,6,59,2,2/1/2021,12/16/2023,Female,Medium,Adopted
+1931,Jag,3,30,5,10/1/2018,9/13/2019,Male,Low,Not Adopted
+1932,Nala,10,78,11,10/1/2012,6/11/2022,Female,Low,Adopted
+1933,Dita,2,20,2,10/1/2021,12/11/2022,Female,Low,Not Adopted
+1934,Lorenzo,10,79,18,10/1/2005,10/23/2018,Male,Medium,Adopted
+1935, Esme,5,51,2,8/1/2021,10/1/2021,Female,Low,Adopted
+1936,Mufasa,10,77,6,2/1/2017,12/22/2020,Male,High,Adopted
+1937,Corky,2,19,2,7/1/2021,7/1/2021,Male,Medium,Adopted
+1938,Halo,7,64,4,10/1/2019,11/1/2019,Female,High,Adopted
+1939,Reeses,11,81,57,3/1/1966,10/31/2019,Male,Low,Adopted
+1940,Ginny,1,1,1,9/1/2022,1/1/2023,Female,Medium,Not Adopted
+1941,0,9,73,8,8/1/2015,2/28/2020,Female,High,Adopted
+1942,Gonzo,3,37,10,2/1/2013,10/6/2018,Male,Medium,Adopted
+1943,Sesame,3,41,11,2/1/2012,9/7/2023,Female,High,Adopted
+1944, Marbles,2,8,11,3/1/2012,11/29/2020,Male,Medium,Adopted
+1945,Domino,2,9,18,1/1/2005,1/10/2020,Male,Low,Adopted
+1946,Morty,3,29,3,1/1/2020,1/1/2020,Male,Low,Adopted
+1947, Barnaby,9,72,2,7/1/2021,5/19/2023,Male,Low,Adopted
+1948,Nina,2,15,6,4/1/2017,1/17/2020,Female,Medium,Adopted
+1949,Merlin,3,43,1,4/1/2022,11/1/2023,Male,Low,Adopted
+1950, Holly,3,34,9,1/1/2014,12/3/2020,Female,High,Not Adopted
+1951, Dakota,5,53,6,11/1/2017,1/19/2020,Female,High,Adopted
+1952, Waffles,8,67,8,4/1/2015,2/9/2021,Male,Low,Not Adopted
+1953,Hanky,4,47,5,8/1/2018,9/14/2019,Male,Low,Not Adopted
+1954, Iggy,3,32,10,10/1/2013,3/30/2020,Male,Medium,Adopted
+1955,Hero,3,26,1,3/1/2022,3/1/2022,Female,Medium,Adopted
+1956, Clyde,8,69,17,6/1/2006,4/18/2017,Male,Medium,Adopted
+1957, Maxine,3,37,6,11/1/2017,12/31/2018,Female,High,Adopted
+1958,Whitney,3,43,3,12/1/2020,5/1/2021,Female,Low,Adopted
+1959, Elroy,4,46,1,2/1/2022,8/1/2022,Male,Medium,Adopted
+1960, Apollo,4,45,4,7/1/2019,7/25/2020,Male,Medium,Adopted
+1961,Tilly,7,64,7,4/1/2016,5/28/2018,Female,Low,Adopted
+1962, Moxie,2,17,13,10/1/2010,3/13/2018,Female,Low,Adopted
+1963,Wolfgang,2,15,6,5/1/2017,9/29/2020,Male,Medium,Adopted
+1964, Bingo,3,44,4,12/1/2019,12/1/2019,Male,Low,Adopted
+1965,Pocky,3,41,5,9/1/2018,3/16/2019,Female,High,Adopted
+1966, Romeo,2,18,4,10/1/2019,10/1/2019,Male,Medium,Not Adopted
+1967,Gander,3,37,1,9/1/2022,12/1/2022,Male,Medium,Adopted
+1968, Rags,3,39,10,8/1/2013,3/24/2019,Male,Medium,Adopted
+1969, Champ,3,29,7,4/1/2016,3/4/2020,Male,Low,Adopted
+1970, Brody,3,34,14,10/1/2009,4/30/2020,Male,High,Adopted
+1971,Kuma,4,47,1,2/1/2022,2/1/2022,Male,Low,Adopted
+1972,Montego,6,57,1,2/1/2022,5/15/2022,Male,Medium,Adopted
+1973,Shay,2,6,12,6/1/2011,10/28/2021,Female,Medium,Not Adopted
+1974,Olav,3,29,8,7/1/2015,10/20/2023,Male,High,Adopted
+1975, Icarus,3,38,14,1/1/2009,9/20/2022,Male,Low,Adopted
+1976,Corsair,3,33,6,11/1/2017,10/20/2018,Male,Low,Adopted
+1977,Roswell,3,26,1,12/1/2022,4/1/2023,Male,Low,Not Adopted
+1978,Blue,6,58,2,1/1/2021,3/1/2021,Male,Medium,Adopted
+1979,Rebel,5,52,1,7/1/2022,8/1/2022,Male,Medium,Not Adopted
+1980,Alaric,10,76,18,12/1/2005,3/27/2022,Male,Medium,Adopted
+1981, Winona,5,51,7,5/1/2016,1/3/2020,Female,Medium,Not Adopted
+1982, Layla,3,33,12,7/1/2011,4/13/2020,Female,Low,Adopted
+1983,Enzo,5,50,7,6/1/2016,5/3/2017,Male,Low,Not Adopted
+1984, Elvis,3,35,1,3/1/2022,8/1/2022,Male,Medium,Adopted
+1985, Bowser,3,34,12,7/1/2011,7/9/2017,Male,High,Not Adopted
+1986, Pansy,8,67,38,2/1/1985,9/16/2018,Female,Low,Not Adopted
+1987,Flora,5,50,5,1/1/2018,1/1/2018,Female,Low,Not Adopted
+1988, Boots,2,16,4,4/1/2019,8/1/2019,Male,Medium,Adopted
+1989,Fonzi,2,11,6,5/1/2017,3/24/2023,Male,High,Adopted
+1990, Clyde,9,72,1,3/1/2022,9/1/2022,Male,Low,Adopted
+1991,Bravo,2,8,1,10/1/2022,10/1/2022,Male,Medium,Adopted
+1992, Funky,3,28,8,7/1/2015,5/29/2021,Male,Medium,Adopted
+1993, Maisie,2,22,19,9/1/2004,11/7/2022,Female,Medium,Adopted
+1994,Croissant,3,38,3,3/1/2020,5/11/2021,Male,Low,Adopted
+1995,Weston,2,21,11,3/1/2012,5/1/2019,Male,Low,Adopted
+1996, Chapo,3,25,9,8/1/2014,11/9/2018,Male,Low,Adopted
+1997, Rocket,2,12,17,3/1/2006,9/27/2020,Male,Low,Not Adopted
+1998, Boss,7,61,3,1/1/2020,3/16/2023,Male,Low,Adopted
+1999, Pilot,5,52,4,5/1/2019,8/1/2019,Male,Low,Adopted
+2000, Kip,3,29,10,1/1/2013,7/16/2022,Male,High,Adopted
